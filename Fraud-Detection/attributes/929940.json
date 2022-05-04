@@ -1,0 +1,1252 @@
+{
+    "us-gaap:stockrepurchaseprogramauthorizedamount1": {
+        "I20150122": "450000000.0",
+        "I20160426": "400000000.0",
+        "I20170608": "200000000.0",
+        "I20180418": "200000000.0",
+        "I20181206": "100000000.0",
+        "I20190417": "200000000.0",
+        "I20200722": "200000000.0",
+        "I20210614": "300000000.0"
+    },
+    "us-gaap:foreigncurrencytransactiongainlossrealized": {
+        "D20200701-20210630": "-3400000",
+        "D20190701-20200630": "900000",
+        "D20180701-20190630": "700000"
+    },
+    "us-gaap:currentstateandlocaltaxexpensebenefit": {
+        "D20200701-20210630": "2821000",
+        "D20190701-20200630": "1367000",
+        "D20180701-20190630": "3246000"
+    },
+    "us-gaap:netincomeloss": {
+        "D20200701-20210630": "319803000",
+        "D20190701-20200630": "229671000",
+        "D20180701-20190630": "261362000",
+        "D20210401-20210630": "95445000",
+        "D20210101-20210331": "62495000",
+        "D20201001-20201231": "129152000",
+        "D20200701-20200930": "32711000",
+        "D20200401-20200630": "94530000",
+        "D20200101-20200331": "41826000",
+        "D20191001-20191231": "39801000",
+        "D20190701-20190930": "53514000"
+    },
+    "us-gaap:operatingleaserightofuseasset": {
+        "I20210630": "32539000",
+        "I20200630": "34905000",
+        "I20190701": "28500000"
+    },
+    "us-gaap:employeerelatedliabilitiescurrent": {
+        "I20210630": "4353000",
+        "I20200630": "0"
+    },
+    "us-gaap:finitelivedintangibleassetsaccumulatedamortization": {
+        "I20210630": "19378000",
+        "I20200630": "13245000"
+    },
+    "dei:entityaddressaddressline1": {
+        "D20200701-20210630": "20 Crosby Drive"
+    },
+    "azpn:unrecognizedtaxbenefitscurrencytranslationadjustment": {
+        "D20200701-20210630": "-45000",
+        "D20190701-20200630": "26000",
+        "D20180701-20190630": "7000"
+    },
+    "us-gaap:increasedecreaseincontractwithcustomerasset": {
+        "D20200701-20210630": "113737000",
+        "D20190701-20200630": "28084000",
+        "D20180701-20190630": "57660000"
+    },
+    "us-gaap:equitymethodinvestmentsfairvaluedisclosure": {
+        "I20210630": "0",
+        "I20200630": ""
+    },
+    "us-gaap:additionalpaidincapitalcommonstock": {
+        "I20210630": "819642000",
+        "I20200630": "769411000"
+    },
+    "us-gaap:temporaryequitysharesoutstanding": {
+        "I20200630": "0",
+        "I20210630": "0"
+    },
+    "us-gaap:otherassetsnoncurrent": {
+        "I20210630": "3537000",
+        "I20200630": "1839000"
+    },
+    "us-gaap:deferredrentcredit": {
+        "I20190701": "6500000"
+    },
+    "azpn:accruedroyaltiesandoutsidecommissionscurrent": {
+        "I20210630": "26442000",
+        "I20200630": "27591000"
+    },
+    "us-gaap:longtermdebtmaturitiesrepaymentsofprincipalinyeartwo": {
+        "I20210630": "28000000"
+    },
+    "us-gaap:liabilityforuncertaintaxpositionscurrent": {
+        "I20210630": "2862000",
+        "I20200630": "1479000"
+    },
+    "us-gaap:deferredtaxliabilitiesgoodwillandintangibleassetsintangibleassets": {
+        "I20210630": "7795000",
+        "I20200630": "6815000"
+    },
+    "dei:documentfiscalyearfocus": {
+        "D20200701-20210630": "2021"
+    },
+    "us-gaap:sharebasedcompensationsharesauthorizedunderstockoptionplansexercisepricerangelowerrangelimit": {
+        "D20200701-20210630": "132.63"
+    },
+    "us-gaap:amortizationofintangibleassets": {
+        "D20200701-20210630": "7700000",
+        "D20190701-20200630": "6600000",
+        "D20180701-20190630": "4500000"
+    },
+    "us-gaap:stockrepurchaseprogramremainingauthorizedrepurchaseamount1": {
+        "I20210630": "0"
+    },
+    "us-gaap:antidilutivesecuritiesexcludedfromcomputationofearningspershareamount": {
+        "D20200701-20210630": "533000",
+        "D20190701-20200630": "670000",
+        "D20180701-20190630": "784000"
+    },
+    "us-gaap:operatingleaseweightedaveragediscountratepercent": {
+        "I20210630": "0.036",
+        "I20200630": "0.044"
+    },
+    "us-gaap:contractwithcustomerliabilityrevenuerecognized": {
+        "D20200701-20210630": "39800000"
+    },
+    "us-gaap:prepaidtaxes": {
+        "I20210630": "14639000",
+        "I20200630": "3962000"
+    },
+    "us-gaap:longtermdebtmaturitiesrepaymentsofprincipalinyearthree": {
+        "I20210630": "36000000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsexercisablenumber": {
+        "I20210630": "812704"
+    },
+    "us-gaap:goodwillimpairedaccumulatedimpairmentloss": {
+        "I20200630": "65569000",
+        "I20210630": "65569000",
+        "I20190630": "65569000"
+    },
+    "us-gaap:concentrationriskpercentage1": {
+        "D20200701-20210630": "0.10"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsoutstandingnumber": {
+        "I20200630": "1410139",
+        "I20210630": "1285221"
+    },
+    "us-gaap:increasedecreaseinprepaiddeferredexpenseandotherassets": {
+        "D20200701-20210630": "12842000",
+        "D20190701-20200630": "5288000",
+        "D20180701-20190630": "2411000"
+    },
+    "us-gaap:increasedecreaseinaccountsreceivable": {
+        "D20200701-20210630": "2132000",
+        "D20190701-20200630": "12875000",
+        "D20180701-20190630": "6626000"
+    },
+    "us-gaap:rightofuseassetobtainedinexchangeforoperatingleaseliability": {
+        "D20200701-20210630": "3500000",
+        "D20190701-20200630": "14013000",
+        "D20180701-20190630": "0"
+    },
+    "us-gaap:increasedecreaseindeferredrevenue": {
+        "D20200701-20210630": "16591000",
+        "D20190701-20200630": "13044000",
+        "D20180701-20190630": "17799000"
+    },
+    "us-gaap:numberofoperatingsegments": {
+        "D20200701-20210630": "2"
+    },
+    "us-gaap:earningspersharebasic": {
+        "D20200701-20210630": "4.71",
+        "D20190701-20200630": "3.38",
+        "D20180701-20190630": "3.74",
+        "D20210401-20210630": "1.40",
+        "D20210101-20210331": "0.92",
+        "D20201001-20201231": "1.91",
+        "D20200701-20200930": "0.48",
+        "D20200401-20200630": "1.40",
+        "D20200101-20200331": "0.62",
+        "D20191001-20191231": "0.58",
+        "D20190701-20190930": "0.78"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearthree": {
+        "I20210630": "7355000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseafteryearfive": {
+        "I20210630": "7469000"
+    },
+    "dei:documenttype": {
+        "D20200701-20210630": "10-K"
+    },
+    "us-gaap:longtermdebtmaturitiesrepaymentsofprincipalinnexttwelvemonths": {
+        "I20210630": "20000000"
+    },
+    "us-gaap:lessoroperatingleaseoptiontoterminate": {
+        "D20200701-20210630": "30 days"
+    },
+    "us-gaap:businesscombinationrecognizedidentifiableassetsacquiredandliabilitiesassumedintangibles": {
+        "I20201117": "877000",
+        "I20201208": "44000"
+    },
+    "us-gaap:effectofexchangerateoncashandcashequivalentscontinuingoperations": {
+        "D20200701-20210630": "838000",
+        "D20190701-20200630": "-620000",
+        "D20180701-20190630": "-360000"
+    },
+    "us-gaap:deferredtaxliabilities": {
+        "I20210630": "191239000",
+        "I20200630": "178243000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardnumberofsharesauthorized": {
+        "I20171231": "6000000",
+        "I20180726": "250000"
+    },
+    "us-gaap:othernoncashincomeexpense": {
+        "D20200701-20210630": "-921000",
+        "D20190701-20200630": "-625000",
+        "D20180701-20190630": "-429000"
+    },
+    "us-gaap:businesscombinationcontingentconsiderationarrangementsrangeofoutcomesvaluelow": {
+        "I20210630": "300000"
+    },
+    "us-gaap:capitalizedcontractcostnetnoncurrent": {
+        "I20210630": "29056000",
+        "I20200630": "28614000"
+    },
+    "us-gaap:businesscombinationconsiderationtransferred1": {
+        "D20200701-20210630": "12700000"
+    },
+    "us-gaap:provisionfordoubtfulaccounts": {
+        "D20200701-20210630": "9716000",
+        "D20190701-20200630": "5255000",
+        "D20180701-20190630": "645000"
+    },
+    "us-gaap:temporaryequityparorstatedvaluepershare": {
+        "I20200630": "0.10",
+        "I20210630": "0.10"
+    },
+    "us-gaap:longtermdebt": {
+        "I20210630": "273162000",
+        "I20200630": "292369000"
+    },
+    "us-gaap:goodwillimpairmentloss": {
+        "D20200701-20210630": "0"
+    },
+    "us-gaap:incometaxreconciliationstateandlocalincometaxes": {
+        "D20200701-20210630": "2226000",
+        "D20190701-20200630": "1225000",
+        "D20180701-20190630": "1533000"
+    },
+    "us-gaap:incometaxreconciliationrepatriationofforeignearnings": {
+        "D20200701-20210630": "8950000",
+        "D20190701-20200630": "6148000",
+        "D20180701-20190630": "7395000"
+    },
+    "azpn:allowancefordoubtfulaccountsreceivableperioddecrease": {
+        "D20200701-20210630": "7569000",
+        "D20190701-20200630": "1980000",
+        "D20180701-20190630": "975000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsincreasesresultingfromcurrentperiodtaxpositions": {
+        "D20200701-20210630": "304000",
+        "D20190701-20200630": "0",
+        "D20180701-20190630": "1789000"
+    },
+    "us-gaap:liabilitiesandstockholdersequity": {
+        "I20210630": "1454000000",
+        "I20200630": "1223306000"
+    },
+    "us-gaap:otheraccruedliabilitiescurrent": {
+        "I20210630": "9225000",
+        "I20200630": "8694000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearfive": {
+        "I20210630": "2209000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsthatwouldimpacteffectivetaxrate": {
+        "I20210630": "1900000"
+    },
+    "us-gaap:treasurystockvalueacquiredcostmethod": {
+        "D20180701-20190630": "300000000",
+        "D20190701-20200630": "150000000",
+        "D20200701-20210630": "50000000"
+    },
+    "azpn:effectiveincometaxratereconciliationglobalintangiblelowtaxedincome": {
+        "D20200701-20210630": "49000",
+        "D20190701-20200630": "404000",
+        "D20180701-20190630": "797000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyearfour": {
+        "I20210630": "7548000"
+    },
+    "us-gaap:stockissuedduringperiodvaluestockoptionsexercised": {
+        "D20180701-20190630": "27000",
+        "D20190701-20200630": "17000",
+        "D20200701-20210630": "42000"
+    },
+    "us-gaap:liabilityforuncertaintaxpositionsnoncurrent": {
+        "I20210630": "1343000",
+        "I20200630": "2027000"
+    },
+    "azpn:paymentsfordeferredbusinessacquisitioncosts": {
+        "D20200701-20210630": "1229000",
+        "D20190701-20200630": "4600000",
+        "D20180701-20190630": "1700000"
+    },
+    "us-gaap:grossprofit": {
+        "D20200701-20210630": "649225000",
+        "D20190701-20200630": "537110000",
+        "D20180701-20190630": "538866000",
+        "D20210401-20210630": "183646000",
+        "D20210101-20210331": "146671000",
+        "D20201001-20201231": "219403000",
+        "D20200701-20200930": "99505000",
+        "D20200401-20200630": "186782000",
+        "D20200101-20200331": "114883000",
+        "D20191001-20191231": "110486000",
+        "D20190701-20190930": "124959000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyeartwo": {
+        "I20210630": "8024000"
+    },
+    "us-gaap:unrecognizedtaxbenefits": {
+        "I20200630": "2106000",
+        "I20190630": "5380000",
+        "I20180630": "3931000",
+        "I20210630": "2138000"
+    },
+    "us-gaap:deferredtaxassetsgross": {
+        "I20210630": "30345000",
+        "I20200630": "25604000"
+    },
+    "azpn:acceleratedsharerepurchasesharesacquiredpercentage": {
+        "I20210701": "0.80"
+    },
+    "us-gaap:deferredincometaxassetsnet": {
+        "I20210630": "2121000",
+        "I20200630": "1735000"
+    },
+    "azpn:deferredtaxassetsintangibleassets": {
+        "I20210630": "957000",
+        "I20200630": "982000"
+    },
+    "us-gaap:longtermdebtmaturitiesrepaymentsofprincipalinyearfour": {
+        "I20210630": "212000000"
+    },
+    "us-gaap:generalandadministrativeexpense": {
+        "D20200701-20210630": "81636000",
+        "D20190701-20200630": "73035000",
+        "D20180701-20190630": "63231000"
+    },
+    "us-gaap:paymentstoacquirebusinessesnetofcashacquired": {
+        "D20200701-20210630": "16272000",
+        "D20190701-20200630": "74460000",
+        "D20180701-20190630": "6098000"
+    },
+    "azpn:deferredtaxliabilitiescontractassetsandcontractcosts": {
+        "I20210630": "182809000",
+        "I20200630": "158538000"
+    },
+    "us-gaap:numberofreportablesegments": {
+        "D20200701-20210630": "2"
+    },
+    "us-gaap:contractwithcustomerassetallowanceforcreditlosswriteoff": {
+        "D20200701-20210630": "6710000"
+    },
+    "us-gaap:accruedprofessionalfeescurrent": {
+        "I20210630": "2964000",
+        "I20200630": "2115000"
+    },
+    "us-gaap:currentfederaltaxexpensebenefit": {
+        "D20200701-20210630": "45643000",
+        "D20190701-20200630": "17048000",
+        "D20180701-20190630": "64194000"
+    },
+    "us-gaap:operatingleaseliability": {
+        "I20210630": "36450000"
+    },
+    "azpn:lineofcreditfacilitycovenantsmaximumleverageratio": {
+        "I20210630": "3.50"
+    },
+    "azpn:paymentsforsoftwaretobesold": {
+        "D20200701-20210630": "1129000",
+        "D20190701-20200630": "141000",
+        "D20180701-20190630": "1131000"
+    },
+    "us-gaap:commonstockvalue": {
+        "I20210630": "10455000",
+        "I20200630": "10399000"
+    },
+    "us-gaap:goodwillacquiredduringperiod": {
+        "D20200701-20210630": "13608000",
+        "D20190701-20200630": "62278000"
+    },
+    "us-gaap:accumulatedothercomprehensiveincomelossnetoftax": {
+        "I20210630": "9026000",
+        "I20200630": "-5288000"
+    },
+    "us-gaap:allowancefordoubtfulaccountsreceivablecurrent": {
+        "I20210630": "8771000",
+        "I20200630": "6624000",
+        "I20190630": "3349000",
+        "I20180630": "2703000"
+    },
+    "us-gaap:paymentsofdebtissuancecosts": {
+        "D20200701-20210630": "0",
+        "D20190701-20200630": "3533000",
+        "D20180701-20190630": "0"
+    },
+    "dei:documentperiodenddate": {
+        "D20200701-20210630": "2021-06-30"
+    },
+    "azpn:effectiveincometaxratereconciliationimpactoftaxaccountingmethodchange": {
+        "D20200701-20210630": "0",
+        "D20190701-20200630": "6433000",
+        "D20180701-20190630": "0"
+    },
+    "us-gaap:deferredforeignincometaxexpensebenefit": {
+        "D20200701-20210630": "-522000",
+        "D20190701-20200630": "-127000",
+        "D20180701-20190630": "-524000"
+    },
+    "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": {
+        "D20200701-20210630": "629000",
+        "D20190701-20200630": "727000",
+        "D20180701-20190630": "862000"
+    },
+    "us-gaap:costsandexpenses": {
+        "D20200701-20210630": "236751000",
+        "D20190701-20200630": "233205000",
+        "D20180701-20190630": "220764000"
+    },
+    "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": {
+        "D20200701-20210630": "94229000",
+        "D20190701-20200630": "92230000",
+        "D20180701-20190630": "83122000"
+    },
+    "us-gaap:treasurystockshares": {
+        "I20210630": "36631254",
+        "I20200630": "36270015"
+    },
+    "us-gaap:lesseeoperatingleaseliabilityundiscountedexcessamount": {
+        "I20210630": "5472000"
+    },
+    "azpn:netcontractassetsliabilities": {
+        "I20210630": "647662000",
+        "I20200630": "553392000"
+    },
+    "us-gaap:prepaidexpenseandotherassetscurrent": {
+        "I20210630": "12716000",
+        "I20200630": "10884000"
+    },
+    "us-gaap:temporaryequitycarryingamountattributabletoparent": {
+        "I20210630": "0",
+        "I20200630": "0"
+    },
+    "us-gaap:accruedliabilitiescurrent": {
+        "I20210630": "50575000",
+        "I20200630": "43556000"
+    },
+    "us-gaap:capitalizedcomputersoftwareadditions": {
+        "D20200701-20210630": "1200000",
+        "D20190701-20200630": "200000",
+        "D20180701-20190630": "1100000"
+    },
+    "azpn:deferredtaxliabilitiespropertyleaseholdimprovementsandotherbasisdifferences": {
+        "I20210630": "5122000",
+        "I20200630": "5223000"
+    },
+    "azpn:deferredtaxassetspropertyandleaseholdimprovements": {
+        "I20210630": "5202000",
+        "I20200630": "5514000"
+    },
+    "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesforeign": {
+        "D20200701-20210630": "8164000",
+        "D20190701-20200630": "5291000",
+        "D20180701-20190630": "4525000"
+    },
+    "us-gaap:operatingincomeloss": {
+        "D20200701-20210630": "358401000",
+        "D20190701-20200630": "257359000",
+        "D20180701-20190630": "281139000",
+        "D20210401-20210630": "105879000",
+        "D20210101-20210331": "68899000",
+        "D20201001-20201231": "149453000",
+        "D20200701-20200930": "34170000",
+        "D20200401-20200630": "116296000",
+        "D20200101-20200331": "44734000",
+        "D20191001-20191231": "42939000",
+        "D20190701-20190930": "53390000"
+    },
+    "us-gaap:definedcontributionplanemployerdiscretionarycontributionamount": {
+        "D20200701-20210630": "3400000",
+        "D20190701-20200630": "2800000",
+        "D20180701-20190630": "2600000"
+    },
+    "us-gaap:operatingleaseliabilitycurrent": {
+        "I20210630": "6751000",
+        "I20200630": "6824000",
+        "I20190701": "7400000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyeartwo": {
+        "I20210630": "8173000"
+    },
+    "us-gaap:sharebasedcompensation": {
+        "D20200701-20210630": "33644000",
+        "D20190701-20200630": "31548000",
+        "D20180701-20190630": "27573000"
+    },
+    "us-gaap:cashandcashequivalentsatcarryingvalue": {
+        "I20210630": "379853000",
+        "I20200630": "287796000"
+    },
+    "us-gaap:depreciation": {
+        "D20200701-20210630": "1900000",
+        "D20190701-20200630": "2400000",
+        "D20180701-20190630": "3100000"
+    },
+    "us-gaap:contractwithcustomerassetallowanceforcreditlossperiodincreasedecrease": {
+        "D20200701-20210630": "9143000"
+    },
+    "azpn:effectiveincometaxratereconciliationforeignderivedintangibleincome": {
+        "D20200701-20210630": "13805000",
+        "D20190701-20200630": "13581000",
+        "D20180701-20190630": "20326000"
+    },
+    "us-gaap:proceedsfromlinesofcredit": {
+        "D20200701-20210630": "0",
+        "D20190701-20200630": "574163000",
+        "D20180701-20190630": "50000000"
+    },
+    "us-gaap:incometaxreconciliationnondeductibleexpensesharebasedcompensationcost": {
+        "D20200701-20210630": "-2415000",
+        "D20190701-20200630": "33000",
+        "D20180701-20190630": "-3774000"
+    },
+    "us-gaap:othernonoperatingincomeexpense": {
+        "D20200701-20210630": "-3200000",
+        "D20190701-20200630": "1202000",
+        "D20180701-20190630": "664000"
+    },
+    "us-gaap:paymentstoacquirepropertyplantandequipment": {
+        "D20200701-20210630": "1237000",
+        "D20190701-20200630": "1278000",
+        "D20180701-20190630": "436000"
+    },
+    "us-gaap:deferredtaxassetsdeferredincome": {
+        "I20210630": "3876000",
+        "I20200630": "4596000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsincometaxpenaltiesaccrued": {
+        "I20210630": "100000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpensenexttwelvemonths": {
+        "I20210630": "8190000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsoutstandingintrinsicvalue": {
+        "I20200630": "49705000",
+        "I20210630": "56032000"
+    },
+    "azpn:deferredtaxassetsfederalandstatecredits": {
+        "I20210630": "6684000",
+        "I20200630": "4922000"
+    },
+    "us-gaap:stockholdersequity": {
+        "I20210630": "800757000",
+        "I20200630": "466353000",
+        "I20180630": "10313000",
+        "I20190630": "10365000"
+    },
+    "us-gaap:capitalizedsoftwaredevelopmentcostsforsoftwaresoldtocustomers": {
+        "I20210630": "1461000",
+        "I20200630": "928000"
+    },
+    "us-gaap:operatinglosscarryforwards": {
+        "I20210630": "4500000"
+    },
+    "us-gaap:commonstocksharesissued": {
+        "I20210630": "104543414",
+        "I20200630": "103988707",
+        "I20180630": "103130300",
+        "I20190630": "103642292"
+    },
+    "us-gaap:increasedecreaseinaccountspayableandaccruedliabilities": {
+        "D20200701-20210630": "-59000",
+        "D20190701-20200630": "-23360000",
+        "D20180701-20190630": "21921000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsexercisableintrinsicvalue1": {
+        "I20210630": "51793000"
+    },
+    "azpn:goodwillimpairmentnumberoftriggeringevents": {
+        "D20200701-20210630": "0",
+        "D20190701-20200630": "0"
+    },
+    "us-gaap:paymentsforrepurchaseofcommonstock": {
+        "D20200701-20210630": "45647000",
+        "D20190701-20200630": "152432000",
+        "D20180701-20190630": "299214000"
+    },
+    "us-gaap:deferredtaxassetstaxdeferredexpensereservesandaccrualsother": {
+        "I20210630": "8663000",
+        "I20200630": "7465000"
+    },
+    "us-gaap:increasedecreaseindeferredcharges": {
+        "D20200701-20210630": "438000",
+        "D20190701-20200630": "3570000",
+        "D20180701-20190630": "4482000"
+    },
+    "us-gaap:operatingleaseliabilitynoncurrent": {
+        "I20210630": "29699000",
+        "I20200630": "33088000",
+        "I20190701": "26500000"
+    },
+    "us-gaap:debtinstrumentfaceamount": {
+        "I20191223": "200000000.0",
+        "I20210630": "296000000"
+    },
+    "us-gaap:interestexpense": {
+        "D20200701-20210630": "7245000",
+        "D20190701-20200630": "11862000",
+        "D20180701-20190630": "8733000"
+    },
+    "us-gaap:debtinstrumentinterestrateeffectivepercentage": {
+        "I20210630": "0.0161"
+    },
+    "us-gaap:propertyplantandequipmentdisposals": {
+        "D20200701-20210630": "2300000",
+        "D20190701-20200630": "900000"
+    },
+    "us-gaap:businesscombinationrecognizedidentifiableassetsacquiredgoodwillandliabilitiesassumednet": {
+        "I20201117": "12666000",
+        "I20201208": "8226000"
+    },
+    "dei:cityareacode": {
+        "D20200701-20210630": "781"
+    },
+    "us-gaap:retainedearningsaccumulateddeficit": {
+        "I20210630": "1778133000",
+        "I20200630": "1458330000"
+    },
+    "us-gaap:shareprice": {
+        "I20201231": "130.25"
+    },
+    "dei:entitypublicfloat": {
+        "I20201231": "8795495299"
+    },
+    "us-gaap:assetretirementobligation": {
+        "I20210630": "900000",
+        "I20200630": "900000"
+    },
+    "us-gaap:contractwithcustomerassetaccumulatedallowanceforcreditloss": {
+        "I20200630": "2947000",
+        "I20210630": "5380000"
+    },
+    "us-gaap:definedcontributionplanemployermatchingcontributionpercentofmatch": {
+        "D20200701-20210630": "0.50"
+    },
+    "us-gaap:deferredincometaxliabilities": {
+        "I20210630": "211670000",
+        "I20200630": "197642000"
+    },
+    "us-gaap:equitymethodinvestments": {
+        "I20210630": "1800000"
+    },
+    "us-gaap:interestandotherincome": {
+        "D20200701-20210630": "36791000",
+        "D20190701-20200630": "32658000",
+        "D20180701-20190630": "28457000"
+    },
+    "us-gaap:deferredtaxliabilitiestaxdeferredincome": {
+        "I20210630": "15944000",
+        "I20200630": "27066000"
+    },
+    "us-gaap:numberofcountriesinwhichentityoperates": {
+        "I20210630": "35"
+    },
+    "us-gaap:repaymentsoflinesofcredit": {
+        "D20200701-20210630": "135182000",
+        "D20190701-20200630": "363000000",
+        "D20180701-20190630": "0"
+    },
+    "us-gaap:capitalizedcomputersoftwarenet": {
+        "I20200630": "0",
+        "I20210630": "0",
+        "I20190630": "0"
+    },
+    "us-gaap:proceedsfromstockoptionsexercised": {
+        "D20200701-20210630": "26096000",
+        "D20190701-20200630": "9004000",
+        "D20180701-20190630": "10864000"
+    },
+    "us-gaap:incometaxreconciliationotheradjustments": {
+        "D20200701-20210630": "-251000",
+        "D20190701-20200630": "656000",
+        "D20180701-20190630": "-123000"
+    },
+    "us-gaap:incometaxexpensebenefit": {
+        "D20200701-20210630": "64944000",
+        "D20190701-20200630": "49686000",
+        "D20180701-20190630": "40165000"
+    },
+    "us-gaap:stockissuedduringperiodsharesemployeestockownershipplan": {
+        "D20200701-20210630": "18508",
+        "D20190101-20190630": "19222"
+    },
+    "us-gaap:accountsreceivablenetcurrent": {
+        "I20210630": "52502000",
+        "I20200630": "56301000"
+    },
+    "us-gaap:assetscurrent": {
+        "I20210630": "768317000",
+        "I20200630": "650440000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdue": {
+        "I20210630": "41922000"
+    },
+    "us-gaap:contractwithcustomerassetnetnoncurrent": {
+        "I20210630": "407180000",
+        "I20200630": "318976000"
+    },
+    "us-gaap:incometaxreconciliationchangeindeferredtaxassetsvaluationallowance": {
+        "D20200701-20210630": "1171000",
+        "D20190701-20200630": "504000",
+        "D20180701-20190630": "-550000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsgrantsinperiod": {
+        "D20200701-20210630": "327209"
+    },
+    "dei:entityfilenumber": {
+        "D20200701-20210630": "001-34630"
+    },
+    "us-gaap:deferredfederalincometaxexpensebenefit": {
+        "D20200701-20210630": "13039000",
+        "D20190701-20200630": "28101000",
+        "D20180701-20190630": "-27267000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueafteryearfive": {
+        "I20210630": "11008000"
+    },
+    "us-gaap:businesscombinationcontingentconsiderationliabilitynoncurrent": {
+        "I20210630": "1200000",
+        "I20200630": "0"
+    },
+    "us-gaap:sellingandmarketingexpense": {
+        "D20200701-20210630": "114959000",
+        "D20190701-20200630": "114486000",
+        "D20180701-20190630": "111374000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsduenexttwelvemonths": {
+        "I20210630": "7973000"
+    },
+    "us-gaap:investmentcompanycommittedcapital": {
+        "D20200701-20210630": "5000000.0"
+    },
+    "azpn:debtinstrumentbasisspreadonvariableratemarginonvariablerate": {
+        "D20191223-20191223": "0.005"
+    },
+    "us-gaap:revenueremainingperformanceobligation": {
+        "I20210630": "39300000"
+    },
+    "us-gaap:stockissuedduringperiodvaluerestrictedstockawardnetofforfeitures": {
+        "D20180701-20190630": "25000",
+        "D20190701-20200630": "17000",
+        "D20200701-20210630": "14000"
+    },
+    "us-gaap:businesscombinationcontingentconsiderationarrangementsrangeofoutcomesvaluehigh": {
+        "I20210630": "2400000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearfour": {
+        "I20210630": "5353000"
+    },
+    "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": {
+        "D20200701-20210630": "384746000",
+        "D20190701-20200630": "279357000",
+        "D20180701-20190630": "301527000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardpurchasepriceofcommonstockpercent": {
+        "D20180726-20180726": "0.85"
+    },
+    "us-gaap:deferredtaxassetsvaluationallowance": {
+        "I20210630": "9914000",
+        "I20200630": "6205000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsinterestonincometaxesaccrued": {
+        "I20210630": "300000"
+    },
+    "dei:localphonenumber": {
+        "D20200701-20210630": "221-6400"
+    },
+    "us-gaap:othercomprehensiveincomelossnetoftaxportionattributabletoparent": {
+        "D20200701-20210630": "14314000",
+        "D20190701-20200630": "-5624000",
+        "D20180701-20190630": "-1052000"
+    },
+    "us-gaap:deferredrentcreditcurrent": {
+        "I20210630": "3642000",
+        "I20200630": "3359000"
+    },
+    "us-gaap:deferredrevenuenoncurrent": {
+        "I20210630": "11732000",
+        "I20200630": "13913000"
+    },
+    "us-gaap:assets": {
+        "I20210630": "1454000000",
+        "I20200630": "1223306000"
+    },
+    "us-gaap:otheraccruedliabilitiesnoncurrent": {
+        "I20210630": "270000",
+        "I20200630": "160000"
+    },
+    "us-gaap:paymentforcontingentconsiderationliabilityinvestingactivities": {
+        "D20200701-20210630": "1200000"
+    },
+    "us-gaap:commonstocksharesauthorized": {
+        "I20210630": "210000000",
+        "I20200630": "210000000"
+    },
+    "us-gaap:interestpaidnet": {
+        "D20200701-20210630": "6403000",
+        "D20190701-20200630": "12444000",
+        "D20180701-20190630": "8121000"
+    },
+    "us-gaap:finitelivedintangibleassetsforeigncurrencytranslationgainloss": {
+        "D20200701-20210630": "911000",
+        "D20190701-20200630": "-842000"
+    },
+    "us-gaap:netcashprovidedbyusedinoperatingactivities": {
+        "D20200701-20210630": "276134000",
+        "D20190701-20200630": "243258000",
+        "D20180701-20190630": "238313000"
+    },
+    "us-gaap:shorttermborrowings": {
+        "I20210630": "20000000",
+        "I20200630": "135163000"
+    },
+    "us-gaap:taxcreditcarryforwardamount": {
+        "I20210630": "6700000"
+    },
+    "dei:entitytaxidentificationnumber": {
+        "D20200701-20210630": "04-2739697"
+    },
+    "us-gaap:weightedaveragenumberofsharesoutstandingbasic": {
+        "D20200701-20210630": "67863000",
+        "D20190701-20200630": "68000000",
+        "D20180701-20190630": "69925000",
+        "D20210401-20210630": "68028000",
+        "D20210101-20210331": "67920000",
+        "D20201001-20201231": "67780000",
+        "D20200701-20200930": "67729000",
+        "D20200401-20200630": "67634000",
+        "D20200101-20200331": "67806000",
+        "D20191001-20191231": "68114000",
+        "D20190701-20190930": "68441000"
+    },
+    "us-gaap:earningspersharediluted": {
+        "D20200701-20210630": "4.67",
+        "D20190701-20200630": "3.34",
+        "D20180701-20190630": "3.69",
+        "D20210401-20210630": "1.39",
+        "D20210101-20210331": "0.91",
+        "D20201001-20201231": "1.89",
+        "D20200701-20200930": "0.48",
+        "D20200401-20200630": "1.39",
+        "D20200101-20200331": "0.61",
+        "D20191001-20191231": "0.58",
+        "D20190701-20190930": "0.77"
+    },
+    "us-gaap:incometaxespaidnet": {
+        "D20200701-20210630": "61410000",
+        "D20190701-20200630": "39533000",
+        "D20180701-20190630": "53153000"
+    },
+    "us-gaap:incometaxreconciliationforeignincometaxratedifferential": {
+        "D20200701-20210630": "-566000",
+        "D20190701-20200630": "404000",
+        "D20180701-20190630": "514000"
+    },
+    "us-gaap:temporaryequitysharesauthorized": {
+        "I20210630": "3636",
+        "I20200630": "3636"
+    },
+    "us-gaap:comprehensiveincomenetoftax": {
+        "D20200701-20210630": "334117000",
+        "D20190701-20200630": "224047000",
+        "D20180701-20190630": "260310000"
+    },
+    "us-gaap:costofrevenue": {
+        "D20200701-20210630": "9276000",
+        "D20190701-20200630": "7241000",
+        "D20180701-20190630": "7060000"
+    },
+    "us-gaap:netcashprovidedbyusedinfinancingactivities": {
+        "D20200701-20210630": "-165134000",
+        "D20190701-20200630": "49435000",
+        "D20180701-20190630": "-254527000"
+    },
+    "us-gaap:treasurystockvalue": {
+        "I20210630": "1816499000",
+        "I20200630": "1766499000"
+    },
+    "us-gaap:deferredincometaxliabilitiesnet": {
+        "I20210630": "193360000",
+        "I20200630": "179978000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsincometaxpenaltiesandinterestexpense": {
+        "D20200701-20210630": "100000"
+    },
+    "us-gaap:accountspayablecurrent": {
+        "I20210630": "4367000",
+        "I20200630": "3988000"
+    },
+    "azpn:accruedsharerepurchasescurrent": {
+        "I20210630": "1087000",
+        "I20200630": "318000"
+    },
+    "us-gaap:depreciationdepletionandamortization": {
+        "D20200701-20210630": "10257000",
+        "D20190701-20200630": "9550000",
+        "D20180701-20190630": "8143000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyearthree": {
+        "I20210630": "7633000"
+    },
+    "us-gaap:capitalizedcomputersoftwareaccumulatedamortization": {
+        "I20210630": "76400000",
+        "I20200630": "75700000"
+    },
+    "us-gaap:contractwithcustomerassetnet": {
+        "I20210630": "715787000",
+        "I20200630": "610473000"
+    },
+    "us-gaap:commonstocksharesoutstanding": {
+        "I20210630": "67912160",
+        "I20200630": "67718692"
+    },
+    "us-gaap:stockissuedduringperiodsharesrestrictedstockawardnetofforfeitures": {
+        "D20180701-20190630": "245978",
+        "D20190701-20200630": "173025",
+        "D20200701-20210630": "130667"
+    },
+    "us-gaap:deferredstateandlocalincometaxexpensebenefit": {
+        "D20200701-20210630": "-41000",
+        "D20190701-20200630": "500000",
+        "D20180701-20190630": "-1033000"
+    },
+    "us-gaap:sharebasedcompensationsharesauthorizedunderstockoptionplansexercisepricerangeupperrangelimit": {
+        "D20200701-20210630": "153.07"
+    },
+    "us-gaap:temporaryequitysharesissued": {
+        "I20200630": "0",
+        "I20210630": "0"
+    },
+    "us-gaap:propertyplantandequipmentnet": {
+        "I20210630": "5610000",
+        "I20200630": "5963000"
+    },
+    "us-gaap:operatingexpenses": {
+        "D20200701-20210630": "290824000",
+        "D20190701-20200630": "279751000",
+        "D20180701-20190630": "257727000"
+    },
+    "us-gaap:otherliabilitiesnoncurrent": {
+        "I20210630": "3760000",
+        "I20200630": "3107000"
+    },
+    "azpn:unrecognizedtaxbenefitsincreasesdecreasesresultingfrompriorperiodtaxpositions": {
+        "D20200701-20210630": "0",
+        "D20190701-20200630": "-2216000",
+        "D20180701-20190630": "407000"
+    },
+    "us-gaap:treasurystocksharesacquired": {
+        "D20180701-20190630": "3074127",
+        "D20190701-20200630": "1252289",
+        "D20200701-20210630": "361239"
+    },
+    "us-gaap:propertyplantandequipmentgross": {
+        "I20210630": "6250000",
+        "I20200630": "6958000"
+    },
+    "us-gaap:revenues": {
+        "D20200701-20210630": "682643000",
+        "D20190701-20200630": "566319000",
+        "D20180701-20190630": "568148000"
+    },
+    "azpn:commonstockrepurchasesincludedinaccruedexpenses": {
+        "D20200701-20210630": "4353000",
+        "D20190701-20200630": "-2432000",
+        "D20180701-20190630": "786000"
+    },
+    "dei:entitycommonstocksharesoutstanding": {
+        "I20210811": "67076892"
+    },
+    "us-gaap:goodwillgross": {
+        "I20200630": "207850000",
+        "I20210630": "221458000",
+        "I20190630": "145572000"
+    },
+    "us-gaap:allocatedsharebasedcompensationexpense": {
+        "D20200701-20210630": "600000",
+        "D20190701-20200630": "500000",
+        "D20180701-20190630": "1282000"
+    },
+    "azpn:finitelivedintangibleassetsfutureamortizationexpense": {
+        "I20210630": "44327000"
+    },
+    "us-gaap:amortizationofleasedasset": {
+        "D20200701-20210630": "8927000",
+        "D20190701-20200630": "9094000",
+        "D20180701-20190630": "0"
+    },
+    "us-gaap:accountsreceivablegrosscurrent": {
+        "I20210630": "61273000",
+        "I20200630": "62925000"
+    },
+    "azpn:termloanfacilityamountoutstanding": {
+        "I20210630": "296000000.0"
+    },
+    "us-gaap:acceleratedsharerepurchasessettlementpaymentorreceipt": {
+        "I20210701": "-150000000.0"
+    },
+    "us-gaap:cashcashequivalentsrestrictedcashandrestrictedcashequivalents": {
+        "I20200630": "287796000",
+        "I20190630": "71926000",
+        "I20180630": "96165000",
+        "I20210630": "379853000"
+    },
+    "us-gaap:contractwithcustomerassetnetcurrent": {
+        "I20210630": "308607000",
+        "I20200630": "291497000"
+    },
+    "us-gaap:commonstockparorstatedvaluepershare": {
+        "I20200630": "0.10",
+        "I20210630": "0.10"
+    },
+    "us-gaap:finitelivedintangibleassetsgross": {
+        "I20210630": "55288000",
+        "I20200630": "51269000"
+    },
+    "us-gaap:commonstockcapitalsharesreservedforfutureissuance": {
+        "I20210630": "5451500"
+    },
+    "dei:entitycentralindexkey": {
+        "D20200701-20210630": "0000929940"
+    },
+    "us-gaap:capitalizedcomputersoftwareamortization1": {
+        "D20200701-20210630": "700000",
+        "D20190701-20200630": "600000",
+        "D20180701-20190630": "500000"
+    },
+    "us-gaap:deferredrevenuecurrent": {
+        "I20210630": "56393000",
+        "I20200630": "43168000"
+    },
+    "us-gaap:cashandcashequivalentsfairvaluedisclosure": {
+        "I20210630": "1020000",
+        "I20200630": "1020000"
+    },
+    "us-gaap:stockissuedduringperiodsharesstockoptionsexercised": {
+        "D20180701-20190630": "266014",
+        "D20190701-20200630": "173390",
+        "D20200701-20210630": "424040"
+    },
+    "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": {
+        "D20200701-20210630": "68492000",
+        "D20190701-20200630": "68727000",
+        "D20180701-20190630": "70787000",
+        "D20210401-20210630": "68612000",
+        "D20210101-20210331": "68608000",
+        "D20201001-20201231": "68400000",
+        "D20200701-20200930": "68299000",
+        "D20200401-20200630": "68176000",
+        "D20200101-20200331": "68482000",
+        "D20191001-20191231": "68844000",
+        "D20190701-20190930": "69317000"
+    },
+    "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesdomestic": {
+        "D20200701-20210630": "376582000",
+        "D20190701-20200630": "274066000",
+        "D20180701-20190630": "297002000"
+    },
+    "azpn:increasedecreaseinleaseliabilities": {
+        "D20200701-20210630": "10182000",
+        "D20190701-20200630": "9508000",
+        "D20180701-20190630": "0"
+    },
+    "azpn:taxbenefitpercentrecognized": {
+        "I20210630": "0.50"
+    },
+    "us-gaap:debtinstrumentbasisspreadonvariablerate1": {
+        "D20191223-20191223": "0.005"
+    },
+    "azpn:standbylettersofcreditinconnectionwithfacilityleases": {
+        "I20210630": "2300000",
+        "I20200630": "3500000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsreductionsresultingfromlapseofapplicablestatuteoflimitations": {
+        "D20200701-20210630": "317000",
+        "D20190701-20200630": "1032000",
+        "D20180701-20190630": "740000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyearfive": {
+        "I20210630": "5314000"
+    },
+    "us-gaap:assetretirementobligationsnoncurrent": {
+        "I20210630": "947000",
+        "I20200630": "920000"
+    },
+    "us-gaap:paymentstoacquireequitymethodinvestments": {
+        "D20200701-20210630": "1143000",
+        "D20190701-20200630": "324000",
+        "D20180701-20190630": "0"
+    },
+    "us-gaap:netcashprovidedbyusedininvestingactivities": {
+        "D20200701-20210630": "-19781000",
+        "D20190701-20200630": "-76203000",
+        "D20180701-20190630": "-7665000"
+    },
+    "us-gaap:stockissuedduringperiodvalueemployeestockpurchaseplan": {
+        "D20200701-20210630": "1900000",
+        "D20190101-20190630": "1800000"
+    },
+    "us-gaap:accumulateddepreciationdepletionandamortizationpropertyplantandequipment": {
+        "I20210630": "42925000",
+        "I20200630": "42924000"
+    },
+    "us-gaap:capitalizedcomputersoftwareimpairments1": {
+        "D20190701-20200630": "0",
+        "D20200701-20210630": "0",
+        "D20180701-20190630": "0"
+    },
+    "us-gaap:debtissuancecostslineofcreditarrangementsnet": {
+        "I20210630": "2800000",
+        "I20200630": "3600000"
+    },
+    "us-gaap:liabilitiescurrent": {
+        "I20210630": "141530000",
+        "I20200630": "234498000"
+    },
+    "us-gaap:paymentsrelatedtotaxwithholdingforsharebasedcompensation": {
+        "D20200701-20210630": "9172000",
+        "D20190701-20200630": "10167000",
+        "D20180701-20190630": "14477000"
+    },
+    "us-gaap:paymentstoacquirebusinessesgross": {
+        "D20200701-20210630": "10000000.0"
+    },
+    "us-gaap:goodwillforeigncurrencytranslationgainloss": {
+        "D20190701-20200630": "-5226000",
+        "D20200701-20210630": "9189000",
+        "D20180701-20190630": "-1620000"
+    },
+    "us-gaap:revenuefromcontractwithcustomerincludingassessedtax": {
+        "D20200701-20210630": "497479000",
+        "D20190701-20200630": "388180000",
+        "D20180701-20190630": "404581000",
+        "D20210401-20210630": "197961000",
+        "D20210101-20210331": "162726000",
+        "D20201001-20201231": "233718000",
+        "D20200701-20200930": "114971000",
+        "D20200401-20200630": "201940000",
+        "D20200101-20200331": "130588000",
+        "D20191001-20191231": "126012000",
+        "D20190701-20190930": "140177000"
+    },
+    "us-gaap:definedcontributionplanemployermatchingcontributionpercent": {
+        "D20200701-20210630": "0.06"
+    },
+    "dei:entityaddresspostalzipcode": {
+        "D20200701-20210630": "01730"
+    },
+    "us-gaap:noncurrentassets": {
+        "I20210630": "89100000",
+        "I20200630": "92900000"
+    },
+    "us-gaap:advertisingexpense": {
+        "D20200701-20210630": "6200000",
+        "D20190701-20200630": "3500000",
+        "D20180701-20190630": "4400000"
+    },
+    "us-gaap:deferredtaxassetsother": {
+        "I20210630": "452000",
+        "I20200630": "925000"
+    },
+    "azpn:allowancefordoubtfulaccountsreceivableperiodincrease": {
+        "D20200701-20210630": "9716000",
+        "D20190701-20200630": "5255000",
+        "D20180701-20190630": "1621000"
+    },
+    "us-gaap:employeeservicesharebasedcompensationnonvestedawardstotalcompensationcostnotyetrecognized": {
+        "I20210630": "12900000"
+    },
+    "us-gaap:incometaxreconciliationincometaxexpensebenefitatfederalstatutoryincometaxrate": {
+        "D20200701-20210630": "80797000",
+        "D20190701-20200630": "58665000",
+        "D20180701-20190630": "63321000"
+    },
+    "azpn:commonstockheldbynonaffiliates": {
+        "I20201231": "67527795"
+    },
+    "us-gaap:deferredtaxassetsoperatinglosscarryforwardsforeign": {
+        "I20210630": "4511000",
+        "I20200630": "1200000"
+    },
+    "us-gaap:finitelivedintangibleassetsnet": {
+        "I20210630": "44327000",
+        "I20200630": "42851000"
+    },
+    "us-gaap:goodwill": {
+        "I20210630": "159852000",
+        "I20200630": "137055000",
+        "I20201117": "7356000",
+        "I20201208": "6252000",
+        "I20190630": "78383000"
+    },
+    "us-gaap:deferredrevenue": {
+        "I20210630": "68125000",
+        "I20200630": "57081000"
+    },
+    "azpn:lineofcreditfacilitycovenantsminimuminterestcoverageratio": {
+        "I20210630": "2.50"
+    },
+    "us-gaap:accruedincometaxescurrent": {
+        "I20210630": "3444000",
+        "I20200630": "1799000"
+    },
+    "us-gaap:incometaxreconciliationtaxcredits": {
+        "D20200701-20210630": "11301000",
+        "D20190701-20200630": "7969000",
+        "D20180701-20190630": "9677000"
+    },
+    "us-gaap:currentforeigntaxexpensebenefit": {
+        "D20200701-20210630": "4004000",
+        "D20190701-20200630": "2797000",
+        "D20180701-20190630": "1549000"
+    },
+    "azpn:netforeigncurrencylossgainduetorevaluation": {
+        "D20200701-20210630": "-3410000",
+        "D20190701-20200630": "945000",
+        "D20180701-20190630": "1251000"
+    },
+    "us-gaap:operatingleasecost": {
+        "D20200701-20210630": "9400000",
+        "D20190701-20200630": "9200000"
+    },
+    "us-gaap:incometaxreconciliationtaxcontingencies": {
+        "D20200701-20210630": "89000",
+        "D20190701-20200630": "-3236000",
+        "D20180701-20190630": "1055000"
+    },
+    "us-gaap:deferredincometaxexpensebenefit": {
+        "D20200701-20210630": "12255000",
+        "D20190701-20200630": "28101000",
+        "D20180701-20190630": "-27129000"
+    }
+}

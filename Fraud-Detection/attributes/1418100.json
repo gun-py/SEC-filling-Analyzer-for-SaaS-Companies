@@ -1,0 +1,1956 @@
+{
+    "avya:definedbenefitplanexpectedfuturebenefitpaymentstotal": {
+        "I20210930": "691000000"
+    },
+    "us-gaap:definedbenefitplanactuarialgainloss": {
+        "D20201001-20210930": "14000000",
+        "D20191001-20200930": "-55000000"
+    },
+    "us-gaap:currentstateandlocaltaxexpensebenefit": {
+        "D20201001-20210930": "4000000",
+        "D20191001-20200930": "10000000",
+        "D20181001-20190930": "7000000"
+    },
+    "avya:incometaxexpensebenefitinterestexpense": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "4000000"
+    },
+    "avya:deferredlossfrozentobereclassifiedtointerestexpense": {
+        "I20200923": "15000000"
+    },
+    "us-gaap:preferredstocksharesoutstanding": {
+        "I20210930": "125000",
+        "I20200930": "125000"
+    },
+    "us-gaap:derivativeassetnotsubjecttomasternettingarrangement": {
+        "I20210930": "6000000",
+        "I20200930": "1000000"
+    },
+    "us-gaap:increasedecreaseincontractwithcustomerasset": {
+        "D20201001-20210930": "240000000",
+        "D20191001-20200930": "166000000",
+        "D20181001-20190930": "122000000"
+    },
+    "us-gaap:debtinstrumentconvertibleconversionprice1": {
+        "I20210930": "27.76"
+    },
+    "us-gaap:paymentforcontingentconsiderationliabilityfinancingactivities": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "5000000",
+        "D20181001-20190930": "9000000"
+    },
+    "us-gaap:othercomprehensiveincomedefinedbenefitplansadjustmentnetoftaxportionattributabletoparent": {
+        "D20201001-20210930": "-88000000",
+        "D20191001-20200930": "2000000",
+        "D20181001-20190930": "157000000"
+    },
+    "us-gaap:dividendspreferredstock": {
+        "D20191001-20200930": "3000000",
+        "D20201001-20210930": "4000000"
+    },
+    "us-gaap:pensionandotherpostretirementdefinedbenefitplanscurrentliabilities": {
+        "I20210930": "24000000",
+        "I20200930": "25000000"
+    },
+    "avya:concentrationriskthreshold": {
+        "I20210930": "0.06",
+        "I20200930": "0.09"
+    },
+    "avya:increasedecreaseinoperatingleaserightofuseassetsandliabilities": {
+        "D20201001-20210930": "-2000000",
+        "D20191001-20200930": "13000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardnumberofsharesavailableforgrant": {
+        "I20210930": "10750733"
+    },
+    "us-gaap:longtermdebtmaturitiesrepaymentsofprincipalinyeartwo": {
+        "I20210930": "350000000"
+    },
+    "us-gaap:otherthantemporaryimpairmentlossdebtsecuritiesportionrecognizedinearnings": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "10000000",
+        "D20181001-20190930": "0"
+    },
+    "dei:documentfiscalyearfocus": {
+        "D20201001-20210930": "2021"
+    },
+    "us-gaap:valuationallowancesandreserveschargedtocostandexpense": {
+        "D20191001-20200930": "5000000",
+        "D20181001-20190930": "2000000",
+        "D20201001-20210930": "19000000"
+    },
+    "us-gaap:amortizationofintangibleassets": {
+        "D20201001-20210930": "159000000",
+        "D20191001-20200930": "161000000",
+        "D20181001-20190930": "162000000"
+    },
+    "us-gaap:stockrepurchaseprogramremainingauthorizedrepurchaseamount1": {
+        "I20210930": "132000000"
+    },
+    "us-gaap:proceedsfromissuanceofseniorlongtermdebt": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "1000000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:antidilutivesecuritiesexcludedfromcomputationofearningspershareamount": {
+        "D20201001-20210930": "2700000",
+        "D20191001-20200930": "2700000",
+        "D20181001-20190930": "2800000"
+    },
+    "us-gaap:operatingleaseweightedaveragediscountratepercent": {
+        "I20210930": "0.057",
+        "I20200930": "0.061"
+    },
+    "us-gaap:contractwithcustomerliabilityrevenuerecognized": {
+        "D20201001-20210930": "552000000",
+        "D20191001-20200930": "546000000",
+        "D20181001-20190930": "537000000"
+    },
+    "avya:proceedsfromstrategicpartnershipssharevaluereceived": {
+        "I20191003": "361000000"
+    },
+    "us-gaap:deferredtaxassetsnet": {
+        "I20210930": "144000000",
+        "I20200930": "167000000"
+    },
+    "avya:longtermdebtmaturitiesrepaymentsofprincipalinyearfiveandthereafter": {
+        "I20210930": "2543000000"
+    },
+    "us-gaap:paymentstoacquireassetsinvestingactivities": {
+        "D20201001-20210930": "7000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:definedbenefitplanamortizationofgainslosses": {
+        "D20201001-20210930": "-2000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "avya:deferredtaxassetsaccruedliabilitiesandother": {
+        "I20210930": "0",
+        "I20200930": "13000000"
+    },
+    "us-gaap:decreaseinunrecognizedtaxbenefitsisreasonablypossible": {
+        "I20210930": "3000000"
+    },
+    "us-gaap:preferredstockvalue": {
+        "I20210930": "130000000"
+    },
+    "avya:definedbenefitplanbenefitobligationincreasedecreaseforotheractivity": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "1000000"
+    },
+    "us-gaap:debtinstrumentconvertiblethresholdconsecutivetradingdays1": {
+        "D20201001-20210930": "30"
+    },
+    "us-gaap:debtinstrumentfairvalue": {
+        "I20210930": "1053000000",
+        "I20200930": "1022000000"
+    },
+    "us-gaap:accountspayablerelatedpartiescurrentandnoncurrent": {
+        "I20210930": "1000000"
+    },
+    "avya:acquisitionofequipmentunderfinanceleases": {
+        "D20201001-20210930": "19000000",
+        "D20191001-20200930": "9000000",
+        "D20181001-20190930": "3000000"
+    },
+    "avya:increasedecreaseincontractwithcustomerassetcurrent": {
+        "I20210930": "222000000"
+    },
+    "us-gaap:marketablesecuritiesgainloss": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "49000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:increasedecreaseinaccountsreceivable": {
+        "D20201001-20210930": "29000000",
+        "D20191001-20200930": "-37000000",
+        "D20181001-20190930": "-58000000"
+    },
+    "us-gaap:stockrepurchaseprogramremainingnumberofsharesauthorizedtoberepurchased": {
+        "I20210930": "4534854"
+    },
+    "us-gaap:sharespaidfortaxwithholdingforsharebasedcompensation": {
+        "D20181001-20190930": "-500000",
+        "D20191001-20200930": "-500000",
+        "D20201001-20210930": "-600000"
+    },
+    "us-gaap:debtweightedaverageinterestrate": {
+        "I20210930": "0.065",
+        "I20200930": "0.065"
+    },
+    "us-gaap:financeleaseprincipalpayments": {
+        "D20201001-20210930": "11000000",
+        "D20191001-20200930": "10000000",
+        "D20181001-20190930": "14000000"
+    },
+    "us-gaap:derivativefixedinterestrate": {
+        "I20180516": "0.02935",
+        "I20200923": "0.001745",
+        "I20200701": "0.007047"
+    },
+    "us-gaap:earningspersharebasic": {
+        "D20201001-20210930": "-0.20",
+        "D20191001-20200930": "-7.45",
+        "D20181001-20190930": "-6.06"
+    },
+    "us-gaap:interestratecashflowhedgegainlossreclassifiedtoearningsnet": {
+        "D20201001-20210930": "-51000000",
+        "D20191001-20200930": "-35000000",
+        "D20181001-20190930": "-10000000"
+    },
+    "us-gaap:subleaseincome": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "5000000",
+        "D20181001-20190930": "0"
+    },
+    "avya:debtinstrumentcovenanttermsminimumfixedchargecoverageratio": {
+        "I20210930": "1"
+    },
+    "dei:documenttype": {
+        "D20201001-20210930": "10-K"
+    },
+    "us-gaap:longtermdebtmaturitiesrepaymentsofprincipalinnexttwelvemonths": {
+        "I20210930": "0"
+    },
+    "us-gaap:unamortizeddebtissuanceexpense": {
+        "I20210930": "3000000",
+        "I20200930": "4000000"
+    },
+    "us-gaap:interestexpensedebt": {
+        "D20191001-20200930": "1000000",
+        "D20201001-20210930": "1000000",
+        "D20181001-20190930": "1000000"
+    },
+    "us-gaap:definedbenefitpensionplanliabilitiesnoncurrent": {
+        "I20210930": "648000000",
+        "I20200930": "749000000"
+    },
+    "us-gaap:definedbenefitplanassetsforplanbenefitsnoncurrent": {
+        "I20210930": "2000000",
+        "I20200930": "1000000"
+    },
+    "avya:weightedaveragenumberofsharesoutstandingbasicincludingcommonstockequivalents": {
+        "D20191001-20200930": "92200000",
+        "D20181001-20190930": "110800000"
+    },
+    "us-gaap:deferredtaxliabilities": {
+        "I20210930": "13000000",
+        "I20200930": "7000000"
+    },
+    "us-gaap:othernoncashincomeexpense": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "9000000",
+        "D20181001-20190930": "-7000000"
+    },
+    "us-gaap:derivativefairvalueofderivativeasset": {
+        "I20210930": "6000000",
+        "I20200930": "0"
+    },
+    "avya:otherincomeexpense": {
+        "D20201001-20210930": "-3000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "-1000000"
+    },
+    "us-gaap:valuationallowancesandreservesadjustments": {
+        "D20201001-20210930": "-54000000",
+        "D20191001-20200930": "67000000",
+        "D20181001-20190930": "-34000000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsvestedinperiodfairvalue1": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "2000000",
+        "D20181001-20190930": "4000000"
+    },
+    "us-gaap:restructuringreserveaccrualadjustment1": {
+        "D20181001-20190930": "0",
+        "D20191001-20200930": "0",
+        "D20201001-20210930": "0"
+    },
+    "us-gaap:longtermdebt": {
+        "I20210930": "311000000",
+        "I20200930": "291000000"
+    },
+    "us-gaap:goodwillimpairmentloss": {
+        "D20191001-20200930": "624000000",
+        "D20181001-20190930": "657000000"
+    },
+    "us-gaap:otherliabilities": {
+        "I20210930": "227000000",
+        "I20200930": "233000000"
+    },
+    "us-gaap:incometaxreconciliationstateandlocalincometaxes": {
+        "D20201001-20210930": "-1000000",
+        "D20191001-20200930": "-2000000",
+        "D20181001-20190930": "-11000000"
+    },
+    "us-gaap:incometaxreconciliationrepatriationofforeignearnings": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "8000000",
+        "D20181001-20190930": "4000000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsincreasesresultingfromcurrentperiodtaxpositions": {
+        "D20181001-20190930": "10000000",
+        "D20191001-20200930": "4000000",
+        "D20201001-20210930": "4000000"
+    },
+    "us-gaap:definedbenefitplanplanamendments": {
+        "D20181001-20190930": "-7000000",
+        "D20201001-20210930": "-12000000",
+        "D20191001-20200930": "0"
+    },
+    "us-gaap:impairmentofintangibleassetsindefinitelivedexcludinggoodwill": {
+        "D20181001-20190930": "2000000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsthatwouldimpacteffectivetaxrate": {
+        "I20210930": "85000000"
+    },
+    "us-gaap:increasedecreaseinaccountspayable": {
+        "D20201001-20210930": "53000000",
+        "D20191001-20200930": "-48000000",
+        "D20181001-20190930": "24000000"
+    },
+    "us-gaap:incomelossfromsubsidiariesbeforetax": {
+        "D20201001-20210930": "19000000",
+        "D20191001-20200930": "-616000000",
+        "D20181001-20190930": "-672000000"
+    },
+    "avya:definedbenefitplanplanassetsotheramount": {
+        "I20210930": "3000000",
+        "I20200930": "5000000"
+    },
+    "avya:increasedecreaseincapitalizedcontractcosttoobtainnetcurrent": {
+        "I20210930": "-3000000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyearfour": {
+        "I20210930": "162000000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsdecreasesresultingfromsettlementswithtaxingauthorities": {
+        "D20191001-20200930": "2000000",
+        "D20201001-20210930": "1000000"
+    },
+    "us-gaap:definedbenefitplanrecognizednetgainlossduetosettlements1": {
+        "D20201001-20210930": "14000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:debtinstrumentconvertibleconversionratio1": {
+        "D20201001-20210930": "36.0295"
+    },
+    "us-gaap:unrecognizedtaxbenefits": {
+        "I20210930": "134000000",
+        "I20180930": "174000000",
+        "I20190930": "147000000",
+        "I20200930": "140000000"
+    },
+    "us-gaap:netperiodicdefinedbenefitsexpensereversalofexpenseexcludingservicecostcomponent": {
+        "D20201001-20210930": "-29000000",
+        "D20191001-20200930": "-22000000",
+        "D20181001-20190930": "-7000000"
+    },
+    "us-gaap:restructuringreserve": {
+        "I20180930": "0",
+        "I20190930": "0",
+        "I20200930": "0",
+        "I20210930": "14000000"
+    },
+    "us-gaap:deferredincometaxassetsnet": {
+        "I20210930": "40000000",
+        "I20200930": "31000000"
+    },
+    "us-gaap:sharesoutstanding": {
+        "I20180930": "110200000",
+        "I20190930": "111000000.0",
+        "I20200930": "83300000",
+        "I20210930": "84100000"
+    },
+    "avya:lineofcreditfacilityoutstandingborrowings": {
+        "D20201001-20210930": "0"
+    },
+    "us-gaap:unrecognizedtaxbenefitsincometaxpenaltiesandinterestaccrued": {
+        "I20210930": "27000000"
+    },
+    "us-gaap:definedbenefitplanexpectedfuturebenefitpaymentsyearfour": {
+        "I20210930": "71000000"
+    },
+    "avya:changesincapitalexpendituresincurredbutnotyetpaid": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "-4000000",
+        "D20181001-20190930": "6000000"
+    },
+    "us-gaap:currentfederaltaxexpensebenefit": {
+        "D20201001-20210930": "4000000",
+        "D20191001-20200930": "58000000",
+        "D20181001-20190930": "20000000"
+    },
+    "us-gaap:operatingleaseliability": {
+        "I20210930": "151000000"
+    },
+    "us-gaap:financeleaseweightedaveragediscountratepercent": {
+        "I20210930": "0.046",
+        "I20200930": "0.054"
+    },
+    "us-gaap:financeleaserightofuseassetamortization": {
+        "D20201001-20210930": "6000000",
+        "D20191001-20200930": "4000000"
+    },
+    "us-gaap:definedbenefitplanfundedstatusofplan": {
+        "I20210930": "-149000000",
+        "I20200930": "-218000000"
+    },
+    "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossafterreclassificationtax": {
+        "D20201001-20210930": "-3000000",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "19000000"
+    },
+    "us-gaap:deferredforeignincometaxexpensebenefit": {
+        "D20201001-20210930": "-5000000",
+        "D20191001-20200930": "4000000",
+        "D20181001-20190930": "3000000"
+    },
+    "avya:debtinstrumentcovenanttermspercentoftotalborrowingbase": {
+        "I20210930": "0.10"
+    },
+    "avya:acquisitionofassetsunderfinancelease": {
+        "I20210930": "37000000",
+        "I20200930": "27000000"
+    },
+    "us-gaap:undistributedearningslossavailabletocommonshareholdersbasic": {
+        "D20201001-20210930": "17000000",
+        "D20191001-20200930": "687000000",
+        "D20181001-20190930": "-671000000"
+    },
+    "us-gaap:financeleaseliabilitypaymentsdueafteryearfive": {
+        "I20210930": "0"
+    },
+    "us-gaap:temporaryequitycarryingamountattributabletoparent": {
+        "I20210930": "130000000",
+        "I20200930": "128000000"
+    },
+    "us-gaap:revenuefromcontractwithcustomerexcludingassessedtax": {
+        "D20201001-20210930": "992000000",
+        "D20191001-20200930": "1073000000",
+        "D20181001-20190930": "1222000000"
+    },
+    "us-gaap:definedbenefitplanbenefitobligationperiodincreasedecrease": {
+        "D20201001-20210930": "25000000"
+    },
+    "avya:warrantsstrikepricetrigger": {
+        "D20201001-20210930": "37.3625"
+    },
+    "avya:capitalizedcontractcosttoobtainnetnoncurrent": {
+        "I20210930": "53000000",
+        "I20200930": "40000000"
+    },
+    "us-gaap:deferredtaxassetspropertyplantandequipment": {
+        "I20210930": "1000000",
+        "I20200930": "8000000"
+    },
+    "us-gaap:repaymentsofdebt": {
+        "D20191001-20200930": "981000000",
+        "D20201001-20210930": "100000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:definedbenefitplanexpectedfuturebenefitpaymentsfivefiscalyearsthereafter": {
+        "I20210930": "331000000"
+    },
+    "avya:capitalizedcontractcosttoobtainnet": {
+        "I20210930": "142000000",
+        "I20200930": "132000000"
+    },
+    "avya:proceedsfromstrategicpartnershipcashportionreceived": {
+        "I20191003": "14000000"
+    },
+    "us-gaap:incometaxreconciliationnondeductibleexpensesharebasedcompensationcost": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "1000000",
+        "D20181001-20190930": "-6000000"
+    },
+    "avya:increasedecreaseincontractwithcustomerassetnoncurrent": {
+        "I20210930": "17000000"
+    },
+    "us-gaap:paymentsforproceedsfromotherinvestingactivities": {
+        "D20201001-20210930": "4000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "1000000"
+    },
+    "us-gaap:stockrepurchasedandretiredduringperiodshares": {
+        "D20191001-20200930": "28900000",
+        "D20201001-20210930": "1500000"
+    },
+    "us-gaap:amountrecognizedinnetperiodicbenefitcostandothercomprehensiveincomelossbeforetax": {
+        "D20201001-20210930": "58000000",
+        "D20191001-20200930": "-9000000",
+        "D20181001-20190930": "-77000000"
+    },
+    "us-gaap:stockholdersequity": {
+        "I20210930": "392000000",
+        "I20200930": "236000000",
+        "I20180930": "1000000",
+        "I20190930": "1000000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsexercisableintrinsicvalue1": {
+        "I20210930": "802000"
+    },
+    "us-gaap:increasedecreaseinoperatingcapital": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "9000000"
+    },
+    "us-gaap:paymentsforrepurchaseofcommonstock": {
+        "D20201001-20210930": "37000000",
+        "D20191001-20200930": "330000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:contractwithcustomerperformanceobligationsatisfiedinpreviousperiod": {
+        "D20201001-20210930": "5000000",
+        "D20191001-20200930": "-1000000",
+        "D20181001-20190930": "0"
+    },
+    "avya:proceedsfromtermloancreditagreementduetorefinancing": {
+        "D20201001-20210930": "743000000",
+        "D20191001-20200930": "1627000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:otherpostretirementdefinedbenefitplanliabilitiesnoncurrent": {
+        "I20210930": "153000000",
+        "I20200930": "215000000"
+    },
+    "us-gaap:preferredstockaccretionofredemptiondiscount": {
+        "D20191001-20200930": "4000000"
+    },
+    "us-gaap:operatingleaseliabilitynoncurrent": {
+        "I20210930": "102000000",
+        "I20200930": "129000000"
+    },
+    "us-gaap:financeleaseliabilitypaymentsdue": {
+        "I20210930": "28000000"
+    },
+    "avya:definedbenefitplanbenefitobligationamounttransferredduetobuyoutagreement": {
+        "I20210930": "209000000"
+    },
+    "us-gaap:currentincometaxexpensebenefit": {
+        "D20201001-20210930": "20000000",
+        "D20191001-20200930": "91000000",
+        "D20181001-20190930": "56000000"
+    },
+    "us-gaap:debtinstrumentfaceamount": {
+        "I20210930": "1000000000",
+        "I20200930": "1000000000",
+        "I20171215": "2925000000",
+        "I20200925": "1000000000",
+        "I20180611": "350000000"
+    },
+    "us-gaap:definedbenefitplannetperiodicbenefitcost": {
+        "D20201001-20210930": "-28000000",
+        "D20191001-20200930": "-22000000",
+        "D20181001-20190930": "-17000000"
+    },
+    "us-gaap:employeeservicesharebasedcompensationtaxbenefitfromcompensationexpense": {
+        "D20201001-20210930": "6000000",
+        "D20191001-20200930": "2000000",
+        "D20181001-20190930": "2000000"
+    },
+    "us-gaap:shareprice": {
+        "I20210930": "19.79",
+        "I20200930": "15.20"
+    },
+    "us-gaap:financeleaseliability": {
+        "I20210930": "26000000"
+    },
+    "us-gaap:deferredincometaxliabilities": {
+        "I20210930": "157000000",
+        "I20200930": "174000000"
+    },
+    "us-gaap:immaterialerrorcorrection": {
+        "D20191001-20200930": "3\u00a0million",
+        "D20181001-20190930": "5\u00a0million",
+        "D20201001-20210930": "15\u00a0million"
+    },
+    "us-gaap:financeleaseliabilitypaymentsdueyearthree": {
+        "I20210930": "6000000"
+    },
+    "us-gaap:financeleaseliabilitypaymentsdueyearfour": {
+        "I20210930": "4000000"
+    },
+    "us-gaap:valuationallowancesandreservesdeductions": {
+        "D20191001-20200930": "2000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:incometaxreconciliationotheradjustments": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "4000000",
+        "D20181001-20190930": "2000000"
+    },
+    "us-gaap:incometaxexpensebenefit": {
+        "D20201001-20210930": "15000000",
+        "D20191001-20200930": "62000000",
+        "D20181001-20190930": "2000000"
+    },
+    "avya:increasedecreaseincapitalizedcontractcosttoobtainnetnoncurrent": {
+        "I20210930": "13000000"
+    },
+    "us-gaap:goodwillotherincreasedecrease": {
+        "D20191001-20200930": "0"
+    },
+    "us-gaap:definedbenefitplanexpectedfuturebenefitpaymentsyearthree": {
+        "I20210930": "72000000"
+    },
+    "us-gaap:accountsreceivablenetcurrent": {
+        "I20210930": "307000000",
+        "I20200930": "275000000"
+    },
+    "us-gaap:assetscurrent": {
+        "I20210930": "1591000000",
+        "I20200930": "1579000000"
+    },
+    "avya:derivativebondhedge": {
+        "I20180611": "12600000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdue": {
+        "I20210930": "169000000"
+    },
+    "us-gaap:incometaxreconciliationchangeindeferredtaxassetsvaluationallowance": {
+        "D20201001-20210930": "19000000",
+        "D20191001-20200930": "58000000",
+        "D20181001-20190930": "43000000"
+    },
+    "us-gaap:stockrepurchasedduringperiodvalue": {
+        "D20201001-20210930": "-37000000",
+        "D20191001-20200930": "-330000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:effectiveincometaxratereconciliationtaxcutsandjobsactof2017amount": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "-1000000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsduenexttwelvemonths": {
+        "I20210930": "56000000"
+    },
+    "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossbeforereclassificationaftertax": {
+        "D20201001-20210930": "57000000",
+        "D20191001-20200930": "-31000000",
+        "D20181001-20190930": "-58000000"
+    },
+    "us-gaap:restrictedcashnoncurrent": {
+        "I20210930": "4000000",
+        "I20200930": "4000000",
+        "I20190930": "4000000"
+    },
+    "us-gaap:revenueremainingperformanceobligation": {
+        "I20210930": "2300000000"
+    },
+    "us-gaap:paymentstoacquireinvestments": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "10000000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearfour": {
+        "I20210930": "17000000"
+    },
+    "us-gaap:incometaxexpensebenefitcontinuingoperationsadjustmentofdeferredtaxassetliability": {
+        "D20201001-20210930": "-2000000",
+        "D20191001-20200930": "14000000",
+        "D20181001-20190930": "-16000000"
+    },
+    "us-gaap:increasedecreaseinrestructuringreserve": {
+        "D20201001-20210930": "-5000000",
+        "D20191001-20200930": "-19000000",
+        "D20181001-20190930": "-25000000"
+    },
+    "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "-618000000",
+        "D20181001-20190930": "-669000000"
+    },
+    "us-gaap:contractwithcustomerliabilitynoncurrent": {
+        "I20210930": "305000000",
+        "I20200930": "373000000"
+    },
+    "us-gaap:derivativegainlossonderivativenet": {
+        "D20201001-20210930": "-1000000",
+        "D20191001-20200930": "-3000000",
+        "D20181001-20190930": "29000000"
+    },
+    "us-gaap:accountsreceivablechangeinmethodcreditlossexpensereversal": {
+        "D20201001-20210930": "1000000"
+    },
+    "us-gaap:deferredtaxassetstaxdeferredexpensecompensationandbenefits": {
+        "I20210930": "173000000",
+        "I20200930": "218000000"
+    },
+    "us-gaap:othercomprehensiveincomelossnetoftaxportionattributabletoparent": {
+        "D20201001-20210930": "154000000",
+        "D20191001-20200930": "-72000000",
+        "D20181001-20190930": "-191000000"
+    },
+    "us-gaap:deferredincometaxesandtaxcredits": {
+        "D20201001-20210930": "-5000000",
+        "D20191001-20200930": "-29000000",
+        "D20181001-20190930": "-54000000"
+    },
+    "us-gaap:commonstocksharesauthorized": {
+        "I20210930": "550000000"
+    },
+    "us-gaap:netincomelossavailabletocommonstockholdersdiluted": {
+        "D20201001-20210930": "-17000000",
+        "D20191001-20200930": "-687000000",
+        "D20181001-20190930": "-671000000"
+    },
+    "us-gaap:netincomelossavailabletocommonstockholdersbasic": {
+        "D20201001-20210930": "-17000000",
+        "D20191001-20200930": "-687000000",
+        "D20181001-20190930": "-671000000"
+    },
+    "us-gaap:debtinstrumentinterestratestatedpercentage": {
+        "I20180618": "0.0325",
+        "I20200925": "0.06125",
+        "I20210930": "0.0300",
+        "I20171215": "0.0075",
+        "I20180611": "0.0225"
+    },
+    "us-gaap:deferredtaxliabilitiesundistributedforeignearnings": {
+        "I20210930": "31000000"
+    },
+    "avya:interestexpenseandotherincomeexpensenet": {
+        "D20201001-20210930": "178000000",
+        "D20191001-20200930": "163000000",
+        "D20181001-20190930": "196000000"
+    },
+    "us-gaap:debtinstrumentconvertiblethresholdpercentageofstockpricetrigger": {
+        "D20201001-20210930": "1.30"
+    },
+    "us-gaap:incometaxreconciliationforeignincometaxratedifferential": {
+        "D20201001-20210930": "-2000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "11000000"
+    },
+    "us-gaap:costofrevenue": {
+        "D20201001-20210930": "1323000000",
+        "D20191001-20200930": "1293000000",
+        "D20181001-20190930": "1312000000"
+    },
+    "us-gaap:netcashprovidedbyusedinfinancingactivities": {
+        "D20201001-20210930": "-142000000",
+        "D20191001-20200930": "-489000000",
+        "D20181001-20190930": "-61000000"
+    },
+    "us-gaap:restructuringcharges": {
+        "D20201001-20210930": "30000000",
+        "D20191001-20200930": "30000000",
+        "D20181001-20190930": "22000000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyearthree": {
+        "I20210930": "187000000"
+    },
+    "us-gaap:proceedsfromconvertibledebt": {
+        "D20180611-20180611": "314000000"
+    },
+    "us-gaap:dividendspayablecurrentandnoncurrent": {
+        "I20210930": "5000000"
+    },
+    "us-gaap:cashandcashequivalentsperiodincreasedecrease": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "avya:debtinstrumentcovenanttermsminimumnetborrowingavailability": {
+        "I20210930": "16000000"
+    },
+    "us-gaap:deferredstateandlocalincometaxexpensebenefit": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "-3000000",
+        "D20181001-20190930": "-10000000"
+    },
+    "avya:amortizationofintangibleassetstotal": {
+        "D20201001-20210930": "332000000",
+        "D20191001-20200930": "335000000",
+        "D20181001-20190930": "336000000"
+    },
+    "avya:thresholdamountcontributionanddistributionagreement": {
+        "D20201001-20210930": "50000000"
+    },
+    "avya:debtinstrumentinterestperiod": {
+        "D20171215-20171215": "30 days",
+        "D20200925-20200925": "30 days"
+    },
+    "us-gaap:propertyplantandequipmentnet": {
+        "I20210930": "295000000",
+        "I20200930": "268000000"
+    },
+    "us-gaap:operatingexpenses": {
+        "D20201001-20210930": "1470000000",
+        "D20191001-20200930": "2035000000",
+        "D20181001-20190930": "2048000000"
+    },
+    "avya:proceedsfromstrategicpartnerships": {
+        "I20191003": "375000000"
+    },
+    "us-gaap:propertyplantandequipmentgross": {
+        "I20210930": "88000000",
+        "I20200930": "97000000"
+    },
+    "us-gaap:allowancefordoubtfulaccountsreceivable": {
+        "I20200930": "7000000",
+        "I20210930": "4000000"
+    },
+    "us-gaap:revenueremainingperformanceobligationpercentage": {
+        "I20210930": "0.54"
+    },
+    "dei:entitycommonstocksharesoutstanding": {
+        "I20211031": "84115602"
+    },
+    "us-gaap:definedbenefitplanfairvalueofplanassets": {
+        "I20200930": "927000000",
+        "I20190930": "915000000",
+        "I20210930": "932000000"
+    },
+    "us-gaap:definedbenefitplanexpectedfutureemployercontributionsnextfiscalyear": {
+        "I20210930": "26000000"
+    },
+    "us-gaap:amortizationoffinancingcosts": {
+        "D20201001-20210930": "20000000",
+        "D20191001-20200930": "18000000",
+        "D20181001-20190930": "17000000"
+    },
+    "us-gaap:proceedsfromsaleandmaturityofmarketablesecurities": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "412000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:contractwithcustomerassetnetcurrent": {
+        "I20210930": "518000000",
+        "I20200930": "296000000"
+    },
+    "us-gaap:commonstockcapitalsharesreservedforfutureissuance": {
+        "I20210930": "18800000"
+    },
+    "us-gaap:derivativeliabilityfairvaluegrossliabilityincludingnotsubjecttomasternettingarrangement": {
+        "I20210930": "67000000",
+        "I20200930": "126000000"
+    },
+    "us-gaap:reclassificationfromaocicurrentperiodbeforetaxattributabletoparent": {
+        "D20201001-20210930": "51000000",
+        "D20191001-20200930": "35000000",
+        "D20181001-20190930": "10000000"
+    },
+    "avya:sharebasedcompensationarrangementbysharebasedpaymentawardmaximumaward": {
+        "I20210930": "750000"
+    },
+    "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": {
+        "D20201001-20210930": "84500000",
+        "D20191001-20200930": "92200000",
+        "D20181001-20190930": "110800000"
+    },
+    "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesdomestic": {
+        "D20201001-20210930": "-28000000",
+        "D20191001-20200930": "-639000000",
+        "D20181001-20190930": "-510000000"
+    },
+    "us-gaap:debtinstrumentbasisspreadonvariablerate1": {
+        "D20180618-20180618": "0.0050",
+        "D20171215-20171215": "0.0050",
+        "D20200925-20200925": "0.0050"
+    },
+    "us-gaap:weightedaveragenumberofshareoutstandingbasicanddiluted": {
+        "D20201001-20210930": "84500000",
+        "D20191001-20200930": "92200000",
+        "D20181001-20190930": "110800000"
+    },
+    "avya:strategicpartnershipminimumsharesrequiredforconsentrights": {
+        "D20201001-20210930": "4759339"
+    },
+    "us-gaap:restructuringreservenoncurrent": {
+        "I20210930": "25000000",
+        "I20200930": "28000000"
+    },
+    "us-gaap:accumulateddepreciationdepletionandamortizationpropertyplantandequipment": {
+        "I20210930": "364000000",
+        "I20200930": "312000000"
+    },
+    "us-gaap:stockissuedduringperiodvalueemployeestockpurchaseplan": {
+        "D20191001-20200930": "2000000",
+        "D20201001-20210930": "13000000"
+    },
+    "us-gaap:liabilitiescurrent": {
+        "I20210930": "1097000000",
+        "I20200930": "1137000000"
+    },
+    "us-gaap:paymentsrelatedtotaxwithholdingforsharebasedcompensation": {
+        "D20201001-20210930": "12000000",
+        "D20191001-20200930": "7000000",
+        "D20181001-20190930": "9000000"
+    },
+    "dei:entityaddresspostalzipcode": {
+        "D20201001-20210930": "27713"
+    },
+    "avya:effectiveincometaxratereconciliationlossonforeignsubsidiaries": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "28000000",
+        "D20181001-20190930": "29000000"
+    },
+    "us-gaap:derivativeinstrumentslossreclassifiedfromaccumulatedociintoincomeeffectiveportion": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:definedbenefitplanexpectedfuturebenefitpaymentsyearfive": {
+        "I20210930": "70000000"
+    },
+    "us-gaap:employeeservicesharebasedcompensationnonvestedawardstotalcompensationcostnotyetrecognized": {
+        "I20210930": "33000000"
+    },
+    "avya:changeincontractwithcustomerliability": {
+        "I20210930": "-154000000"
+    },
+    "us-gaap:deferredtaxassetsoperatinglosscarryforwardsforeign": {
+        "I20210930": "989000000"
+    },
+    "us-gaap:finitelivedintangibleassetsnet": {
+        "I20210930": "315000000",
+        "I20200930": "479000000"
+    },
+    "us-gaap:goodwill": {
+        "I20210930": "1480000000",
+        "I20200930": "1478000000",
+        "I20190930": "625000000"
+    },
+    "us-gaap:opentaxyear": {
+        "D20201001-20210930": "2001"
+    },
+    "us-gaap:warrantsandrightsoutstandingmeasurementinput": {
+        "I20210930": "0.4963",
+        "I20200930": "0.6853"
+    },
+    "us-gaap:operatingleasecost": {
+        "D20201001-20210930": "58000000",
+        "D20191001-20200930": "67000000"
+    },
+    "us-gaap:capitalizedcontractcostnetcurrent": {
+        "I20210930": "117000000",
+        "I20200930": "115000000"
+    },
+    "us-gaap:deferredincometaxexpensebenefit": {
+        "D20201001-20210930": "-5000000",
+        "D20191001-20200930": "-29000000",
+        "D20181001-20190930": "-54000000"
+    },
+    "us-gaap:stockrepurchaseprogramauthorizedamount1": {
+        "I20191001": "500000000"
+    },
+    "us-gaap:netincomeloss": {
+        "D20201001-20210930": "-13000000",
+        "D20191001-20200930": "-680000000",
+        "D20181001-20190930": "-671000000"
+    },
+    "us-gaap:operatingleaserightofuseasset": {
+        "I20210930": "135000000",
+        "I20200930": "160000000"
+    },
+    "us-gaap:deferredtaxassetsoperatinglosscarryforwards": {
+        "I20210930": "1013000000"
+    },
+    "us-gaap:definedbenefitplaninterestcost": {
+        "D20201001-20210930": "20000000",
+        "D20191001-20200930": "29000000",
+        "D20181001-20190930": "40000000"
+    },
+    "avya:incometaxreconciliationauditsettlements": {
+        "D20201001-20210930": "5000000",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "1000000"
+    },
+    "us-gaap:employeerelatedliabilitiescurrent": {
+        "I20210930": "193000000",
+        "I20200930": "198000000"
+    },
+    "us-gaap:finitelivedintangibleassetsaccumulatedamortization": {
+        "I20210930": "656000000",
+        "I20200930": "482000000"
+    },
+    "dei:entityaddressaddressline1": {
+        "D20201001-20210930": "2605 Meridian Parkway, Suite 200"
+    },
+    "us-gaap:additionalpaidincapitalcommonstock": {
+        "I20210930": "1467000000",
+        "I20200930": "1449000000"
+    },
+    "us-gaap:otherassetsnoncurrent": {
+        "I20210930": "209000000",
+        "I20200930": "159000000"
+    },
+    "us-gaap:definedbenefitplanexpectedreturnonplanassets": {
+        "D20201001-20210930": "53000000",
+        "D20191001-20200930": "55000000",
+        "D20181001-20190930": "60000000"
+    },
+    "avya:undistributedforeignearningsoutsidebasisdifference": {
+        "I20210930": "79000000"
+    },
+    "us-gaap:debtinstrumentredemptionpricepercentage": {
+        "D20201001-20210930": "1"
+    },
+    "us-gaap:variableleasecost": {
+        "D20201001-20210930": "14000000",
+        "D20191001-20200930": "17000000"
+    },
+    "us-gaap:definedbenefitplanactualreturnonplanassets": {
+        "D20201001-20210930": "67000000",
+        "D20191001-20200930": "79000000"
+    },
+    "us-gaap:pensionandotherpostretirementdefinedbenefitplansliabilitiesnoncurrent": {
+        "I20210930": "149000000",
+        "I20200930": "218000000"
+    },
+    "us-gaap:goodwillandintangibleassetimpairment": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "624000000",
+        "D20181001-20190930": "659000000"
+    },
+    "us-gaap:longtermdebtmaturitiesrepaymentsofprincipalinyearthree": {
+        "I20210930": "0"
+    },
+    "us-gaap:goodwillimpairedaccumulatedimpairmentloss": {
+        "I20190930": "657000000",
+        "I20200930": "1281000000",
+        "I20210930": "1281000000"
+    },
+    "us-gaap:productwarrantyexpense": {
+        "D20201001-20210930": "4000000",
+        "D20191001-20200930": "4000000",
+        "D20181001-20190930": "3000000"
+    },
+    "us-gaap:deferredtaxassetsoperatinglosscarryforwardsdomestic": {
+        "I20210930": "24000000"
+    },
+    "us-gaap:concentrationriskpercentage1": {
+        "D20201001-20210930": "0.07",
+        "D20191001-20200930": "0.08"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsoutstandingnumber": {
+        "I20200930": "942",
+        "I20210930": "431"
+    },
+    "us-gaap:definedbenefitplanassumptionsusedcalculatingbenefitobligationdiscountrate": {
+        "I20210930": "0.0270",
+        "I20200930": "0.0250"
+    },
+    "us-gaap:definedbenefitplanamortizationofpriorservicecostcredit": {
+        "D20201001-20210930": "-4000000",
+        "D20191001-20200930": "-1000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:stockrepurchasedandretiredduringperiodvalue": {
+        "D20191001-20200930": "330000000",
+        "D20201001-20210930": "37000000"
+    },
+    "us-gaap:rightofuseassetobtainedinexchangeforoperatingleaseliability": {
+        "D20201001-20210930": "22000000",
+        "D20191001-20200930": "35000000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardmaximumemployeesubscriptionrate": {
+        "I20210930": "0.10"
+    },
+    "us-gaap:definedbenefitplanplanassetstargetallocationpercentage": {
+        "I20210930": "0.57"
+    },
+    "avya:finitelivedintangibleassetsamortizationexpenseyearfiveandthereafter": {
+        "I20210930": "958000000"
+    },
+    "us-gaap:lineofcreditfacilityremainingborrowingcapacity": {
+        "I20210930": "147000000"
+    },
+    "us-gaap:numberofoperatingsegments": {
+        "D20201001-20210930": "2"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearthree": {
+        "I20210930": "29000000"
+    },
+    "us-gaap:restructuringreservetranslationadjustment": {
+        "D20181001-20190930": "0",
+        "D20191001-20200930": "0",
+        "D20201001-20210930": "-1000000"
+    },
+    "avya:effectiveincometaxratereconciliationtaxcreditsandotheramount": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "-2000000",
+        "D20181001-20190930": "4000000"
+    },
+    "us-gaap:adjustmentsrelatedtotaxwithholdingforsharebasedcompensation": {
+        "D20181001-20190930": "9000000",
+        "D20191001-20200930": "7000000",
+        "D20201001-20210930": "12000000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardnumberofsharesauthorized": {
+        "I20210930": "5500000"
+    },
+    "us-gaap:operatingleasepayments": {
+        "D20201001-20210930": "63000000",
+        "D20191001-20200930": "66000000"
+    },
+    "avya:increasedecreaseincapitalizedcontractcostsnet": {
+        "D20201001-20210930": "-15000000",
+        "D20191001-20200930": "5000000",
+        "D20181001-20190930": "-13000000"
+    },
+    "us-gaap:preferredstockdividendratepercentage": {
+        "D20201001-20210930": "0.03"
+    },
+    "us-gaap:debtinstrumentcarryingamount": {
+        "I20210930": "2893000000"
+    },
+    "us-gaap:financeleaserightofuseasset": {
+        "I20210930": "25000000",
+        "I20200930": "12"
+    },
+    "us-gaap:assetsfairvaluedisclosure": {
+        "I20210930": "6000000",
+        "I20200930": "0"
+    },
+    "us-gaap:foreigncurrencytransactiongainlossunrealized": {
+        "D20201001-20210930": "-6000000",
+        "D20191001-20200930": "-24000000",
+        "D20181001-20190930": "-9000000"
+    },
+    "us-gaap:liabilitiesandstockholdersequity": {
+        "I20210930": "5985000000",
+        "I20200930": "6231000000"
+    },
+    "us-gaap:contractwithcustomerliabilitycurrent": {
+        "I20210930": "360000000",
+        "I20200930": "446000000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearfive": {
+        "I20210930": "11000000"
+    },
+    "us-gaap:restrictedcash": {
+        "I20210930": "4000000"
+    },
+    "us-gaap:definedbenefitplanplanassetsbenefitspaid": {
+        "D20201001-20210930": "73000000",
+        "D20191001-20200930": "77000000"
+    },
+    "us-gaap:othercomprehensiveincomelosspensionandotherpostretirementbenefitplanstax": {
+        "D20201001-20210930": "-4000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "29000000"
+    },
+    "avya:definedbenefitplanreimbursementofpriorperiodpayments": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "3000000"
+    },
+    "us-gaap:definedbenefitplanexpectedfuturebenefitpaymentsyeartwo": {
+        "I20210930": "73000000"
+    },
+    "us-gaap:debtinstrumentconvertiblecarryingamountoftheequitycomponent": {
+        "I20210930": "311000000",
+        "I20200930": "291000000"
+    },
+    "us-gaap:increasedecreaseinotheroperatingcapitalnet": {
+        "D20201001-20210930": "-3000000",
+        "D20191001-20200930": "25000000",
+        "D20181001-20190930": "47000000"
+    },
+    "us-gaap:undistributedearningslossavailabletocommonshareholdersdiluted": {
+        "D20201001-20210930": "17000000",
+        "D20191001-20200930": "-687000000",
+        "D20181001-20190930": "-671000000"
+    },
+    "us-gaap:grossprofit": {
+        "D20201001-20210930": "1650000000",
+        "D20191001-20200930": "1580000000",
+        "D20181001-20190930": "1575000000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyeartwo": {
+        "I20210930": "41000000"
+    },
+    "us-gaap:effectofexchangerateoncashcashequivalentsrestrictedcashandrestrictedcashequivalents": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "-4000000"
+    },
+    "us-gaap:liabilitiesfairvaluedisclosure": {
+        "I20210930": "62000000",
+        "I20200930": "117000000"
+    },
+    "us-gaap:sellinggeneralandadministrativeexpense": {
+        "D20201001-20210930": "1053000000",
+        "D20191001-20200930": "1013000000",
+        "D20181001-20190930": "1001000000"
+    },
+    "us-gaap:deferredfinancecostsnet": {
+        "I20200930": "32000000",
+        "I20210930": "3000000"
+    },
+    "us-gaap:preferredstocksharesauthorized": {
+        "I20210930": "55000000"
+    },
+    "avya:percentageallocatedtocommonstockholders": {
+        "D20201001-20210930": "1.000",
+        "D20191001-20200930": "1.000",
+        "D20181001-20190930": "1.000"
+    },
+    "avya:increasedecreaseincontractwithcustomerliabilitynoncurrent": {
+        "I20210930": "-68000000"
+    },
+    "us-gaap:longtermdebtmaturitiesrepaymentsofprincipalinyearfour": {
+        "I20210930": "0"
+    },
+    "us-gaap:stockissuedduringperiodvaluenewissues": {
+        "D20181001-20190930": "0",
+        "D20191001-20200930": "0",
+        "D20201001-20210930": "8000000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawarddiscountfrommarketpriceofferingdate": {
+        "D20201001-20210930": "0.15"
+    },
+    "us-gaap:stockissuedduringperiodsharesnewissues": {
+        "D20181001-20190930": "1300000",
+        "D20191001-20200930": "1500000",
+        "D20201001-20210930": "2100000"
+    },
+    "us-gaap:otherpostretirementbenefitexpense": {
+        "D20201001-20210930": "9000000",
+        "D20191001-20200930": "8000000"
+    },
+    "us-gaap:foreigncurrencytransactiongainlossbeforetax": {
+        "D20201001-20210930": "3000000",
+        "D20191001-20200930": "-16000000",
+        "D20181001-20190930": "-8000000"
+    },
+    "us-gaap:preferredstockdividendsandotheradjustments": {
+        "D20201001-20210930": "4000000",
+        "D20191001-20200930": "7000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:nonoperatingincomeexpense": {
+        "D20201001-20210930": "44000000",
+        "D20191001-20200930": "63000000",
+        "D20181001-20190930": "41000000"
+    },
+    "us-gaap:accumulatedothercomprehensiveincomelossnetoftax": {
+        "I20210930": "-91000000",
+        "I20200930": "-245000000",
+        "I20180930": "51000000",
+        "I20190930": "-106000000"
+    },
+    "us-gaap:definedbenefitplanforeigncurrencyexchangeratechangesbenefitobligation": {
+        "D20201001-20210930": "-6000000",
+        "D20191001-20200930": "42000000"
+    },
+    "us-gaap:paymentsofdebtissuancecosts": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "14000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:proceedsfromissuanceofdebt": {
+        "D20201001-20210930": "48000000",
+        "D20191001-20200930": "371000000",
+        "D20181001-20190930": "0"
+    },
+    "dei:documentperiodenddate": {
+        "D20201001-20210930": "2021-09-30"
+    },
+    "avya:capitalizedcontractcosttofulfillnetcurrent": {
+        "I20210930": "28000000",
+        "I20200930": "23000000"
+    },
+    "us-gaap:classofwarrantorrightoutstanding": {
+        "I20180611": "12600000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilityundiscountedexcessamount": {
+        "I20210930": "18000000"
+    },
+    "us-gaap:definedbenefitplanassumptionsusedcalculatingbenefitobligationrateofcompensationincrease": {
+        "I20210930": "0.0300",
+        "I20200930": "0.0300"
+    },
+    "us-gaap:financeleaseliabilityundiscountedexcessamount": {
+        "I20210930": "2000000"
+    },
+    "us-gaap:classofwarrantorrightnumberofsecuritiescalledbyeachwarrantorright": {
+        "I20171215": "5645200"
+    },
+    "us-gaap:derivativeassetfairvaluegrossassetincludingnotsubjecttomasternettingarrangement": {
+        "I20210930": "0",
+        "I20200930": "0"
+    },
+    "us-gaap:paymentsforrestructuring": {
+        "D20181001-20190930": "0",
+        "D20191001-20200930": "0",
+        "D20201001-20210930": "4000000"
+    },
+    "us-gaap:fairvalueadjustmentofwarrants": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "-29000000"
+    },
+    "us-gaap:financeleaseliabilitypaymentsdueyearfive": {
+        "I20210930": "3000000"
+    },
+    "us-gaap:investmentincomeinterest": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "6000000",
+        "D20181001-20190930": "14000000"
+    },
+    "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesforeign": {
+        "D20201001-20210930": "30000000",
+        "D20191001-20200930": "21000000",
+        "D20181001-20190930": "-159000000"
+    },
+    "us-gaap:operatingincomeloss": {
+        "D20201001-20210930": "180000000",
+        "D20191001-20200930": "-455000000",
+        "D20181001-20190930": "-473000000"
+    },
+    "us-gaap:operatingleaseliabilitycurrent": {
+        "I20210930": "49000000",
+        "I20200930": "49000000"
+    },
+    "avya:numberofdirectors": {
+        "I20210930": "8"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyeartwo": {
+        "I20210930": "289000000"
+    },
+    "avya:paymentsforotherfinancingarrangements": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:sharebasedcompensation": {
+        "D20201001-20210930": "55000000",
+        "D20191001-20200930": "30000000",
+        "D20181001-20190930": "25000000"
+    },
+    "us-gaap:cashandcashequivalentsatcarryingvalue": {
+        "I20210930": "498000000",
+        "I20200930": "727000000",
+        "I20190930": "752000000",
+        "I20180930": "0"
+    },
+    "us-gaap:depreciation": {
+        "D20201001-20210930": "26000000",
+        "D20191001-20200930": "27000000",
+        "D20181001-20190930": "39000000"
+    },
+    "us-gaap:othercomprehensiveincomelosstaxportionattributabletoparent1": {
+        "D20181001-20190930": "-29000000",
+        "D20191001-20200930": "0",
+        "D20201001-20210930": "4000000"
+    },
+    "us-gaap:incometaxespaid": {
+        "D20201001-20210930": "27000000",
+        "D20191001-20200930": "101000000",
+        "D20181001-20190930": "56000000"
+    },
+    "us-gaap:assetimpairmentcharges": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "624000000",
+        "D20181001-20190930": "659000000"
+    },
+    "us-gaap:derivativenotionalamount": {
+        "I20200923": "1800000000",
+        "I20210930": "1543000000",
+        "I20200930": "375000000"
+    },
+    "us-gaap:incometaxreconciliationchangeinenactedtaxrate": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "19000000"
+    },
+    "us-gaap:definedbenefitplanbenefitobligationbenefitspaid": {
+        "D20201001-20210930": "73000000",
+        "D20191001-20200930": "77000000"
+    },
+    "us-gaap:definedbenefitplanplanassetsforeigncurrencytranslationgainloss": {
+        "D20201001-20210930": "1000000",
+        "D20191001-20200930": "2000000"
+    },
+    "us-gaap:paymentstoacquirepropertyplantandequipment": {
+        "D20201001-20210930": "106000000",
+        "D20191001-20200930": "98000000",
+        "D20181001-20190930": "113000000"
+    },
+    "us-gaap:otherliabilitiescurrent": {
+        "I20210930": "181000000",
+        "I20200930": "181000000"
+    },
+    "us-gaap:preferredstockdividendsincomestatementimpact": {
+        "D20201001-20210930": "4000000",
+        "D20191001-20200930": "7000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:definedbenefitplanaccumulatedbenefitobligation": {
+        "I20210930": "1080000000",
+        "I20200930": "1145000000"
+    },
+    "us-gaap:definedbenefitplancontributionsbyemployer": {
+        "D20201001-20210930": "11000000",
+        "D20191001-20200930": "10000000",
+        "D20181001-20190930": "27000000"
+    },
+    "us-gaap:liabilities": {
+        "I20210930": "5463000000",
+        "I20200930": "5867000000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpensenexttwelvemonths": {
+        "I20210930": "306000000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsoutstandingintrinsicvalue": {
+        "I20210930": "802000"
+    },
+    "us-gaap:commonstocksharesissued": {
+        "I20210930": "84115602",
+        "I20200930": "83278383"
+    },
+    "us-gaap:preferredstocksharesissued": {
+        "I20210930": "125000"
+    },
+    "us-gaap:definedbenefitplanaccumulatedothercomprehensiveincomebeforetax": {
+        "I20210930": "81000000",
+        "I20200930": "110000000"
+    },
+    "us-gaap:othercomprehensiveincomelosspensionandotherpostretirementbenefitplansadjustmentbeforetax": {
+        "D20201001-20210930": "30000000",
+        "D20191001-20200930": "-31000000",
+        "D20181001-20190930": "-94000000"
+    },
+    "us-gaap:gainslossesonextinguishmentofdebt": {
+        "D20201001-20210930": "-1000000",
+        "D20191001-20200930": "-7000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:interestexpense": {
+        "D20201001-20210930": "222000000",
+        "D20191001-20200930": "226000000",
+        "D20181001-20190930": "237000000"
+    },
+    "us-gaap:financeleaseliabilitypaymentsduenexttwelvemonths": {
+        "I20210930": "8000000"
+    },
+    "us-gaap:increasedecreaseinemployeerelatedliabilities": {
+        "D20201001-20210930": "-56000000",
+        "D20191001-20200930": "46000000",
+        "D20181001-20190930": "-73000000"
+    },
+    "us-gaap:debtinstrumentinterestrateeffectivepercentage": {
+        "I20210930": "0.092"
+    },
+    "us-gaap:capitalizedcontractcostamortization": {
+        "D20201001-20210930": "189000000",
+        "D20191001-20200930": "152000000",
+        "D20181001-20190930": "100000000"
+    },
+    "dei:cityareacode": {
+        "D20201001-20210930": "908"
+    },
+    "us-gaap:definedbenefitplanexpectedfuturebenefitpaymentsnexttwelvemonths": {
+        "I20210930": "74000000"
+    },
+    "us-gaap:retainedearningsaccumulateddeficit": {
+        "I20210930": "-985000000",
+        "I20200930": "-969000000"
+    },
+    "dei:entitypublicfloat": {
+        "I20210331": "2338000000"
+    },
+    "us-gaap:stockissuedduringperiodsharesemployeestockpurchaseplans": {
+        "D20191001-20200930": "200000",
+        "D20201001-20210930": "800000"
+    },
+    "us-gaap:proceedsfromhedgefinancingactivities": {
+        "D20180611-20180611": "58000000"
+    },
+    "us-gaap:repaymentsoflinesofcredit": {
+        "D20201001-20210930": "100000000",
+        "D20191001-20200930": "1231000000",
+        "D20181001-20190930": "29000000"
+    },
+    "us-gaap:indefinitelivedintangibleassetsexcludinggoodwill": {
+        "I20210930": "0",
+        "I20200930": "0"
+    },
+    "us-gaap:capitalizedcomputersoftwarenet": {
+        "I20210930": "115000000",
+        "I20200930": "91000000"
+    },
+    "us-gaap:proceedsfromstockoptionsexercised": {
+        "D20201001-20210930": "8000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:financeleaseliabilitypaymentsdueyeartwo": {
+        "I20210930": "7000000"
+    },
+    "avya:increasedecreaseincontractwithcustomerliabilitycurrent": {
+        "I20210930": "-86000000"
+    },
+    "avya:changeincontractwithcustomerasset": {
+        "I20210930": "239000000"
+    },
+    "avya:strategicpartnershipinterestonasconvertedbasis": {
+        "I20210930": "0.09"
+    },
+    "us-gaap:contractwithcustomerassetnetnoncurrent": {
+        "I20210930": "88000000",
+        "I20200930": "71000000"
+    },
+    "us-gaap:definedbenefitplanweightedaverageassetallocations": {
+        "I20210930": "0.53",
+        "I20200930": "0.52"
+    },
+    "us-gaap:inventorynet": {
+        "I20210930": "51000000",
+        "I20200930": "54000000"
+    },
+    "dei:entityfilenumber": {
+        "D20201001-20210930": "001-38289"
+    },
+    "us-gaap:deferredfederalincometaxexpensebenefit": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "-30000000",
+        "D20181001-20190930": "-47000000"
+    },
+    "us-gaap:lesseeoperatingleaseliabilitypaymentsdueafteryearfive": {
+        "I20210930": "15000000"
+    },
+    "us-gaap:valuationallowancedeferredtaxassetchangeinamount": {
+        "D20201001-20210930": "-35000000",
+        "D20191001-20200930": "125000000",
+        "D20181001-20190930": "9000000"
+    },
+    "us-gaap:preferredstockparorstatedvaluepershare": {
+        "I20210930": "0.01"
+    },
+    "us-gaap:definedbenefitplanassetstransferredtofromplan": {
+        "D20201001-20210930": "190000000"
+    },
+    "us-gaap:shorttermleasecost": {
+        "D20201001-20210930": "5000000",
+        "D20191001-20200930": "5000000"
+    },
+    "us-gaap:stockrepurchasedduringperiodshares": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "28923664"
+    },
+    "us-gaap:increasedecreaseincontractwithcustomerliability": {
+        "D20201001-20210930": "-161000000",
+        "D20191001-20200930": "-71000000",
+        "D20181001-20190930": "35000000"
+    },
+    "us-gaap:provisionforothercreditlosses": {
+        "D20201001-20210930": "4000000"
+    },
+    "us-gaap:relatedpartytransactionpurchasesfromrelatedparty": {
+        "D20201001-20210930": "4000000",
+        "D20191001-20200930": "5000000"
+    },
+    "us-gaap:deferredtaxassetsvaluationallowance": {
+        "I20210930": "1018000000",
+        "I20200930": "1053000000"
+    },
+    "us-gaap:debtinstrumentconvertiblethresholdtradingdays": {
+        "D20201001-20210930": "20"
+    },
+    "dei:localphonenumber": {
+        "D20201001-20210930": "953-6000"
+    },
+    "avya:derivativenumberofcounterparties": {
+        "I20180516": "6",
+        "I20200701": "4"
+    },
+    "us-gaap:cashflowhedgegainlosstobereclassifiedwithintwelvemonths": {
+        "D20201001-20210930": "50000000"
+    },
+    "avya:newaccountingpronouncementeffectofchange": {
+        "I20181001": "95000000",
+        "I20201001": "-3000000"
+    },
+    "us-gaap:assets": {
+        "I20210930": "5985000000",
+        "I20200930": "6231000000"
+    },
+    "us-gaap:interestpaidnet": {
+        "D20201001-20210930": "187000000",
+        "D20191001-20200930": "197000000",
+        "D20181001-20190930": "206000000"
+    },
+    "us-gaap:researchanddevelopmentexpense": {
+        "D20201001-20210930": "228000000",
+        "D20191001-20200930": "207000000",
+        "D20181001-20190930": "204000000"
+    },
+    "us-gaap:depreciationandamortization": {
+        "D20201001-20210930": "425000000",
+        "D20191001-20200930": "423000000",
+        "D20181001-20190930": "443000000"
+    },
+    "us-gaap:definedbenefitplanaccumulatedothercomprehensiveincomenetpriorservicecostcreditbeforetax": {
+        "I20210930": "-16000000",
+        "I20200930": "-6000000"
+    },
+    "us-gaap:liabilitiesnoncurrent": {
+        "I20210930": "4366000000",
+        "I20200930": "4730000000"
+    },
+    "avya:effectiveincometaxratereconciliationnondeductiblegoodwill": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "-125000000",
+        "D20181001-20190930": "-123000000"
+    },
+    "us-gaap:netcashprovidedbyusedinoperatingactivities": {
+        "D20201001-20210930": "30000000",
+        "D20191001-20200930": "147000000",
+        "D20181001-20190930": "241000000"
+    },
+    "us-gaap:debtinstrumentconvertibletermsofconversionfeature": {
+        "D20201001-20210930": "1,000"
+    },
+    "dei:entitytaxidentificationnumber": {
+        "D20201001-20210930": "26-1119726"
+    },
+    "avya:capitalizedcontractcosttoobtainnetcurrent": {
+        "I20210930": "89000000",
+        "I20200930": "92000000"
+    },
+    "us-gaap:weightedaveragenumberofsharesoutstandingbasic": {
+        "D20201001-20210930": "84500000",
+        "D20191001-20200930": "92200000",
+        "D20181001-20190930": "110800000"
+    },
+    "us-gaap:earningspersharediluted": {
+        "D20201001-20210930": "-0.20",
+        "D20191001-20200930": "-7.45",
+        "D20181001-20190930": "-6.06"
+    },
+    "us-gaap:amortizationoffinancingcostsanddiscounts": {
+        "D20201001-20210930": "26000000",
+        "D20191001-20200930": "23000000",
+        "D20181001-20190930": "22000000"
+    },
+    "us-gaap:definedbenefitplanservicecost": {
+        "D20201001-20210930": "3000000",
+        "D20191001-20200930": "4000000",
+        "D20181001-20190930": "3000000"
+    },
+    "us-gaap:definedbenefitplanaccumulatedothercomprehensiveincomenetgainslossesbeforetax": {
+        "I20210930": "-81000000",
+        "I20200930": "-110000000"
+    },
+    "us-gaap:incometaxreconciliationnondeductibleexpense": {
+        "D20201001-20210930": "7000000",
+        "D20191001-20200930": "7000000",
+        "D20181001-20190930": "8000000"
+    },
+    "us-gaap:intangibleassetsnetexcludinggoodwill": {
+        "I20210930": "2235000000",
+        "I20200930": "2556000000"
+    },
+    "us-gaap:comprehensiveincomenetoftax": {
+        "D20201001-20210930": "141000000",
+        "D20191001-20200930": "-752000000",
+        "D20181001-20190930": "-862000000"
+    },
+    "us-gaap:contractwithcustomerliability": {
+        "I20210930": "665000000",
+        "I20200930": "819000000"
+    },
+    "us-gaap:restructuringreservecurrent": {
+        "I20210930": "19000000",
+        "I20200930": "21000000"
+    },
+    "avya:increasedecreaseincapitalizedcontractcosttofulfillnet": {
+        "I20210930": "5000000"
+    },
+    "us-gaap:deferredincometaxliabilitiesnet": {
+        "I20210930": "53000000",
+        "I20200930": "38000000"
+    },
+    "avya:stockrepurchasedduringperiodweightedaveragepricepershare": {
+        "D20201001-20210930": "25480000",
+        "D20191001-20200930": "11410000"
+    },
+    "us-gaap:incomelossattributabletoparent": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "-618000000",
+        "D20181001-20190930": "-669000000"
+    },
+    "us-gaap:accountspayablecurrent": {
+        "I20210930": "295000000",
+        "I20200930": "242000000"
+    },
+    "us-gaap:depreciationdepletionandamortization": {
+        "D20201001-20210930": "425000000",
+        "D20191001-20200930": "423000000",
+        "D20181001-20190930": "443000000"
+    },
+    "us-gaap:increasedecreaseininventories": {
+        "D20201001-20210930": "-1000000",
+        "D20191001-20200930": "-8000000",
+        "D20181001-20190930": "7000000"
+    },
+    "avya:deferredtaxliabilitiesaccruedliabilitiesandother": {
+        "I20210930": "12000000",
+        "I20200930": "0"
+    },
+    "us-gaap:contractwithcustomerassetnet": {
+        "I20210930": "606000000",
+        "I20200930": "367000000"
+    },
+    "us-gaap:commonstocksharesoutstanding": {
+        "I20210930": "84115602",
+        "I20200930": "83278383"
+    },
+    "us-gaap:depreciationnonproduction": {
+        "D20201001-20210930": "93000000",
+        "D20191001-20200930": "88000000",
+        "D20181001-20190930": "107000000"
+    },
+    "us-gaap:productwarrantyaccrual": {
+        "I20200930": "2000000",
+        "I20210930": "2000000"
+    },
+    "us-gaap:derivativeliabilitynotsubjecttomasternettingarrangement": {
+        "I20210930": "6000000",
+        "I20200930": "1000000"
+    },
+    "us-gaap:costofgoodsandservicessold": {
+        "D20201001-20210930": "398000000",
+        "D20191001-20200930": "405000000",
+        "D20181001-20190930": "442000000"
+    },
+    "us-gaap:ocibeforereclassificationsbeforetaxattributabletoparent": {
+        "D20201001-20210930": "9000000",
+        "D20191001-20200930": "-69000000",
+        "D20181001-20190930": "-87000000"
+    },
+    "us-gaap:definedbenefitplansettlementsbenefitobligation": {
+        "D20201001-20210930": "-209000000",
+        "D20191001-20200930": "0"
+    },
+    "us-gaap:leasecost": {
+        "D20201001-20210930": "82000000",
+        "D20191001-20200930": "88000000"
+    },
+    "avya:investmentinsubsidiaries": {
+        "I20210930": "1060000000",
+        "I20200930": "888000000"
+    },
+    "us-gaap:unrecognizedtaxbenefitsdecreasesresultingfrompriorperiodtaxpositions": {
+        "D20181001-20190930": "32000000",
+        "D20191001-20200930": "1000000"
+    },
+    "avya:sharesavailableforissuance": {
+        "D20201001-20210930": "250000000"
+    },
+    "us-gaap:otherliabilitiesnoncurrent": {
+        "I20210930": "267000000",
+        "I20200930": "312000000"
+    },
+    "us-gaap:definedbenefitplanbenefitobligation": {
+        "I20200930": "1145000000",
+        "I20190930": "1134000000",
+        "I20210930": "1081000000"
+    },
+    "us-gaap:proceedsfromissuanceofpreferredstockandpreferencestock": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "121000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:classofwarrantorrightexercisepriceofwarrantsorrights1": {
+        "I20171215": "25.55"
+    },
+    "us-gaap:lineofcreditfacilitycurrentborrowingcapacity": {
+        "I20171215": "300000000",
+        "I20200925": "200000000"
+    },
+    "avya:proceedsfromotherfinancingarrangements": {
+        "D20201001-20210930": "3000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:goodwillgross": {
+        "I20190930": "1282000000",
+        "I20200930": "1281000000",
+        "I20210930": "1281000000"
+    },
+    "us-gaap:longtermdebtnoncurrent": {
+        "I20210930": "2813000000",
+        "I20200930": "2886000000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardfairvalueassumptionsexerciseprice": {
+        "I20200930": "11.38"
+    },
+    "us-gaap:allocatedsharebasedcompensationexpense": {
+        "D20201001-20210930": "55000000",
+        "D20191001-20200930": "30000000",
+        "D20181001-20190930": "25000000"
+    },
+    "us-gaap:definedbenefitplansettlementsplanassets": {
+        "D20201001-20210930": "190000000",
+        "D20191001-20200930": "0"
+    },
+    "us-gaap:costofgoodsandservicessoldamortization": {
+        "D20201001-20210930": "173000000",
+        "D20191001-20200930": "174000000",
+        "D20181001-20190930": "174000000"
+    },
+    "us-gaap:lineofcreditfacilityaverageoutstandingamount": {
+        "D20201001-20210930": "37000000"
+    },
+    "us-gaap:cashcashequivalentsrestrictedcashandrestrictedcashequivalents": {
+        "I20200930": "731000000",
+        "I20190930": "756000000",
+        "I20180930": "704000000",
+        "I20210930": "502000000"
+    },
+    "us-gaap:commonstockparorstatedvaluepershare": {
+        "I20210930": "0.01"
+    },
+    "avya:sharebasedcompensationarrangementbysharebasedpaymentawardmaximumemployeesharesperofferingperiod": {
+        "I20210930": "6250"
+    },
+    "avya:deferredtaxassetsnetoperatinglossesandcreditcarryforwards": {
+        "I20210930": "988000000",
+        "I20200930": "981000000"
+    },
+    "us-gaap:finitelivedintangibleassetsgross": {
+        "I20210930": "971000000",
+        "I20200930": "961000000"
+    },
+    "us-gaap:paymentsforhedgefinancingactivities": {
+        "D20180611-20180611": "84000000"
+    },
+    "dei:entitycentralindexkey": {
+        "D20201001-20210930": "0001418100"
+    },
+    "us-gaap:stockissuedduringperiodsharesstockoptionsexercised": {
+        "D20201001-20210930": "409",
+        "D20181001-20190930": "0",
+        "D20191001-20200930": "0"
+    },
+    "avya:repaymentoflinesofcreditduetorefinancing": {
+        "D20201001-20210930": "743000000",
+        "D20191001-20200930": "1643000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:unrecognizedtaxbenefitsreductionsresultingfromlapseofapplicablestatuteoflimitations": {
+        "D20181001-20190930": "5000000",
+        "D20191001-20200930": "8000000",
+        "D20201001-20210930": "9000000"
+    },
+    "us-gaap:marketablesecuritiesrealizedgainloss": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "59000000",
+        "D20181001-20190930": "0"
+    },
+    "avya:debtinstrumentinterestratestepuporstepdownpercentage": {
+        "I20171215": "0.0025",
+        "I20200925": "0.0025"
+    },
+    "us-gaap:netcashprovidedbyusedininvestingactivities": {
+        "D20201001-20210930": "-117000000",
+        "D20191001-20200930": "314000000",
+        "D20181001-20190930": "-124000000"
+    },
+    "us-gaap:paymentsofdividendspreferredstockandpreferencestock": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "0",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:deferredtaxliabilitiesgoodwillandintangibleassets": {
+        "I20210930": "145000000",
+        "I20200930": "174000000"
+    },
+    "us-gaap:lineofcreditfacilitymaximumborrowingcapacity": {
+        "I20171215": "150000000",
+        "I20210930": "64000000"
+    },
+    "us-gaap:goodwillforeigncurrencytranslationgainloss": {
+        "D20191001-20200930": "-1000000",
+        "D20201001-20210930": "0"
+    },
+    "us-gaap:definedbenefitplanassumptionsusedcalculatingnetperiodicbenefitcostdiscountrate": {
+        "D20201001-20210930": "0.0196",
+        "D20191001-20200930": "0.0284",
+        "D20181001-20190930": "0.0394"
+    },
+    "us-gaap:noncurrentassets": {
+        "I20210930": "209000000",
+        "I20200930": "191000000"
+    },
+    "us-gaap:proceedsfromstockplans": {
+        "D20201001-20210930": "13000000",
+        "D20191001-20200930": "3000000",
+        "D20181001-20190930": "0"
+    },
+    "us-gaap:otherassetscurrent": {
+        "I20210930": "100000000",
+        "I20200930": "112000000"
+    },
+    "us-gaap:definedbenefitplanassumptionsusedcalculatingnetperiodicbenefitcostrateofcompensationincrease": {
+        "D20201001-20210930": "0.0300",
+        "D20191001-20200930": "0.0300",
+        "D20181001-20190930": "0.0400"
+    },
+    "us-gaap:advertisingexpense": {
+        "D20201001-20210930": "47000000",
+        "D20191001-20200930": "42000000",
+        "D20181001-20190930": "39000000"
+    },
+    "us-gaap:definedbenefitplanamountsrecognizedinbalancesheet": {
+        "I20210930": "-149000000",
+        "I20200930": "-218000000"
+    },
+    "avya:increasedecreaseincapitalizedcontractcosttoobtainnet": {
+        "I20210930": "10000000"
+    },
+    "us-gaap:derivativefairvalueofderivativeliability": {
+        "I20210930": "0",
+        "I20200930": "0"
+    },
+    "us-gaap:incometaxreconciliationincometaxexpensebenefitatfederalstatutoryincometaxrate": {
+        "D20201001-20210930": "0",
+        "D20191001-20200930": "-130000000",
+        "D20181001-20190930": "-140000000"
+    },
+    "us-gaap:valuationallowancesandreservesbalance": {
+        "I20190930": "4000000",
+        "I20180930": "2000000",
+        "I20200930": "7000000",
+        "I20210930": "1018000000"
+    },
+    "us-gaap:writeoffofdeferreddebtissuancecost": {
+        "D20191001-20200930": "5000000",
+        "D20201001-20210930": "1000000"
+    },
+    "us-gaap:currentforeigntaxexpensebenefit": {
+        "D20201001-20210930": "12000000",
+        "D20191001-20200930": "23000000",
+        "D20181001-20190930": "29000000"
+    },
+    "us-gaap:commonstockvalueoutstanding": {
+        "I20210930": "1000000",
+        "I20200930": "1000000"
+    },
+    "us-gaap:derivativepriceriskoptionstrikeprice": {
+        "I20180611": "27.76"
+    },
+    "us-gaap:debtinstrumentunamortizeddiscount": {
+        "I20210930": "36000000",
+        "I20200930": "55000000"
+    },
+    "us-gaap:temporaryequityaccretionofdividends": {
+        "D20201001-20210930": "2000000",
+        "D20191001-20200930": "3000000"
+    },
+    "avya:warrantrepurchaseprogramnumberofsecuritiescalledbywarrantsorrightsauthorizedamount": {
+        "I20181114": "15000000"
+    }
+}
