@@ -33,9 +33,9 @@ for the same date range with trend graph overlay and key SaaS goal drill-down ov
 - Aman Harsh
 - Mukul
 - Sandeep Kumar Auddy 
-- Aman Kanopya
+- Aman Kanojiya
 - Shreyansh Jain
-- Aryamaan Thaku
+- Aryamaan Thakur
 - Saksham Dwivedi 
-- Harshit Salanki
+- Harshit Solanki
 
