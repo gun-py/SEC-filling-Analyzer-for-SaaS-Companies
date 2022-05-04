@@ -28,8 +28,8 @@ for the same date range with trend graph overlay and key SaaS goal drill-down ov
 - The web tool is hosted using standard hosting solutions and databases only.
 
 # Team
-- Pratik Bedre
-- Gunjan Haldar
+- Pratik Bedre (C)
+- Gunjan Haldar (VC)
 - Aman Harsh
 - Mukul
 - Sandeep Kumar Auddy 
