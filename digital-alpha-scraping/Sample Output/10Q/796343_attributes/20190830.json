@@ -1,0 +1,1284 @@
+{
+    "us-gaap:loanspayable": {
+        "LoansPayableMember": "2250000000"
+    },
+    "us-gaap:debtinstrumentfaceamount": {
+        "Notes2020Member": "900000000",
+        "Notes2025Member": "1000000000"
+    },
+    "us-gaap:debtinstrumentinterestratestatedpercentage": {
+        "Notes2020Member": "0.0475",
+        "Notes2025Member": "0.0325"
+    },
+    "invest:derivativenotionalamount": {
+        "DesignatedAsHedgingInstrumentMember": "1000000000",
+        "FairValueHedgingMember": "900000000"
+    },
+    "us-gaap:derivativefixedinterestrate": {
+        "FairValueHedgingMember": "0.0475"
+    },
+    "us-gaap:derivativefairvalueofderivativeasset": {
+        "DesignatedAsHedgingInstrumentMember": "44209000",
+        "NondesignatedMember": "3438000",
+        "FI2019Q3": "47647000",
+        "FI2018Q4": "44259000"
+    },
+    "us-gaap:derivativefairvalueofderivativeliability": {
+        "DesignatedAsHedgingInstrumentMember": "0",
+        "NondesignatedMember": "3882000",
+        "FI2019Q3": "61263000",
+        "FI2018Q4": "10560000"
+    },
+    "us-gaap:foreigncurrencycashflowhedgegainlosstobereclassifiedduringnext12months": {
+        "DesignatedAsHedgingInstrumentMember": "34900000"
+    },
+    "us-gaap:lineofcreditfacilitycurrentborrowingcapacity": {
+        "RevolvingCreditFacilityMember": "1000000000"
+    },
+    "us-gaap:unamortizeddebtissuanceexpense": {
+        "LoansPayableMember": "700000",
+        "Notes2020Member": "6400000",
+        "Notes2025Member": "7900000",
+        "RevolvingCreditFacilityMember": "800000"
+    },
+    "adbe:optiontorequestadditionalcommitmentsoncreditfacility": {
+        "RevolvingCreditFacilityMember": "500000000"
+    },
+    "us-gaap:lineofcreditfacilitymaximumborrowingcapacity": {
+        "RevolvingCreditFacilityMember": "1500000000"
+    },
+    "adbe:marginaddedtolibortodetermineinterestrate": {
+        "LoansPayableMember": "0.00500",
+        "RevolvingCreditFacilityMember": "0.00585"
+    },
+    "adbe:percentageaddedtoeffectivefundsrateindetermininginterestrate": {
+        "RevolvingCreditFacilityMember": "0.00500"
+    },
+    "adbe:percentageaddedtoliborindetermininginterestrate": {
+        "RevolvingCreditFacilityMember": "0.0100"
+    },
+    "us-gaap:lineofcreditfacilitycommitmentfeepercentage": {
+        "RevolvingCreditFacilityMember": "0.0004"
+    },
+    "us-gaap:stockrepurchaseprogramauthorizedamount1": {
+        "I2018Q2SD": "8000000000"
+    },
+    "us-gaap:paymentsforrepurchaseofcommonstock": {
+        "FD2019Q3YTD": "2000000000",
+        "FD2018Q3YTD": "1750000000",
+        "SubsequentEventMember": "750000000"
+    },
+    "us-gaap:treasurystocksharesacquired": {
+        "TreasuryStockMember": "2592000",
+        "FD2019Q3YTD": "7100000",
+        "FD2018Q3YTD": "7100000"
+    },
+    "us-gaap:treasurystockacquiredaveragecostpershare": {
+        "FD2019Q3YTD": "266.96",
+        "FD2018Q3YTD": "225.15"
+    },
+    "us-gaap:stockrepurchaseprogramremainingauthorizedrepurchaseamount1": {
+        "SubsequentEventMember": "5100000000"
+    },
+    "adbe:upfrontpaymentstreasurystockremainingbalance": {
+        "FI2019Q3": "250100000"
+    },
+    "us-gaap:investmentincomeinterest": {
+        "FD2019Q3QTD": "17760000",
+        "FD2018Q3QTD": "21561000",
+        "FD2019Q3YTD": "50109000",
+        "FD2018Q3YTD": "69962000"
+    },
+    "us-gaap:foreigncurrencytransactiongainlossbeforetax": {
+        "FD2019Q3QTD": "-1292000",
+        "FD2018Q3QTD": "-10349000",
+        "FD2019Q3YTD": "-26840000",
+        "FD2018Q3YTD": "-30460000"
+    },
+    "us-gaap:availableforsalesecuritiesgrossrealizedgains": {
+        "FD2019Q3QTD": "96000",
+        "FD2018Q3QTD": "63000",
+        "FD2019Q3YTD": "112000",
+        "FD2018Q3YTD": "253000"
+    },
+    "us-gaap:availableforsalesecuritiesgrossrealizedlosses": {
+        "FD2019Q3QTD": "60000",
+        "FD2018Q3QTD": "9708000",
+        "FD2019Q3YTD": "269000",
+        "FD2018Q3YTD": "10094000"
+    },
+    "adbe:otherinterestandotherincomeexpensenet": {
+        "FD2019Q3QTD": "48000",
+        "FD2018Q3QTD": "41000",
+        "FD2019Q3YTD": "264000",
+        "FD2018Q3YTD": "218000"
+    },
+    "us-gaap:othernonoperatingincome": {
+        "FD2019Q3QTD": "16552000",
+        "FD2018Q3QTD": "1608000",
+        "FD2019Q3YTD": "23376000",
+        "FD2018Q3YTD": "29879000"
+    },
+    "us-gaap:interestexpense": {
+        "FD2019Q3QTD": "39529000",
+        "FD2018Q3QTD": "21107000",
+        "FD2019Q3YTD": "120699000",
+        "FD2018Q3YTD": "61369000"
+    },
+    "adbe:realizedinvestmentgains": {
+        "FD2019Q3QTD": "639000",
+        "FD2018Q3QTD": "836000",
+        "FD2019Q3YTD": "45254000",
+        "FD2018Q3YTD": "5333000"
+    },
+    "adbe:realizedinvestmentlosses": {
+        "FD2019Q3QTD": "0",
+        "FD2018Q3QTD": "0",
+        "FD2019Q3YTD": "130000",
+        "FD2018Q3YTD": "0"
+    },
+    "adbe:unrealizedinvestmentgains": {
+        "FD2019Q3QTD": "3014000",
+        "FD2018Q3QTD": "1415000",
+        "FD2019Q3YTD": "1604000",
+        "FD2018Q3YTD": "993000"
+    },
+    "us-gaap:gainlossoninvestments": {
+        "FD2019Q3QTD": "3653000",
+        "FD2018Q3QTD": "2251000",
+        "FD2019Q3YTD": "46728000",
+        "FD2018Q3YTD": "6326000"
+    },
+    "us-gaap:nonoperatingincomeexpense": {
+        "FD2019Q3QTD": "-19324000",
+        "FD2018Q3QTD": "-17248000",
+        "FD2019Q3YTD": "-50595000",
+        "FD2018Q3YTD": "-25164000"
+    },
+    "us-gaap:netincomeloss": {
+        "FD2019Q3QTD": "792763000",
+        "FD2018Q3QTD": "666291000",
+        "FD2019Q3YTD": "2099597000",
+        "FD2018Q3YTD": "1912534000",
+        "RetainedEarningsMember": "792763000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-40653000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "752110000"
+    },
+    "us-gaap:weightedaveragenumberofsharesoutstandingbasic": {
+        "FD2019Q3QTD": "485848000",
+        "FD2018Q3QTD": "490025000",
+        "FD2019Q3YTD": "487145000",
+        "FD2018Q3YTD": "491336000"
+    },
+    "adbe:dilutivepotentialsharesfromunvestedrestrictedstockandperformanceshareawards": {
+        "FD2019Q3QTD": "4792000",
+        "FD2018Q3QTD": "6716000",
+        "FD2019Q3YTD": "4885000",
+        "FD2018Q3YTD": "7109000"
+    },
+    "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": {
+        "FD2019Q3QTD": "402000",
+        "FD2018Q3QTD": "125000",
+        "FD2019Q3YTD": "450000",
+        "FD2018Q3YTD": "142000"
+    },
+    "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": {
+        "FD2019Q3QTD": "491042000",
+        "FD2018Q3QTD": "496866000",
+        "FD2019Q3YTD": "492480000",
+        "FD2018Q3YTD": "498587000"
+    },
+    "us-gaap:earningspersharebasic": {
+        "FD2019Q3QTD": "1.63",
+        "FD2018Q3QTD": "1.36",
+        "FD2019Q3YTD": "4.31",
+        "FD2018Q3YTD": "3.89",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-0.08",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "1.55"
+    },
+    "us-gaap:earningspersharediluted": {
+        "FD2019Q3QTD": "1.61",
+        "FD2018Q3QTD": "1.34",
+        "FD2019Q3YTD": "4.26",
+        "FD2018Q3YTD": "3.84",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-0.08",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "1.53"
+    },
+    "us-gaap:antidilutivesecuritiesexcludedfromcomputationofearningspershareamount": {
+        "FD2019Q3QTD": "146000",
+        "FD2018Q3QTD": "13000",
+        "FD2019Q3YTD": "92000",
+        "FD2018Q3YTD": "166000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpensenexttwelvemonths": {
+        "PurchasedTechnologyMember": "31532000",
+        "TotalOtherIntangibleAssetsMember": "65793000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyeartwo": {
+        "PurchasedTechnologyMember": "125403000",
+        "TotalOtherIntangibleAssetsMember": "237147000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyearthree": {
+        "PurchasedTechnologyMember": "103288000",
+        "TotalOtherIntangibleAssetsMember": "149809000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyearfour": {
+        "PurchasedTechnologyMember": "86522000",
+        "TotalOtherIntangibleAssetsMember": "134627000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseyearfive": {
+        "PurchasedTechnologyMember": "78085000",
+        "TotalOtherIntangibleAssetsMember": "134272000"
+    },
+    "us-gaap:finitelivedintangibleassetsamortizationexpenseafteryearfive": {
+        "PurchasedTechnologyMember": "142641000",
+        "TotalOtherIntangibleAssetsMember": "526506000"
+    },
+    "adbe:totalamortizationexpenseexpectedtoberecognized": {
+        "PurchasedTechnologyMember": "567471000",
+        "TotalOtherIntangibleAssetsMember": "1248154000"
+    },
+    "us-gaap:othercomprehensiveincomeunrealizedholdinggainlossonsecuritiesarisingduringperiodnetoftax": {
+        "FD2019Q3QTD": "6867000",
+        "FD2018Q3QTD": "5849000",
+        "FD2019Q3YTD": "29178000",
+        "FD2018Q3YTD": "-19020000"
+    },
+    "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaociforsaleofsecuritiesnetoftax": {
+        "FD2019Q3QTD": "36000",
+        "FD2018Q3QTD": "-9645000",
+        "FD2019Q3YTD": "-157000",
+        "FD2018Q3YTD": "-9842000"
+    },
+    "us-gaap:othercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": {
+        "FD2019Q3QTD": "6831000",
+        "FD2018Q3QTD": "15494000",
+        "FD2019Q3YTD": "29335000",
+        "FD2018Q3YTD": "-9178000"
+    },
+    "us-gaap:othercomprehensiveincomeunrealizedgainlossonderivativesarisingduringperiodnetoftax": {
+        "FD2019Q3QTD": "-27031000",
+        "FD2018Q3QTD": "17524000",
+        "FD2019Q3YTD": "-8232000",
+        "FD2018Q3YTD": "47290000"
+    },
+    "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativesnetoftax": {
+        "FD2019Q3QTD": "11034000",
+        "FD2018Q3QTD": "16494000",
+        "FD2019Q3YTD": "38397000",
+        "FD2018Q3YTD": "18671000"
+    },
+    "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgesnetoftax": {
+        "FD2019Q3QTD": "-38065000",
+        "FD2018Q3QTD": "1030000",
+        "FD2019Q3YTD": "-46629000",
+        "FD2018Q3YTD": "28619000"
+    },
+    "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": {
+        "FD2019Q3QTD": "-18351000",
+        "FD2018Q3QTD": "-15342000",
+        "FD2019Q3YTD": "-28525000",
+        "FD2018Q3YTD": "-35668000"
+    },
+    "us-gaap:othercomprehensiveincomelossnetoftax": {
+        "FD2019Q3QTD": "-49585000",
+        "FD2018Q3QTD": "1182000",
+        "FD2019Q3YTD": "-45819000",
+        "FD2018Q3YTD": "-16227000",
+        "AccumulatedOtherComprehensiveIncomeMember": "-49585000"
+    },
+    "us-gaap:comprehensiveincomenetoftax": {
+        "FD2019Q3QTD": "743178000",
+        "FD2018Q3QTD": "667473000",
+        "FD2019Q3YTD": "2053778000",
+        "FD2018Q3YTD": "1896307000"
+    },
+    "adbe:unrealizedgainsonavailableforsalesecuritiesnetoftax": {
+        "FI2018Q4": "44000",
+        "FI2019Q3": "4513000"
+    },
+    "adbe:grossunrealizedgainsonavailableforsalesecuritiesincreasedecreasenetoftax": {
+        "FD2019Q3YTD": "4581000"
+    },
+    "adbe:grossunrealizedgainsonavailableforsalesecuritiesreclassificationadjustmentsnetoftax": {
+        "FD2019Q3YTD": "112000"
+    },
+    "adbe:unrealizedlossesonavailableforsalesecuritiesnetoftax": {
+        "FI2018Q4": "25374000",
+        "FI2019Q3": "508000"
+    },
+    "adbe:grossunrealizedlossesonavailableforsalesecuritiesincreaseordecreasenetoftax": {
+        "FD2019Q3YTD": "-24597000"
+    },
+    "adbe:grossunrealizedlossesonavailableforsalesecuritiesreclassificationadjustmentsnetoftax": {
+        "FD2019Q3YTD": "269000"
+    },
+    "us-gaap:accumulatedothercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": {
+        "FI2018Q4": "-25330000",
+        "FI2019Q3": "4005000"
+    },
+    "us-gaap:accumulatedothercomprehensiveincomelossforeigncurrencytranslationadjustmentnetoftax": {
+        "FI2018Q4": "-144532000",
+        "FI2019Q3": "-173057000"
+    },
+    "us-gaap:accumulatedothercomprehensiveincomelossnetoftax": {
+        "FI2019Q3": "-193949000",
+        "FI2018Q4": "-148130000"
+    },
+    "us-gaap:othercomprehensiveincomelossbeforereclassificationsnetoftax": {
+        "FD2019Q3YTD": "-7579000"
+    },
+    "us-gaap:reclassificationfromaccumulatedothercomprehensiveincomecurrentperiodnetoftax": {
+        "FD2019Q3YTD": "38240000"
+    },
+    "adbe:subscriptionandcirculationrevenue": {
+        "FD2019Q3QTD": "2546571000",
+        "FD2018Q3QTD": "2021505000",
+        "FD2019Q3YTD": "7307635000",
+        "FD2018Q3YTD": "5737994000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "825000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "2547396000",
+        "DigitalMediaMember": "1840547000",
+        "DigitalExperienceMember": "678697000",
+        "PublishingMember": "27327000"
+    },
+    "adbe:productrevenue": {
+        "FD2019Q3QTD": "157321000",
+        "FD2018Q3QTD": "149127000",
+        "FD2019Q3YTD": "480691000",
+        "FD2018Q3YTD": "471728000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-32908000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "124413000"
+    },
+    "adbe:servicesandsupportrevenue": {
+        "FD2019Q3QTD": "130234000",
+        "FD2018Q3QTD": "120444000",
+        "FD2019Q3YTD": "391026000",
+        "FD2018Q3YTD": "355661000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-3499000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "126735000"
+    },
+    "us-gaap:revenues": {
+        "FD2019Q3QTD": "2834126000",
+        "FD2018Q3QTD": "2291076000",
+        "FD2019Q3YTD": "8179352000",
+        "FD2018Q3YTD": "6565383000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-35582000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "2798544000",
+        "DigitalMediaMember": "1962160000",
+        "DigitalExperienceMember": "820935000",
+        "PublishingMember": "51031000",
+        "AmericasMember": "1639391000",
+        "EMEAMember": "754912000",
+        "AsiaMember": "439823000"
+    },
+    "adbe:costofsubscriptionrevenue": {
+        "FD2019Q3QTD": "303885000",
+        "FD2018Q3QTD": "199157000",
+        "FD2019Q3YTD": "888392000",
+        "FD2018Q3YTD": "550197000"
+    },
+    "adbe:costofproductrevenue": {
+        "FD2019Q3QTD": "9146000",
+        "FD2018Q3QTD": "11454000",
+        "FD2019Q3YTD": "30596000",
+        "FD2018Q3YTD": "35110000"
+    },
+    "adbe:costofservicesandsupportrevenue": {
+        "FD2019Q3QTD": "102932000",
+        "FD2018Q3QTD": "84881000",
+        "FD2019Q3YTD": "301749000",
+        "FD2018Q3YTD": "250431000"
+    },
+    "us-gaap:costofrevenue": {
+        "FD2019Q3QTD": "415963000",
+        "FD2018Q3QTD": "295492000",
+        "FD2019Q3YTD": "1220737000",
+        "FD2018Q3YTD": "835738000",
+        "DigitalMediaMember": "73707000",
+        "DigitalExperienceMember": "337373000",
+        "PublishingMember": "4883000"
+    },
+    "us-gaap:grossprofit": {
+        "FD2019Q3QTD": "2418163000",
+        "FD2018Q3QTD": "1995584000",
+        "FD2019Q3YTD": "6958615000",
+        "FD2018Q3YTD": "5729645000",
+        "DigitalMediaMember": "1888453000",
+        "DigitalExperienceMember": "483562000",
+        "PublishingMember": "46148000"
+    },
+    "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": {
+        "FD2019Q3QTD": "489827000",
+        "FD2018Q3QTD": "398957000",
+        "FD2019Q3YTD": "1430422000",
+        "FD2018Q3YTD": "1121854000"
+    },
+    "us-gaap:sellingandmarketingexpense": {
+        "FD2019Q3QTD": "812314000",
+        "FD2018Q3QTD": "670084000",
+        "FD2019Q3YTD": "2442759000",
+        "FD2018Q3YTD": "1897256000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "7211000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "819525000"
+    },
+    "us-gaap:generalandadministrativeexpense": {
+        "FD2019Q3QTD": "219256000",
+        "FD2018Q3QTD": "184063000",
+        "FD2019Q3YTD": "654699000",
+        "FD2018Q3YTD": "532543000"
+    },
+    "adbe:operatingexpensesamortizationofpurchasedintangibles": {
+        "FD2019Q3QTD": "42954000",
+        "FD2018Q3QTD": "23874000",
+        "FD2019Q3YTD": "132546000",
+        "FD2018Q3YTD": "58169000"
+    },
+    "us-gaap:operatingexpenses": {
+        "FD2019Q3QTD": "1564351000",
+        "FD2018Q3QTD": "1276978000",
+        "FD2019Q3YTD": "4660426000",
+        "FD2018Q3YTD": "3609822000"
+    },
+    "us-gaap:operatingincomeloss": {
+        "FD2019Q3QTD": "853812000",
+        "FD2018Q3QTD": "718606000",
+        "FD2019Q3YTD": "2298189000",
+        "FD2018Q3YTD": "2119823000"
+    },
+    "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": {
+        "FD2019Q3QTD": "834488000",
+        "FD2018Q3QTD": "701358000",
+        "FD2019Q3YTD": "2247594000",
+        "FD2018Q3YTD": "2094659000"
+    },
+    "us-gaap:incometaxexpensebenefit": {
+        "FD2019Q3QTD": "41725000",
+        "FD2018Q3QTD": "35067000",
+        "FD2019Q3YTD": "147997000",
+        "FD2018Q3YTD": "182125000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-2140000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "39585000"
+    },
+    "us-gaap:depreciationdepletionandamortization": {
+        "FD2019Q3YTD": "441057000",
+        "FD2018Q3YTD": "239772000"
+    },
+    "us-gaap:sharebasedcompensation": {
+        "FD2019Q3YTD": "584500000",
+        "FD2018Q3YTD": "439941000"
+    },
+    "us-gaap:deferredincometaxesandtaxcredits": {
+        "FD2019Q3YTD": "-1747000",
+        "FD2018Q3YTD": "-418114000"
+    },
+    "us-gaap:unrealizedgainlossoninvestments": {
+        "FD2019Q3YTD": "43456000",
+        "FD2018Q3YTD": "3115000"
+    },
+    "us-gaap:othernoncashincomeexpense": {
+        "FD2019Q3YTD": "-2756000",
+        "FD2018Q3YTD": "-4844000"
+    },
+    "us-gaap:increasedecreaseinreceivables": {
+        "FD2019Q3YTD": "14050000",
+        "FD2018Q3YTD": "-199002000"
+    },
+    "us-gaap:increasedecreaseinprepaiddeferredexpenseandotherassets": {
+        "FD2019Q3YTD": "289957000",
+        "FD2018Q3YTD": "89823000"
+    },
+    "us-gaap:increasedecreaseinaccountspayable": {
+        "FD2019Q3YTD": "629000",
+        "FD2018Q3YTD": "25362000"
+    },
+    "us-gaap:increasedecreaseinaccruedliabilities": {
+        "FD2019Q3YTD": "53074000",
+        "FD2018Q3YTD": "4099000"
+    },
+    "us-gaap:increasedecreaseinaccruedincometaxespayable": {
+        "FD2019Q3YTD": "-39171000",
+        "FD2018Q3YTD": "433559000"
+    },
+    "us-gaap:increasedecreaseindeferredrevenue": {
+        "FD2019Q3YTD": "252182000",
+        "FD2018Q3YTD": "173250000"
+    },
+    "us-gaap:netcashprovidedbyusedinoperatingactivities": {
+        "FD2019Q3YTD": "3045414000",
+        "FD2018Q3YTD": "2921311000"
+    },
+    "us-gaap:paymentstoacquireshortterminvestments": {
+        "FD2019Q3YTD": "373057000",
+        "FD2018Q3YTD": "541878000"
+    },
+    "us-gaap:proceedsfrommaturitiesprepaymentsandcallsofshortterminvestments": {
+        "FD2019Q3YTD": "477840000",
+        "FD2018Q3YTD": "606594000"
+    },
+    "us-gaap:proceedsfromsaleofshortterminvestments": {
+        "FD2019Q3YTD": "66463000",
+        "FD2018Q3YTD": "238303000"
+    },
+    "us-gaap:paymentstoacquirebusinessesnetofcashacquired": {
+        "FD2019Q3YTD": "99817000",
+        "FD2018Q3YTD": "1633041000"
+    },
+    "us-gaap:paymentstoacquirepropertyplantandequipment": {
+        "FD2019Q3YTD": "300384000",
+        "FD2018Q3YTD": "204016000"
+    },
+    "us-gaap:paymentstoacquirelongterminvestments": {
+        "FD2019Q3YTD": "59894000",
+        "FD2018Q3YTD": "15288000"
+    },
+    "us-gaap:proceedsfromsaleofavailableforsalesecuritiesequity": {
+        "FD2019Q3YTD": "1674000",
+        "FD2018Q3YTD": "2909000"
+    },
+    "us-gaap:netcashprovidedbyusedininvestingactivities": {
+        "FD2019Q3YTD": "-287175000",
+        "FD2018Q3YTD": "-1546417000"
+    },
+    "us-gaap:proceedsfromsaleoftreasurystock": {
+        "FD2019Q3YTD": "232240000",
+        "FD2018Q3YTD": "189743000"
+    },
+    "adbe:costofissuanceoftreasurystock": {
+        "FD2019Q3YTD": "411998000",
+        "FD2018Q3YTD": "368910000"
+    },
+    "us-gaap:repaymentsoflongtermdebtandcapitalsecurities": {
+        "FD2019Q3YTD": "626000",
+        "FD2018Q3YTD": "1132000"
+    },
+    "us-gaap:netcashprovidedbyusedinfinancingactivities": {
+        "FD2019Q3YTD": "-2180384000",
+        "FD2018Q3YTD": "-1930299000"
+    },
+    "us-gaap:effectofexchangerateoncashandcashequivalents": {
+        "FD2019Q3YTD": "-11583000",
+        "FD2018Q3YTD": "-3523000"
+    },
+    "us-gaap:cashandcashequivalentsperiodincreasedecrease": {
+        "FD2019Q3YTD": "566272000",
+        "FD2018Q3YTD": "-558928000"
+    },
+    "us-gaap:cashandcashequivalentsatcarryingvalue": {
+        "FI2019Q3": "2209047000",
+        "FI2018Q4": "1642775000",
+        "FI2017Q4": "2306072000",
+        "FI2018Q3": "1747144000"
+    },
+    "us-gaap:incometaxespaidnet": {
+        "FD2019Q3YTD": "231813000",
+        "FD2018Q3YTD": "141674000"
+    },
+    "us-gaap:interestpaidnet": {
+        "FD2019Q3YTD": "124599000",
+        "FD2018Q3YTD": "61754000"
+    },
+    "adbe:equityawardsassumedforacquisition": {
+        "AdditionalPaidInCapitalMember": "2784000",
+        "FD2018Q3QTD": "2784000",
+        "FD2018Q3YTD": "2784000",
+        "FD2019Q3YTD": "0"
+    },
+    "us-gaap:finitelivedcustomerrelationshipsgross": {
+        "MarketoMember": "577500000",
+        "MagentoMember": "208000000"
+    },
+    "adbe:finitelivedpurchasedtechnologygross": {
+        "MarketoMember": "444500000",
+        "MagentoMember": "84200000"
+    },
+    "us-gaap:finitelivedcontractualrightsgross": {
+        "MarketoMember": "105500000"
+    },
+    "us-gaap:finitelivednoncompeteagreementsgross": {
+        "MarketoMember": "12100000"
+    },
+    "us-gaap:finitelivedtrademarksgross": {
+        "MarketoMember": "328500000",
+        "MagentoMember": "21100000"
+    },
+    "us-gaap:businesscombinationrecognizedidentifiableassetsacquiredandliabilitiesassumedintangibles": {
+        "AllegorithmicMember": "44800000",
+        "MarketoMember": "1468100000",
+        "MagentoMember": "395800000"
+    },
+    "us-gaap:businesscombinationrecognizedidentifiableassetsacquiredandliabilitiesassumednet": {
+        "MarketoMember": "-194588000",
+        "MagentoMember": "-68182000"
+    },
+    "us-gaap:goodwillacquiredduringperiod": {
+        "AllegorithmicMember": "124700000",
+        "MarketoMember": "3459256000",
+        "MagentoMember": "1316983000"
+    },
+    "adbe:businesscombinationpurchaseprice": {
+        "AllegorithmicMember": "159700000",
+        "MarketoMember": "4730000000",
+        "MagentoMember": "1644601000"
+    },
+    "us-gaap:accountsreceivablenetcurrent": {
+        "FI2019Q3": "1371697000",
+        "FI2018Q4": "1315578000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "1315578000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "43028000",
+        "I2019Q1OpeningBal606": "1358606000"
+    },
+    "us-gaap:prepaidexpenseandotherassetscurrent": {
+        "FI2019Q3": "727611000",
+        "FI2018Q4": "312499000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "312499000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "186220000",
+        "I2019Q1OpeningBal606": "498719000"
+    },
+    "us-gaap:otherassetsnoncurrent": {
+        "FI2019Q3": "557080000",
+        "FI2018Q4": "186522000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "186522000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "273421000",
+        "I2019Q1OpeningBal606": "459943000"
+    },
+    "us-gaap:accruedliabilitiescurrent": {
+        "FI2019Q3": "1302753000",
+        "FI2018Q4": "1163185000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "1163185000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "30358000",
+        "I2019Q1OpeningBal606": "1193543000"
+    },
+    "us-gaap:deferredrevenuecurrent": {
+        "FI2019Q3": "3120186000",
+        "FI2018Q4": "2915974000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "2915974000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-52842000",
+        "I2019Q1OpeningBal606": "2863132000"
+    },
+    "us-gaap:deferredrevenuenoncurrent": {
+        "FI2019Q3": "135750000",
+        "FI2018Q4": "137630000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "-9998000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "125752000"
+    },
+    "us-gaap:deferredtaxliabilitiesnoncurrent": {
+        "FI2019Q3": "129401000",
+        "FI2018Q4": "46702000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "46702000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "82834000",
+        "I2019Q1OpeningBal606": "129536000"
+    },
+    "us-gaap:retainedearningsaccumulateddeficit": {
+        "FI2019Q3": "13976701000",
+        "FI2018Q4": "11815597000",
+        "CalculatedUnderRevenueGuidanceInEffectBeforeTopic606Member": "11815597000",
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "442319000",
+        "I2019Q1OpeningBal606": "12257916000"
+    },
+    "adbe:businesscombinationpurchasepriceforremaininginterest": {
+        "AllegorithmicMember": "105300000"
+    },
+    "us-gaap:businesscombinationstepacquisitionequityinterestinacquireeremeasurementgainorloss": {
+        "AllegorithmicMember": "41500000"
+    },
+    "us-gaap:businesscombinationstepacquisitionequityinterestinacquireefairvalue1": {
+        "AllegorithmicMember": "54400000"
+    },
+    "adbe:businesscombinationdeferredtaxliabilitiesassumedforfutureamortizationofintangibleassets": {
+        "MarketoMember": "348800000"
+    },
+    "adbe:businesscombinationdeferredtaxassetsacquired": {
+        "MarketoMember": "166200000"
+    },
+    "us-gaap:finitelivedintangibleassetsgross": {
+        "PurchasedTechnologyMember": "773575000",
+        "CustomerContractsMember": "1246260000",
+        "TrademarksMember": "384855000",
+        "DevelopedTechnologyRightsMember": "60706000",
+        "OrderOrProductionBacklogMember": "147000000",
+        "OtherIntangibleAssetsMember": "23870000",
+        "TotalOtherIntangibleAssetsMember": "1862691000",
+        "FI2019Q3": "2636266000",
+        "FI2018Q4": "2721935000"
+    },
+    "us-gaap:finitelivedintangibleassetsaccumulatedamortization": {
+        "PurchasedTechnologyMember": "206104000",
+        "CustomerContractsMember": "430499000",
+        "TrademarksMember": "62075000",
+        "DevelopedTechnologyRightsMember": "48310000",
+        "OrderOrProductionBacklogMember": "62824000",
+        "OtherIntangibleAssetsMember": "10829000",
+        "TotalOtherIntangibleAssetsMember": "614537000",
+        "FI2019Q3": "820641000",
+        "FI2018Q4": "652934000"
+    },
+    "us-gaap:finitelivedintangibleassetsnet": {
+        "FI2019Q3": "1815625000",
+        "FI2018Q4": "2069001000",
+        "PurchasedTechnologyMember": "567471000",
+        "CustomerContractsMember": "815761000",
+        "TrademarksMember": "322780000",
+        "DevelopedTechnologyRightsMember": "12396000",
+        "OrderOrProductionBacklogMember": "84176000",
+        "OtherIntangibleAssetsMember": "13041000",
+        "TotalOtherIntangibleAssetsMember": "1248154000"
+    },
+    "us-gaap:availableforsalesecuritiescontinuousunrealizedlosspositionlessthantwelvemonthsfairvalue": {
+        "CorporateDebtSecuritiesMember": "222357000",
+        "AssetBackedSecuritiesMember": "0",
+        "MunicipalNotesMember": "1609000",
+        "FI2019Q3": "223966000",
+        "FI2018Q4": "551404000"
+    },
+    "us-gaap:availableforsalesecuritiescontinuousunrealizedlosspositiontwelvemonthsorlongerfairvalue": {
+        "CorporateDebtSecuritiesMember": "255175000",
+        "AssetBackedSecuritiesMember": "15912000",
+        "MunicipalNotesMember": "0",
+        "ForeignGovernmentDebtSecuritiesMember": "2399000",
+        "FI2019Q3": "273486000",
+        "FI2018Q4": "1020199000"
+    },
+    "us-gaap:availableforsalesecuritiescontinuousunrealizedlosspositionlessthan12monthsaccumulatedloss": {
+        "CorporateDebtSecuritiesMember": "84000",
+        "AssetBackedSecuritiesMember": "0",
+        "MunicipalNotesMember": "1000",
+        "FI2019Q3": "85000",
+        "FI2018Q4": "8101000"
+    },
+    "us-gaap:availableforsalesecuritiescontinuousunrealizedlossposition12monthsorlongeraccumulatedloss": {
+        "CorporateDebtSecuritiesMember": "401000",
+        "AssetBackedSecuritiesMember": "21000",
+        "MunicipalNotesMember": "0",
+        "ForeignGovernmentDebtSecuritiesMember": "1000",
+        "FI2019Q3": "423000",
+        "FI2018Q4": "17272000"
+    },
+    "us-gaap:availableforsalesecuritiesdebtmaturitieswithinoneyearamortizedcost": {
+        "FI2019Q3": "790327000"
+    },
+    "adbe:availableforsalesecuritiesdebtmaturitiesnextonetotwoyearsamortizedcostbasis": {
+        "FI2019Q3": "474157000"
+    },
+    "adbe:availableforsalesecuritiesdebtmaturitiesnexttwotothreeyearsamortizedcostbasis": {
+        "FI2019Q3": "138478000"
+    },
+    "adbe:availableforsalesecuritiesdebtmaturitiesafterthreeyearsamortizedcostbasis": {
+        "FI2019Q3": "34772000"
+    },
+    "us-gaap:availableforsaledebtsecuritiesamortizedcostbasis": {
+        "FI2019Q3": "1437734000"
+    },
+    "us-gaap:availableforsalesecuritiesdebtmaturitieswithinoneyearfairvalue": {
+        "FI2019Q3": "790849000"
+    },
+    "adbe:availableforsalesecuritiesdebtmaturitiesnextonetotwoyearsfairvalue": {
+        "FI2019Q3": "475770000"
+    },
+    "adbe:availableforsalesecuritiesdebtmaturitiesnexttwotothreeyearsfairvalue": {
+        "FI2019Q3": "139776000"
+    },
+    "adbe:availableforsalesecuritiesdebtmaturitiesafterthreeyearsfairvalue": {
+        "FI2019Q3": "35346000"
+    },
+    "us-gaap:availableforsalesecuritiesdebtsecurities": {
+        "FI2019Q3": "1441741000"
+    },
+    "adbe:actualpercentageachieved": {
+        "PerformanceSharesMember": "2"
+    },
+    "adbe:actualsharesachieved": {
+        "PerformanceSharesMember": "800000"
+    },
+    "adbe:achieved": {
+        "PerformanceSharesMember": "830000"
+    },
+    "us-gaap:cashandcashequivalentsfairvaluedisclosure": {
+        "CashMember": "437246000",
+        "CashEquivalentsMember": "113191000",
+        "CashAndCashEquivalentsMember": "2209047000",
+        "CorporateDebtSecuritiesMember": "113191000",
+        "MoneyMarketFundsMember": "1595310000",
+        "BankTimeDepositsMember": "61600000",
+        "USGovernmentAgenciesDebtSecuritiesMember": "1700000"
+    },
+    "us-gaap:availableforsalesecurities": {
+        "FixedIncomeInvestmentsMember": "75868000",
+        "AssetBackedSecuritiesMember": "75868000",
+        "CorporateDebtSecuritiesMember": "1312619000",
+        "ForeignGovernmentDebtSecuritiesMember": "2399000",
+        "MunicipalNotesMember": "20895000",
+        "USGovernmentAgenciesDebtSecuritiesMember": "22005000",
+        "USTreasurySecuritiesMember": "7955000"
+    },
+    "us-gaap:foreigncurrencycontractassetfairvaluedisclosure": {
+        "FairValueMeasurementsRecurringMember": "47647000"
+    },
+    "us-gaap:deferredcompensationplanassets": {
+        "FairValueMeasurementsRecurringMember": "87010000"
+    },
+    "us-gaap:assetsfairvaluedisclosure": {
+        "FairValueMeasurementsRecurringMember": "3348199000"
+    },
+    "us-gaap:interestratederivativesatfairvaluenet": {
+        "FairValueMeasurementsRecurringMember": "56910000"
+    },
+    "us-gaap:foreigncurrencycontractsliabilityfairvaluedisclosure": {
+        "FairValueMeasurementsRecurringMember": "3882000"
+    },
+    "us-gaap:interestratederivativeliabilitiesatfairvalue": {
+        "FairValueMeasurementsRecurringMember": "471000"
+    },
+    "us-gaap:liabilitiesfairvaluedisclosure": {
+        "FairValueMeasurementsRecurringMember": "61263000"
+    },
+    "us-gaap:othercomprehensiveincomeunrealizedgainlossonderivativesarisingduringperiodtax": {
+        "FD2019Q3QTD": "13516000",
+        "FD2018Q3QTD": "0",
+        "FD2019Q3YTD": "13516000",
+        "FD2018Q3YTD": "0"
+    },
+    "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativestax": {
+        "FD2019Q3QTD": "95000",
+        "FD2018Q3QTD": "101000",
+        "FD2019Q3YTD": "288000",
+        "FD2018Q3YTD": "1726000"
+    },
+    "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgestax": {
+        "FD2019Q3QTD": "13421000",
+        "FD2018Q3QTD": "-101000",
+        "FD2019Q3YTD": "13228000",
+        "FD2018Q3YTD": "-1726000"
+    },
+    "us-gaap:othercomprehensiveincomelossforeigncurrencytranslationadjustmenttax": {
+        "FD2019Q3QTD": "0",
+        "FD2018Q3QTD": "0",
+        "FD2019Q3YTD": "0",
+        "FD2018Q3YTD": "-1742000"
+    },
+    "us-gaap:othercomprehensiveincomelosstax": {
+        "FD2019Q3QTD": "13421000",
+        "FD2018Q3QTD": "-101000",
+        "FD2019Q3YTD": "13228000",
+        "FD2018Q3YTD": "-3468000"
+    },
+    "us-gaap:othercomprehensiveincomeunrealizedgainlossonderivativesarisingduringperiodbeforetax": {
+        "CashFlowHedgingMember": "15040000",
+        "ForeignExchangeForwardMember": "0"
+    },
+    "us-gaap:derivativeinstrumentsgainlossreclassifiedfromaccumulatedociintoincomeeffectiveportionnet": {
+        "CashFlowHedgingMember": "10015000",
+        "ForeignExchangeForwardMember": "0"
+    },
+    "adbe:netgainlossrecognizedinrevenue": {
+        "ForeignExchangeOptionMember": "761000",
+        "ForeignExchangeForwardMember": "0",
+        "InterestRateContractMember": "0"
+    },
+    "us-gaap:derivativeinstrumentsnotdesignatedashedginginstrumentsgainlossnet": {
+        "ForeignExchangeOptionMember": "0",
+        "ForeignExchangeForwardMember": "-1184000",
+        "InterestRateContractMember": "0"
+    },
+    "us-gaap:employeerelatedliabilitiescurrent": {
+        "FI2019Q3": "325478000",
+        "FI2018Q4": "313874000"
+    },
+    "us-gaap:accruedbonusescurrent": {
+        "FI2019Q3": "191169000",
+        "FI2018Q4": "216007000"
+    },
+    "adbe:accruedmediacosts": {
+        "FI2019Q3": "90179000",
+        "FI2018Q4": "124849000"
+    },
+    "adbe:salesandmarketingallowances": {
+        "FI2019Q3": "61339000",
+        "FI2018Q4": "44968000"
+    },
+    "us-gaap:accruedmarketingcostscurrent": {
+        "FI2019Q3": "98157000",
+        "FI2018Q4": "66186000"
+    },
+    "us-gaap:accruedrentcurrent": {
+        "FI2019Q3": "76038000",
+        "FI2018Q4": "61544000"
+    },
+    "us-gaap:salesandexcisetaxpayablecurrent": {
+        "FI2019Q3": "71479000",
+        "FI2018Q4": "57525000"
+    },
+    "adbe:fairmarketvalueofderivativeliability": {
+        "FI2019Q3": "60792000",
+        "FI2018Q4": "816000"
+    },
+    "us-gaap:accruedroyaltiescurrent": {
+        "FI2019Q3": "59563000",
+        "FI2018Q4": "51529000"
+    },
+    "us-gaap:interestpayablecurrent": {
+        "FI2019Q3": "10639000",
+        "FI2018Q4": "29481000"
+    },
+    "us-gaap:otheraccruedliabilitiescurrent": {
+        "FI2019Q3": "257920000",
+        "FI2018Q4": "196406000"
+    },
+    "us-gaap:capitalizedcontractcostnet": {
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "413200000",
+        "I2019Q1OpeningBal606": "413200000",
+        "FI2019Q3": "473200000"
+    },
+    "us-gaap:unbilledcontractsreceivable": {
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "24800000",
+        "I2019Q1OpeningBal606": "105800000",
+        "FI2019Q3": "105900000"
+    },
+    "us-gaap:contractwithcustomerassetnet": {
+        "DifferenceBetweenRevenueGuidanceInEffectBeforeAndAfterTopic606Member": "46400000",
+        "I2019Q1OpeningBal606": "46400000",
+        "FI2019Q3": "76200000"
+    },
+    "us-gaap:allowancefordoubtfulaccountsreceivablecurrent": {
+        "FI2018Q4": "14981000",
+        "FI2019Q3": "11778000",
+        "I2019Q1OpeningBal606": "15000000.0"
+    },
+    "us-gaap:preferredstockparorstatedvaluepershare": {
+        "FI2018Q4": "0.0001",
+        "FI2019Q3": "0.0001"
+    },
+    "us-gaap:preferredstocksharesauthorized": {
+        "FI2018Q4": "2000000",
+        "FI2019Q3": "2000000"
+    },
+    "us-gaap:preferredstocksharesissued": {
+        "FI2018Q4": "0",
+        "FI2019Q3": "0"
+    },
+    "us-gaap:commonstockparorstatedvaluepershare": {
+        "FI2018Q4": "0.0001",
+        "FI2019Q3": "0.0001"
+    },
+    "us-gaap:commonstocksharesauthorized": {
+        "FI2018Q4": "900000000",
+        "FI2019Q3": "900000000"
+    },
+    "us-gaap:commonstocksharesissued": {
+        "FI2018Q4": "600834000",
+        "FI2019Q3": "600834000"
+    },
+    "us-gaap:commonstocksharesoutstanding": {
+        "FI2018Q4": "487663000",
+        "FI2019Q3": "484903000"
+    },
+    "us-gaap:treasurystockcommonshares": {
+        "FI2018Q4": "113171000",
+        "FI2019Q3": "115931000"
+    },
+    "adbe:grossprofitaspercentageofrevenue": {
+        "DigitalMediaMember": "0.96",
+        "DigitalExperienceMember": "0.59",
+        "PublishingMember": "0.90",
+        "FD2019Q3QTD": "0.85",
+        "FD2018Q3QTD": "0.87",
+        "FD2019Q3YTD": "0.85",
+        "FD2018Q3YTD": "0.87"
+    },
+    "us-gaap:shareprice": {
+        "FI2019Q3": "284.51",
+        "FI2018Q3": "263.51"
+    },
+    "us-gaap:stockissuedduringperiodsharesemployeestockpurchaseplans": {
+        "EmployeeStockMember": "1500000"
+    },
+    "adbe:totalintrinsicvalueofsharespurchased": {
+        "EmployeeStockMember": "178800000"
+    },
+    "us-gaap:sharebasedcompensationarrangementbysharebasedpaymentawardoptionsoutstandingnumber": {
+        "EmployeeStockOptionMember": "200000"
+    },
+    "us-gaap:employeeservicesharebasedcompensationnonvestedawardstotalcompensationcostnotyetrecognized": {
+        "FI2019Q3": "1450000000"
+    },
+    "dei:documenttype": {
+        "FD2019Q3YTD": "10-Q"
+    },
+    "dei:documentperiodenddate": {
+        "FD2019Q3YTD": "2019-08-30"
+    },
+    "dei:documentfiscalyearfocus": {
+        "FD2019Q3YTD": "2019"
+    },
+    "dei:entityfilenumber": {
+        "FD2019Q3YTD": "0-15175"
+    },
+    "dei:entitycentralindexkey": {
+        "FD2019Q3YTD": "0000796343"
+    },
+    "dei:entitytaxidentificationnumber": {
+        "FD2019Q3YTD": "77-0019522"
+    },
+    "dei:entityaddressaddressline1": {
+        "FD2019Q3YTD": "345 Park Avenue"
+    },
+    "dei:entityaddresspostalzipcode": {
+        "FD2019Q3YTD": "95110-2704"
+    },
+    "dei:cityareacode": {
+        "FD2019Q3YTD": "408"
+    },
+    "dei:localphonenumber": {
+        "FD2019Q3YTD": "536-6000"
+    },
+    "dei:entitycommonstocksharesoutstanding": {
+        "I2019Q4SharesOutstanding": "484078609"
+    },
+    "adbe:restrictedstockunitsexpectedtovestshares": {
+        "RestrictedStockUnitsRSUMember": "7862000"
+    },
+    "adbe:restrictedstockunitsexpectedtovestintrinsicvalue": {
+        "RestrictedStockUnitsRSUMember": "2236700000"
+    },
+    "us-gaap:goodwill": {
+        "FI2019Q3": "10688068000",
+        "FI2018Q4": "10581048000"
+    },
+    "us-gaap:amortizationofintangibleassets": {
+        "FD2019Q3QTD": "101800000",
+        "FD2019Q3YTD": "304700000",
+        "FD2018Q3QTD": "47000000.0",
+        "FD2018Q3YTD": "115500000"
+    },
+    "us-gaap:costofgoodsandservicessoldamortization": {
+        "FD2019Q3QTD": "58800000",
+        "FD2019Q3YTD": "172200000",
+        "FD2018Q3QTD": "23100000",
+        "FD2018Q3YTD": "57100000"
+    },
+    "us-gaap:shortterminvestments": {
+        "FI2019Q3": "1441741000",
+        "FI2018Q4": "1586187000"
+    },
+    "us-gaap:assetscurrent": {
+        "FI2019Q3": "5750096000",
+        "FI2018Q4": "4857039000"
+    },
+    "us-gaap:propertyplantandequipmentnet": {
+        "FI2019Q3": "1244011000",
+        "FI2018Q4": "1075072000"
+    },
+    "us-gaap:assets": {
+        "FI2019Q3": "20054880000",
+        "FI2018Q4": "18768682000"
+    },
+    "us-gaap:accountspayablecurrent": {
+        "FI2019Q3": "186999000",
+        "FI2018Q4": "186258000"
+    },
+    "us-gaap:debtcurrent": {
+        "FI2019Q3": "3148587000",
+        "FI2018Q4": "0",
+        "Notes2020Member": "898900000"
+    },
+    "us-gaap:accruedincometaxescurrent": {
+        "FI2019Q3": "44441000",
+        "FI2018Q4": "35709000"
+    },
+    "us-gaap:liabilitiescurrent": {
+        "FI2019Q3": "7802966000",
+        "FI2018Q4": "4301126000"
+    },
+    "us-gaap:longtermdebt": {
+        "FI2019Q3": "988429000",
+        "FI2018Q4": "4124800000"
+    },
+    "us-gaap:accruedincometaxesnoncurrent": {
+        "FI2019Q3": "585774000",
+        "FI2018Q4": "644101000"
+    },
+    "us-gaap:otherliabilitiesnoncurrent": {
+        "FI2019Q3": "169787000",
+        "FI2018Q4": "152209000"
+    },
+    "us-gaap:liabilities": {
+        "FI2019Q3": "9812107000",
+        "FI2018Q4": "9406568000"
+    },
+    "us-gaap:preferredstockvalue": {
+        "FI2019Q3": "0",
+        "FI2018Q4": "0"
+    },
+    "us-gaap:commonstockvalue": {
+        "FI2019Q3": "61000",
+        "FI2018Q4": "61000"
+    },
+    "us-gaap:additionalpaidincapital": {
+        "FI2019Q3": "6334612000",
+        "FI2018Q4": "5685337000"
+    },
+    "us-gaap:treasurystockvalue": {
+        "FI2019Q3": "9874652000",
+        "FI2018Q4": "7990751000"
+    },
+    "us-gaap:stockholdersequity": {
+        "FI2019Q3": "10242773000",
+        "FI2018Q4": "9362114000",
+        "CommonStockMember": "61000",
+        "AdditionalPaidInCapitalMember": "6050800000",
+        "RetainedEarningsMember": "13183938000",
+        "AccumulatedOtherComprehensiveIncomeMember": "-144364000",
+        "TreasuryStockMember": "-9158742000",
+        "FI2019Q2": "9931693000",
+        "FI2018Q2": "8705583000",
+        "FI2018Q3": "8861925000",
+        "FI2017Q4": "8459869000"
+    },
+    "us-gaap:liabilitiesandstockholdersequity": {
+        "FI2019Q3": "20054880000",
+        "FI2018Q4": "18768682000"
+    },
+    "us-gaap:availableforsalesecuritiesamortizedcost": {
+        "CashMember": "437246000",
+        "CashEquivalentsMember": "113193000",
+        "CashAndCashEquivalentsMember": "2209049000",
+        "FixedIncomeInvestmentsMember": "75706000",
+        "FI2019Q3": "3646783000",
+        "FI2018Q4": "3254290000"
+    },
+    "us-gaap:availableforsalesecuritiesaccumulatedgrossunrealizedgainbeforetax": {
+        "CashMember": "0",
+        "CashEquivalentsMember": "4000",
+        "CashAndCashEquivalentsMember": "4000",
+        "FixedIncomeInvestmentsMember": "183000",
+        "FI2019Q3": "4513000",
+        "FI2018Q4": "45000"
+    },
+    "us-gaap:availableforsalesecuritiesaccumulatedgrossunrealizedlossbeforetax": {
+        "CashMember": "0",
+        "CashEquivalentsMember": "6000",
+        "CashAndCashEquivalentsMember": "6000",
+        "FixedIncomeInvestmentsMember": "21000",
+        "FI2019Q3": "508000",
+        "FI2018Q4": "25373000"
+    },
+    "us-gaap:cashcashequivalentsandshortterminvestments": {
+        "FI2019Q3": "3650788000",
+        "FI2018Q4": "3228962000"
+    },
+    "us-gaap:deferredrevenue": {
+        "I2019Q1OpeningBal606": "3000000000.00",
+        "FI2019Q3": "3260000000",
+        "NoncancellableCommittedFundsMember": "235300000",
+        "RefundableCustomerDepositsMember": "26000000.0"
+    },
+    "us-gaap:contractwithcustomerliabilityrevenuerecognized": {
+        "FD2019Q3QTD": "500000000",
+        "FD2019Q3YTD": "2700000000"
+    },
+    "us-gaap:revenueremainingperformanceobligation": {
+        "FI2019Q3": "8770000000",
+        "NoncancellableCommittedFundsMember": "647800000"
+    },
+    "us-gaap:revenueremainingperformanceobligationpercentage": {
+        "FI2019Q3": "0.74"
+    },
+    "us-gaap:capitalizedcontractcostnetnoncurrent": {
+        "FI2019Q3": "315700000"
+    },
+    "us-gaap:contractwithcustomerrefundliability": {
+        "I2019Q1OpeningBal606": "75300000",
+        "FI2019Q3": "102500000"
+    },
+    "us-gaap:debtinstrumentfairvalue": {
+        "Notes2020and2025Member": "1970000000"
+    },
+    "adbe:finitelivedinprocessresearchanddevelopment": {
+        "MagentoMember": "39100000"
+    },
+    "us-gaap:otherfinitelivedintangibleassetsgross": {
+        "MagentoMember": "43400000"
+    },
+    "adbe:termloancarryingvalue": {
+        "LoansPayableMember": "2250000000"
+    },
+    "adbe:marginaddedtobaseratetodetermineinterestrate": {
+        "LoansPayableMember": "0.00040"
+    },
+    "us-gaap:debtinstrumentperiodicpaymentinterest": {
+        "LoansPayableMember": "54300000",
+        "Notes2020and2025Member": "75300000"
+    },
+    "us-gaap:sharesissued": {
+        "CommonStockMember": "600834000"
+    },
+    "us-gaap:treasurystockshares": {
+        "TreasuryStockMember": "114561000"
+    },
+    "us-gaap:cumulativeeffectonretainedearningsnetoftax1": {
+        "RetainedEarningsMember": "442319000",
+        "FD2019Q3YTD": "442319000"
+    },
+    "us-gaap:stockissuedduringperiodvaluetreasurystockreissued": {
+        "AdditionalPaidInCapitalMember": "89520000",
+        "RetainedEarningsMember": "0",
+        "TreasuryStockMember": "33516000",
+        "FD2019Q3QTD": "123036000",
+        "FD2018Q3QTD": "78656000",
+        "FD2019Q3YTD": "-179758000",
+        "FD2018Q3YTD": "-179167000"
+    },
+    "us-gaap:stockissuedduringperiodsharestreasurystockreissued": {
+        "TreasuryStockMember": "1222000"
+    },
+    "us-gaap:treasurystockvalueacquiredcostmethod": {
+        "TreasuryStockMember": "750000000",
+        "FD2019Q3QTD": "750000000",
+        "FD2018Q3QTD": "750000000",
+        "FD2019Q3YTD": "2000000000",
+        "FD2018Q3YTD": "1750000000"
+    },
+    "adbe:changeintreasurystockvalueduetodeferredcompensationplan": {
+        "TreasuryStockMember": "574000",
+        "FD2019Q3QTD": "574000",
+        "FD2018Q3QTD": "2116000",
+        "FD2019Q3YTD": "-3443000",
+        "FD2018Q3YTD": "-3976000"
+    },
+    "adbe:equityadjustmentattributabletotaxact": {
+        "RetainedEarningsMember": "-318000",
+        "FD2018Q3YTD": "-318000"
+    },
+    "us-gaap:proceedsfromdebtnetofissuancecosts": {
+        "Notes2025Member": "989300000"
+    },
+    "us-gaap:debtinstrumentunamortizeddiscount": {
+        "Notes2020Member": "5500000",
+        "Notes2025Member": "10700000"
+    },
+    "us-gaap:debtinstrumentinterestrateeffectivepercentage": {
+        "Notes2020Member": "0.0492",
+        "Notes2025Member": "0.0367"
+    },
+    "adbe:seniornotescarryingvalue": {
+        "Notes2020and2025Member": "1890000000"
+    },
+    "adbe:repurchasenotesatpriceoftheirprincipalamountplusaccruedandunpaidinterest": {
+        "Notes2020and2025Member": "1.01"
+    },
+    "us-gaap:allocatedsharebasedcompensationexpense": {
+        "CostOfSubscriptionRevenueMember": "5833000",
+        "CostOfServiceAndSupportRevenueMember": "4446000",
+        "ResearchAndDevelopmentExpenseMember": "83348000",
+        "SellingAndMarketingExpenseMember": "47782000",
+        "GeneralAndAdministrativeExpenseMember": "25264000",
+        "RestrictedStockAndPerformanceShareAwardsMember": "166673000",
+        "OptionGrantsAndStockPurchaseRightsMember": "28839000"
+    },
+    "adbe:creativecloud": {
+        "DigitalMediaMember": "1654674000"
+    },
+    "adbe:documentcloud": {
+        "DigitalMediaMember": "307486000"
+    }
+}

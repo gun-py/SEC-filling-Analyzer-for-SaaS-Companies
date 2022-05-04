@@ -1,0 +1,94 @@
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+(e)    2022 Performance Share Program
+On January 24, 2022, the Executive Compensation Committee (the “Committee”) of the Board of Directors (the “Board”) of Adobe Inc. (the “Company” or “Adobe”) approved the 2022 Performance Share Program (the “Program”) under the terms of the Company’s 2019 Equity Incentive Plan. The Committee established the Program to help focus key employees on building stockholder value, provide significant award potential for achieving outstanding Company performance, and enhance the ability of the Company to attract and retain highly talented individuals. Members of the Company’s executive management team and other key members of senior management were selected by the Committee to participate in the Program for fiscal year 2022. The Committee granted awards under the Program on January 24, 2022 in the form of a target award and a maximum award of performance shares (“Performance Shares”).
+
+Under the Program, shares of Adobe’s common stock may be earned based on the achievement of both (i) objective relative total stockholder return (the “TSR Goal”) measured over a three-year performance period comprised of calendar years 2022-2024 and (ii) a Net New Sales goal (the “Net New Sales Goal”), determined and measured annually over a three-year performance period comprised of Adobe’s fiscal years 2022-2024. Each performance goal is weighted 50% and achievement is determined independently of the other. Eligible participants can earn between 0% and 200% (the payout cap under the Program) of their target number of Performance Shares.
+
+Achievement of the TSR Goal is based on the TSR of Adobe’s common stock during the performance period compared to that of companies that comprise the NASDAQ 100 Index as of January 1, 2022 (the “Index Companies”). Generally, the TSR of Adobe and each Index Company will first be measured as the 90-calendar day average closing sales price ending on December 31, 2021 and then compared with the 90-calendar day average closing sales price for the period ending on December 31, 2024. No shares under the TSR Goal will be awarded if Adobe’s TSR performance ranks below the 25th percentile for the performance period. Additionally, regardless of Adobe’s relative position with respect to the Index Companies, the award with respect to the TSR Goal will be capped at 100% of target if Adobe has a negative absolute TSR over the performance period.
+
+Achievement of the Net New Sales Goal is based on (a) net new annualized recurring revenue (“ARR”) in Digital Media and (b) subscription revenue growth in Digital Experience. The Net New Sales Goal will be separately determined by the Committee for each fiscal year in the three-year performance period, and the level of achievement of each goal will be certified by the Committee following the applicable fiscal year. However, no amount earned with respect to a completed fiscal year under the Net New Sales Goal will be vested until the later of (i) January 24, 2025 and (ii) the certification date that occurs at the end of the entire performance period (such later date, the “Vesting Date”). As described in our Annual Report on Form 10-K for the fiscal year ended December 3, 2021, we define ARR as the sum of Creative ARR and Document Cloud ARR. We define Creative ARR as the sum of: (1) the annual value of Creative Cloud subscriptions and services, plus (2) the annual contract value of Creative Enterprise Term License Agreements. We define Document Cloud ARR as the sum of: (1) the annual value of Document Cloud subscriptions and services, plus (2) the annual contract value of Document Cloud Enterprise Term License Agreements.
+
+The Committee will certify actual performance achievement of the TSR Goal and the Net New Sales Goal for fiscal year 2024 following the performance periods in 2024. All earned Performance Shares will vest on the Vesting Date. Vesting is subject to a participant’s continued service to Adobe (or an affiliate) through the Vesting Date, subject to specific exceptions in the event of a change of control or termination by reason of death or disability. Accordingly, the Performance Shares align our executives’ interests with those of our stockholders, while serving as a key retention mechanism over the long term.
+
+The target awards and maximum awards for the Performance Shares granted to the Company’s principal executive officer, principal financial officer and other named executive officers* on January 24, 2022 are set forth below.
+OfficerTitleTargetAward**MaximumAwardShantanu NarayenChairman and Chief Executive Officer46,82293,644Daniel DurnExecutive Vice President and Chief Financial Officer9,69419,388Anil ChakravarthyPresident, Digital Experience9,69419,388Scott BelskyChief Product Officer and Executive Vice President, Creative Cloud9,69419,388
+Target
+Award**
+Maximum
+Award
+Shantanu Narayen
+Daniel Durn
+Scott Belsky
+
+2
+2
+2
+
+
+* For purposes of this filing, the term “other named executive officers” refers to other executive officers who received awards and for whom disclosure was required in our most recent filing with the Securities and Exchange Commission under the Securities Act of 1933 or the Securities Exchange Act of 1934 that required disclosure pursuant to Item 402(c) of Regulation S-K (and excludes Abhay Parasnis who, as previously announced, will remain in his current role as Executive Vice President and Chief Technology Officer until early 2022 and did not receive an award).
+
+** 50% of the target award is allocated to each of the TSR Goal and the Net New Sales Goal.
+
+A participant may receive less than his or her target award, and in no event may actual shares earned exceed the maximum award. Any shares issued under the Program are subject to recoupment in accordance with the Company’s clawback policies.
+
+The description of the Program contained herein is a summary of the material terms of the Program, does not purport to be complete, and is qualified in its entirety by reference to the Program used in connection with the 2019 Equity Incentive Plan, which is incorporated herein by reference as Exhibit 10.1. Copies of the Program and the form of 2022 Performance Share Award Grant Notice and Performance Share Award Agreement for use in connection with grants under the Program are filed herewith as Exhibits 10.2 and 10.3, respectively, and are incorporated herein by reference.
+
+2022 Executive Annual Incentive Plan
+
+On January 24, 2022, the Committee approved the terms of the 2022 Executive Annual Incentive Plan (the “Incentive Plan”). The Incentive Plan is designed to drive revenue growth and profitability, encourage accountability, drive execution of short-term priorities tied to long-term strategy and annual operating plan objectives, and recognize and reward the Company’s executives upon the achievement of certain objectives.
+
+Executive officers and employees who are Vice President level or above are eligible to participate in the Incentive Plan.  Pursuant to the Incentive Plan, participants are eligible to receive an incentive bonus calculated as a percentage of their base salary. The Committee selected the participants under the Incentive Plan on January 24, 2022.
+
+The Incentive Plan requires that the Company achieve (1) at least 90% of the GAAP revenue target set forth in the annual operating plan for fiscal year 2022 as approved by the Board at the beginning of the fiscal year (the “FY22 Operating Plan”) and (2) at least 90% of the non-GAAP earnings per share target set forth in the FY22 Operating Plan, as minimum performance thresholds before participants may earn any incentive bonus under the Incentive Plan.  If these initial thresholds are achieved, each participant is eligible to earn a maximum bonus equal to 200% of such participant’s Target Award (the “Maximum Award”).  The “Target Award” is calculated by multiplying a participant’s base salary (prorated for any changes during the fiscal year) by a Committee-approved target bonus percentage.
+
+For fiscal year 2022, the Target Award and the Maximum Award, expressed as a percentage of base salary for the Company’s principal executive officer, principal financial officer and other named executive officers are set forth below.
+OfficerTitleTargetAwardMaximumAwardShantanu NarayenChairman and Chief Executive Officer200%400%Daniel DurnExecutive Vice President and Chief Financial Officer100%200%Anil ChakravarthyPresident, Digital Experience100%200%Scott BelskyChief Product Officer and Executive Vice President, Creative Cloud100%200%
+Target
+Award
+Maximum
+Award
+Shantanu Narayen
+200%
+400%
+Daniel Durn
+100%
+200%
+Anil Chakravarthy
+100%
+200%
+Scott Belsky
+100%
+200%
+The Maximum Award for each participant is subject to adjustment based on the Company’s or the participant’s performance. A participant’s “Actual Award” is comprised of:
+Actual Award ($)*=Corporate Performance Result (%)XIndividual Performance Result (%)XTarget Award  ($)
+Actual Award ($)*
+Corporate Performance Result (%)
+X
+Individual Performance Result (%)
+X
+Target Award  ($)
+
+*   Cannot exceed Target Award unless the Financial Performance Result (as set forth below) is at least 90%.
+The Corporate Performance Result is based on our GAAP revenue and non-GAAP EPS performance against the FY22 Operating Plan (the “Financial Performance Result”), as shown on the matrix attached as Exhibit A to the Incentive Plan.
+
+3
+3
+3
+
+
+The Financial Performance Result is subject to adjustment by the Committee up to 25 percentage points up or down based on the Committee’s assessment of the Company’s performance against its corporate priorities and objectives during the performance period. This results in the “Corporate Performance Result” (expressed as a percentage, which may range from 0% to 155%).
+
+The “Individual Performance Result” is based on the Committee’s assessment of each participant's individual performance including, without limitation, achievement of individual performance goals set by the Committee at the outset of the performance period, including diversity and inclusion goals. The goals are specifically tailored to each participant and aligned with the achievement of strategic objectives in the FY22 Operating Plan.  A participant’s Individual Performance Result may range from 0% to 150%.
+
+Once each component described above is certified by the Committee, the Actual Award earned by each participant under the Incentive Plan is determined based on the formula and terms above.
+
+Any amounts paid under the Incentive Plan are subject to recoupment from participants in accordance with the Company’s clawback policies.
+
+The description of the Incentive Plan contained herein is a summary of the material terms of the Incentive Plan, does not purport to be complete, and is qualified in its entirety by reference to the Incentive Plan, which is filed herewith as Exhibit 10.4 and is incorporated herein by reference.
+
+
+
+4
+4
+4
+

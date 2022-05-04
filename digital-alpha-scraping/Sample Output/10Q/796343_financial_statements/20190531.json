@@ -1,0 +1,473 @@
+{
+    "AccruedExpensesDetails": {
+        "FI2018Q4": {
+            "us-gaap:accruedliabilitiescurrent": "1163185000",
+            "us-gaap:employeerelatedliabilitiescurrent": "313874000",
+            "us-gaap:accruedbonusescurrent": "216007000",
+            "adbe:accruedmediacosts": "124849000",
+            "adbe:salesandmarketingallowances": "44968000",
+            "us-gaap:accruedmarketingcostscurrent": "66186000",
+            "us-gaap:accruedrentcurrent": "61544000",
+            "us-gaap:salesandexcisetaxpayablecurrent": "57525000",
+            "us-gaap:accruedroyaltiescurrent": "51529000",
+            "us-gaap:interestpayablecurrent": "29481000",
+            "us-gaap:otheraccruedliabilitiescurrent": "197222000"
+        },
+        "FI2019Q2": {
+            "us-gaap:accruedliabilitiescurrent": "1314998000",
+            "us-gaap:employeerelatedliabilitiescurrent": "402157000",
+            "us-gaap:accruedbonusescurrent": "143380000",
+            "adbe:accruedmediacosts": "121738000",
+            "adbe:salesandmarketingallowances": "48737000",
+            "us-gaap:accruedmarketingcostscurrent": "105282000",
+            "us-gaap:accruedrentcurrent": "74168000",
+            "us-gaap:salesandexcisetaxpayablecurrent": "63106000",
+            "us-gaap:accruedroyaltiescurrent": "50815000",
+            "us-gaap:interestpayablecurrent": "29887000",
+            "us-gaap:otheraccruedliabilitiescurrent": "275728000"
+        }
+    },
+    "AccumulatedOtherComprehensiveIncomeLossDetails2": {
+        "FD2018Q2QTD": {
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativestax": "100000",
+            "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgestax": "-100000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytranslationadjustmenttax": "0",
+            "us-gaap:othercomprehensiveincomelosstax": "-100000"
+        },
+        "FD2018Q2YTD": {
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativestax": "1626000",
+            "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgestax": "-1626000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytranslationadjustmenttax": "-1742000",
+            "us-gaap:othercomprehensiveincomelosstax": "-3368000"
+        },
+        "FD2019Q2QTD": {
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativestax": "98000",
+            "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgestax": "-98000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytranslationadjustmenttax": "0",
+            "us-gaap:othercomprehensiveincomelosstax": "-98000"
+        },
+        "FD2019Q2YTD": {
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativestax": "193000",
+            "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgestax": "-193000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytranslationadjustmenttax": "0",
+            "us-gaap:othercomprehensiveincomelosstax": "-193000"
+        }
+    },
+    "CashCashEquivalentsAndShortTermInvestmentsDetails2": {
+        "FI2019Q2": {
+            "us-gaap:availableforsalesecuritiesdebtmaturitieswithinoneyearamortizedcost": "612044000",
+            "us-gaap:availableforsalesecuritiesdebtmaturitieswithinoneyearfairvalue": "610831000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesnextonetotwoyearsamortizedcostbasis": "587933000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesnextonetotwoyearsfairvalue": "586542000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesnexttwotothreeyearsamortizedcostbasis": "136276000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesnexttwotothreeyearsfairvalue": "136058000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesafterthreeyearsamortizedcostbasis": "62634000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesafterthreeyearsfairvalue": "62638000",
+            "us-gaap:availableforsaledebtsecuritiesamortizedcostbasis": "1398887000",
+            "us-gaap:availableforsalesecuritiesdebtsecurities": "1396069000"
+        }
+    },
+    "CondensedConsolidatedBalanceSheetsUnaudited": {
+        "FI2018Q4": {
+            "us-gaap:cashandcashequivalentsatcarryingvalue": "1642775000",
+            "us-gaap:shortterminvestments": "1586187000",
+            "us-gaap:accountsreceivablenetcurrent": "1315578000",
+            "us-gaap:prepaidexpenseandotherassetscurrent": "312499000",
+            "us-gaap:assetscurrent": "4857039000",
+            "us-gaap:propertyplantandequipmentnet": "1075072000",
+            "us-gaap:goodwill": "10580000000",
+            "us-gaap:finitelivedintangibleassetsnet": "2069001000",
+            "us-gaap:otherassetsnoncurrent": "186522000",
+            "us-gaap:assets": "18768682000",
+            "us-gaap:accountspayablecurrent": "186258000",
+            "us-gaap:accruedliabilitiescurrent": "1163185000",
+            "us-gaap:debtcurrent": "0",
+            "us-gaap:accruedincometaxescurrent": "35709000",
+            "us-gaap:deferredrevenuecurrent": "2915974000",
+            "us-gaap:liabilitiescurrent": "4301126000",
+            "us-gaap:longtermdebt": "4124800000",
+            "us-gaap:deferredrevenuenoncurrent": "137630000",
+            "us-gaap:accruedincometaxesnoncurrent": "644101000",
+            "us-gaap:deferredtaxliabilitiesnoncurrent": "46702000",
+            "us-gaap:otherliabilitiesnoncurrent": "152209000",
+            "us-gaap:liabilities": "9406568000",
+            "us-gaap:preferredstockvalue": "0",
+            "us-gaap:commonstockvalue": "61000",
+            "us-gaap:additionalpaidincapital": "5685337000",
+            "us-gaap:retainedearningsaccumulateddeficit": "11815597000",
+            "us-gaap:accumulatedothercomprehensiveincomelossnetoftax": "-148130000",
+            "us-gaap:treasurystockvalue": "7990751000",
+            "us-gaap:stockholdersequity": "9362114000",
+            "us-gaap:liabilitiesandstockholdersequity": "18768682000"
+        },
+        "FI2019Q2": {
+            "us-gaap:cashandcashequivalentsatcarryingvalue": "2082910000",
+            "us-gaap:shortterminvestments": "1396069000",
+            "us-gaap:accountsreceivablenetcurrent": "1270000000",
+            "us-gaap:prepaidexpenseandotherassetscurrent": "590998000",
+            "us-gaap:assetscurrent": "5342645000",
+            "us-gaap:propertyplantandequipmentnet": "1205020000",
+            "us-gaap:goodwill": "10700000000",
+            "us-gaap:finitelivedintangibleassetsnet": "1917149000",
+            "us-gaap:otherassetsnoncurrent": "503221000",
+            "us-gaap:assets": "19665909000",
+            "us-gaap:accountspayablecurrent": "169101000",
+            "us-gaap:accruedliabilitiescurrent": "1314998000",
+            "us-gaap:debtcurrent": "3145668000",
+            "us-gaap:accruedincometaxescurrent": "45778000",
+            "us-gaap:deferredrevenuecurrent": "3011552000",
+            "us-gaap:liabilitiescurrent": "7687097000",
+            "us-gaap:longtermdebt": "987938000",
+            "us-gaap:deferredrevenuenoncurrent": "122522000",
+            "us-gaap:accruedincometaxesnoncurrent": "637733000",
+            "us-gaap:deferredtaxliabilitiesnoncurrent": "133886000",
+            "us-gaap:otherliabilitiesnoncurrent": "165040000",
+            "us-gaap:liabilities": "9734216000",
+            "us-gaap:preferredstockvalue": "0",
+            "us-gaap:commonstockvalue": "61000",
+            "us-gaap:additionalpaidincapital": "6050800000",
+            "us-gaap:retainedearningsaccumulateddeficit": "13183938000",
+            "us-gaap:accumulatedothercomprehensiveincomelossnetoftax": "-144364000",
+            "us-gaap:treasurystockvalue": "9158742000",
+            "us-gaap:stockholdersequity": "9931693000",
+            "us-gaap:liabilitiesandstockholdersequity": "19665909000"
+        }
+    },
+    "CondensedConsolidatedStatementsOfCashFlowsUnaudited": {
+        "FD2018Q2YTD": {
+            "us-gaap:netincomeloss": "1246243000",
+            "us-gaap:depreciationdepletionandamortization": "152882000",
+            "us-gaap:sharebasedcompensation": "280902000",
+            "us-gaap:deferredincometaxesandtaxcredits": "-400069000",
+            "us-gaap:unrealizedgainlossoninvestments": "1502000",
+            "us-gaap:othernoncashincomeexpense": "-3623000",
+            "us-gaap:increasedecreaseinreceivables": "-140681000",
+            "us-gaap:increasedecreaseinprepaiddeferredexpenseandotherassets": "106612000",
+            "us-gaap:increasedecreaseinaccountspayable": "3656000",
+            "us-gaap:increasedecreaseinaccruedliabilities": "46535000",
+            "us-gaap:increasedecreaseinaccruedincometaxespayable": "459943000",
+            "us-gaap:increasedecreaseindeferredrevenue": "139725000",
+            "us-gaap:netcashprovidedbyusedinoperatingactivities": "1966007000",
+            "us-gaap:paymentstoacquireshortterminvestments": "412746000",
+            "us-gaap:proceedsfrommaturitiesprepaymentsandcallsofshortterminvestments": "352078000",
+            "us-gaap:proceedsfromsaleofshortterminvestments": "200458000",
+            "us-gaap:paymentstoacquirebusinessesnetofcashacquired": "14614000",
+            "us-gaap:paymentstoacquirepropertyplantandequipment": "140458000",
+            "us-gaap:paymentstoacquirelongterminvestments": "13698000",
+            "us-gaap:proceedsfromsaleofavailableforsalesecuritiesequity": "2897000",
+            "us-gaap:netcashprovidedbyusedininvestingactivities": "-26083000",
+            "us-gaap:paymentsforrepurchaseofcommonstock": "1000000000",
+            "us-gaap:proceedsfromsaleoftreasurystock": "64682000",
+            "adbe:costofissuanceoftreasurystock": "322505000",
+            "us-gaap:repaymentsoflongtermdebtandcapitalsecurities": "815000",
+            "us-gaap:netcashprovidedbyusedinfinancingactivities": "-1258638000",
+            "us-gaap:effectofexchangerateoncashandcashequivalents": "628000",
+            "us-gaap:cashandcashequivalentsperiodincreasedecrease": "681914000"
+        },
+        "FD2019Q2YTD": {
+            "us-gaap:netincomeloss": "1306834000",
+            "us-gaap:depreciationdepletionandamortization": "290508000",
+            "us-gaap:sharebasedcompensation": "388987000",
+            "us-gaap:deferredincometaxesandtaxcredits": "-10682000",
+            "us-gaap:unrealizedgainlossoninvestments": "39978000",
+            "us-gaap:othernoncashincomeexpense": "-1970000",
+            "us-gaap:increasedecreaseinreceivables": "-85683000",
+            "us-gaap:increasedecreaseinprepaiddeferredexpenseandotherassets": "142520000",
+            "us-gaap:increasedecreaseinaccountspayable": "-17269000",
+            "us-gaap:increasedecreaseinaccruedliabilities": "116994000",
+            "us-gaap:increasedecreaseinaccruedincometaxespayable": "11929000",
+            "us-gaap:increasedecreaseindeferredrevenue": "130320000",
+            "us-gaap:netcashprovidedbyusedinoperatingactivities": "2122776000",
+            "us-gaap:paymentstoacquireshortterminvestments": "139346000",
+            "us-gaap:proceedsfrommaturitiesprepaymentsandcallsofshortterminvestments": "320629000",
+            "us-gaap:proceedsfromsaleofshortterminvestments": "29473000",
+            "us-gaap:paymentstoacquirebusinessesnetofcashacquired": "99817000",
+            "us-gaap:paymentstoacquirepropertyplantandequipment": "210760000",
+            "us-gaap:paymentstoacquirelongterminvestments": "23680000",
+            "us-gaap:proceedsfromsaleofavailableforsalesecuritiesequity": "1656000",
+            "us-gaap:netcashprovidedbyusedininvestingactivities": "-121845000",
+            "us-gaap:paymentsforrepurchaseofcommonstock": "1250000000",
+            "us-gaap:proceedsfromsaleoftreasurystock": "73912000",
+            "adbe:costofissuanceoftreasurystock": "376706000",
+            "us-gaap:repaymentsoflongtermdebtandcapitalsecurities": "3219000",
+            "us-gaap:netcashprovidedbyusedinfinancingactivities": "-1556013000",
+            "us-gaap:effectofexchangerateoncashandcashequivalents": "-4783000",
+            "us-gaap:cashandcashequivalentsperiodincreasedecrease": "440135000"
+        }
+    },
+    "CondensedConsolidatedStatementsOfComprehensiveIncomeUnaudited": {
+        "FD2018Q2QTD": {
+            "us-gaap:netincomeloss": "663167000",
+            "us-gaap:othercomprehensiveincomeunrealizedholdinggainlossonsecuritiesarisingduringperiodnetoftax": "-1721000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaociforsaleofsecuritiesnetoftax": "-75000",
+            "us-gaap:othercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": "-1646000",
+            "us-gaap:othercomprehensiveincomeunrealizedgainlossonderivativesarisingduringperiodnetoftax": "31104000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativesnetoftax": "37000",
+            "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgesnetoftax": "31067000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": "-48712000",
+            "us-gaap:othercomprehensiveincomelossnetoftax": "-19291000",
+            "us-gaap:comprehensiveincomenetoftax": "643876000"
+        },
+        "FD2018Q2YTD": {
+            "us-gaap:netincomeloss": "1246243000",
+            "us-gaap:othercomprehensiveincomeunrealizedholdinggainlossonsecuritiesarisingduringperiodnetoftax": "-24869000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaociforsaleofsecuritiesnetoftax": "-197000",
+            "us-gaap:othercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": "-24672000",
+            "us-gaap:othercomprehensiveincomeunrealizedgainlossonderivativesarisingduringperiodnetoftax": "29767000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativesnetoftax": "2177000",
+            "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgesnetoftax": "27590000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": "-20327000",
+            "us-gaap:othercomprehensiveincomelossnetoftax": "-17409000",
+            "us-gaap:comprehensiveincomenetoftax": "1228834000"
+        },
+        "FD2019Q2QTD": {
+            "us-gaap:netincomeloss": "632593000",
+            "us-gaap:othercomprehensiveincomeunrealizedholdinggainlossonsecuritiesarisingduringperiodnetoftax": "9910000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaociforsaleofsecuritiesnetoftax": "-67000",
+            "us-gaap:othercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": "9977000",
+            "us-gaap:othercomprehensiveincomeunrealizedgainlossonderivativesarisingduringperiodnetoftax": "16765000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativesnetoftax": "8675000",
+            "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgesnetoftax": "8090000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": "-11999000",
+            "us-gaap:othercomprehensiveincomelossnetoftax": "6068000",
+            "us-gaap:comprehensiveincomenetoftax": "638661000"
+        },
+        "FD2019Q2YTD": {
+            "us-gaap:netincomeloss": "1306834000",
+            "us-gaap:othercomprehensiveincomeunrealizedholdinggainlossonsecuritiesarisingduringperiodnetoftax": "22312000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaociforsaleofsecuritiesnetoftax": "-192000",
+            "us-gaap:othercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": "22504000",
+            "us-gaap:othercomprehensiveincomeunrealizedgainlossonderivativesarisingduringperiodnetoftax": "8308000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaocionderivativesnetoftax": "16872000",
+            "us-gaap:othercomprehensiveincomelossderivativesqualifyingashedgesnetoftax": "-8564000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": "-10174000",
+            "us-gaap:othercomprehensiveincomelossnetoftax": "3766000",
+            "us-gaap:comprehensiveincomenetoftax": "1310600000"
+        }
+    },
+    "CondensedConsolidatedStatementsOfIncomeUnaudited": {
+        "FD2018Q2QTD": {
+            "adbe:subscriptionandcirculationrevenue": "1923131000",
+            "adbe:productrevenue": "150993000",
+            "adbe:servicesandsupportrevenue": "121236000",
+            "us-gaap:revenues": "2195360000",
+            "adbe:costofsubscriptionrevenue": "186355000",
+            "adbe:costofproductrevenue": "10779000",
+            "adbe:costofservicesandsupportrevenue": "84210000",
+            "us-gaap:costofrevenue": "281344000",
+            "us-gaap:grossprofit": "1914016000",
+            "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": "374128000",
+            "us-gaap:sellingandmarketingexpense": "646215000",
+            "us-gaap:generalandadministrativeexpense": "178040000",
+            "adbe:operatingexpensesamortizationofpurchasedintangibles": "17149000",
+            "us-gaap:operatingexpenses": "1215532000",
+            "us-gaap:operatingincomeloss": "698484000",
+            "us-gaap:othernonoperatingincome": "11599000",
+            "us-gaap:interestexpense": "20363000",
+            "us-gaap:gainlossoninvestments": "1079000",
+            "us-gaap:nonoperatingincomeexpense": "-7685000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "690799000",
+            "us-gaap:incometaxexpensebenefit": "27632000",
+            "us-gaap:netincomeloss": "663167000"
+        },
+        "FD2018Q2YTD": {
+            "adbe:subscriptionandcirculationrevenue": "3716489000",
+            "adbe:productrevenue": "322601000",
+            "adbe:servicesandsupportrevenue": "235217000",
+            "us-gaap:revenues": "4274307000",
+            "adbe:costofsubscriptionrevenue": "351040000",
+            "adbe:costofproductrevenue": "23656000",
+            "adbe:costofservicesandsupportrevenue": "165550000",
+            "us-gaap:costofrevenue": "540246000",
+            "us-gaap:grossprofit": "3734061000",
+            "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": "722897000",
+            "us-gaap:sellingandmarketingexpense": "1227172000",
+            "us-gaap:generalandadministrativeexpense": "348480000",
+            "adbe:operatingexpensesamortizationofpurchasedintangibles": "34295000",
+            "us-gaap:operatingexpenses": "2332844000",
+            "us-gaap:operatingincomeloss": "1401217000",
+            "us-gaap:othernonoperatingincome": "28271000",
+            "us-gaap:interestexpense": "40262000",
+            "us-gaap:gainlossoninvestments": "4075000",
+            "us-gaap:nonoperatingincomeexpense": "-7916000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "1393301000",
+            "us-gaap:incometaxexpensebenefit": "147058000",
+            "us-gaap:netincomeloss": "1246243000"
+        },
+        "FD2019Q2QTD": {
+            "adbe:subscriptionandcirculationrevenue": "2456097000",
+            "adbe:productrevenue": "152816000",
+            "adbe:servicesandsupportrevenue": "135367000",
+            "us-gaap:revenues": "2744280000",
+            "adbe:costofsubscriptionrevenue": "296476000",
+            "adbe:costofproductrevenue": "9345000",
+            "adbe:costofservicesandsupportrevenue": "101667000",
+            "us-gaap:costofrevenue": "407488000",
+            "us-gaap:grossprofit": "2336792000",
+            "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": "475958000",
+            "us-gaap:sellingandmarketingexpense": "848927000",
+            "us-gaap:generalandadministrativeexpense": "219334000",
+            "adbe:operatingexpensesamortizationofpurchasedintangibles": "43026000",
+            "us-gaap:operatingexpenses": "1587245000",
+            "us-gaap:operatingincomeloss": "749547000",
+            "us-gaap:othernonoperatingincome": "2558000",
+            "us-gaap:interestexpense": "40577000",
+            "us-gaap:gainlossoninvestments": "-756000",
+            "us-gaap:nonoperatingincomeexpense": "-38775000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "710772000",
+            "us-gaap:incometaxexpensebenefit": "78179000",
+            "us-gaap:netincomeloss": "632593000"
+        },
+        "FD2019Q2YTD": {
+            "adbe:subscriptionandcirculationrevenue": "4761064000",
+            "adbe:productrevenue": "323370000",
+            "adbe:servicesandsupportrevenue": "260792000",
+            "us-gaap:revenues": "5345226000",
+            "adbe:costofsubscriptionrevenue": "584507000",
+            "adbe:costofproductrevenue": "21450000",
+            "adbe:costofservicesandsupportrevenue": "198817000",
+            "us-gaap:costofrevenue": "804774000",
+            "us-gaap:grossprofit": "4540452000",
+            "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": "940595000",
+            "us-gaap:sellingandmarketingexpense": "1630445000",
+            "us-gaap:generalandadministrativeexpense": "435443000",
+            "adbe:operatingexpensesamortizationofpurchasedintangibles": "89592000",
+            "us-gaap:operatingexpenses": "3096075000",
+            "us-gaap:operatingincomeloss": "1444377000",
+            "us-gaap:othernonoperatingincome": "6824000",
+            "us-gaap:interestexpense": "81170000",
+            "us-gaap:gainlossoninvestments": "43075000",
+            "us-gaap:nonoperatingincomeexpense": "-31271000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "1413106000",
+            "us-gaap:incometaxexpensebenefit": "106272000",
+            "us-gaap:netincomeloss": "1306834000"
+        }
+    },
+    "GoodwillAndPurchasedAndOtherIntangiblesDetails": {
+        "FI2018Q4": {
+            "us-gaap:finitelivedintangibleassetsnet": "2069001000",
+            "us-gaap:finitelivedintangibleassetsgross": "2721935000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "652934000"
+        },
+        "PurchasedTechnologyMember": {
+            "us-gaap:finitelivedintangibleassetsgross": "774307000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "170752000",
+            "us-gaap:finitelivedintangibleassetsnet": "603555000"
+        },
+        "TotalOtherIntangibleAssetsMember": {
+            "us-gaap:finitelivedintangibleassetsgross": "1862706000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "549112000",
+            "us-gaap:finitelivedintangibleassetsnet": "1313594000"
+        },
+        "CustomerContractsMember": {
+            "us-gaap:finitelivedintangibleassetsgross": "1247138000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "397340000",
+            "us-gaap:finitelivedintangibleassetsnet": "849798000"
+        },
+        "DevelopedTechnologyRightsMember": {
+            "us-gaap:finitelivedintangibleassetsgross": "59906000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "46683000",
+            "us-gaap:finitelivedintangibleassetsnet": "13223000"
+        },
+        "OrderOrProductionBacklogMember": {
+            "us-gaap:finitelivedintangibleassetsgross": "147000000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "46565000",
+            "us-gaap:finitelivedintangibleassetsnet": "100435000"
+        },
+        "OtherIntangibleAssetsMember": {
+            "us-gaap:finitelivedintangibleassetsgross": "23807000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "8485000",
+            "us-gaap:finitelivedintangibleassetsnet": "15322000"
+        },
+        "TrademarksMember": {
+            "us-gaap:finitelivedintangibleassetsgross": "384855000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "50039000",
+            "us-gaap:finitelivedintangibleassetsnet": "334816000"
+        },
+        "FI2019Q2": {
+            "us-gaap:finitelivedintangibleassetsnet": "1917149000",
+            "us-gaap:finitelivedintangibleassetsgross": "2637013000",
+            "us-gaap:finitelivedintangibleassetsaccumulatedamortization": "719864000"
+        }
+    },
+    "NetIncomePerShareDetails": {
+        "FD2018Q2QTD": {
+            "us-gaap:weightedaveragenumberofsharesoutstandingbasic": "491914000",
+            "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": "498252000",
+            "adbe:dilutivepotentialsharesfromunvestedrestrictedstockandperformanceshareawards": "6212000",
+            "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": "126000"
+        },
+        "FD2018Q2YTD": {
+            "us-gaap:weightedaveragenumberofsharesoutstandingbasic": "491993000",
+            "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": "499166000",
+            "adbe:dilutivepotentialsharesfromunvestedrestrictedstockandperformanceshareawards": "7019000",
+            "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": "154000"
+        },
+        "FD2019Q2QTD": {
+            "us-gaap:weightedaveragenumberofsharesoutstandingbasic": "487535000",
+            "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": "492212000",
+            "adbe:dilutivepotentialsharesfromunvestedrestrictedstockandperformanceshareawards": "4141000",
+            "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": "536000"
+        },
+        "FD2019Q2YTD": {
+            "us-gaap:weightedaveragenumberofsharesoutstandingbasic": "487795000",
+            "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": "493200000",
+            "adbe:dilutivepotentialsharesfromunvestedrestrictedstockandperformanceshareawards": "4931000",
+            "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": "474000"
+        }
+    },
+    "NonOperatingIncomeExpenseDetails": {
+        "FD2018Q2QTD": {
+            "us-gaap:othernonoperatingincome": "11599000",
+            "us-gaap:gainlossoninvestments": "1079000",
+            "us-gaap:investmentincomeinterest": "25771000",
+            "us-gaap:foreigncurrencytransactiongainlossbeforetax": "-14222000",
+            "us-gaap:availableforsalesecuritiesgrossrealizedgains": "6000",
+            "us-gaap:availableforsalesecuritiesgrossrealizedlosses": "81000",
+            "adbe:otherinterestandotherincomeexpensenet": "125000",
+            "adbe:realizedinvestmentgains": "503000",
+            "adbe:realizedinvestmentlosses": "0",
+            "adbe:unrealizedinvestmentgains": "576000",
+            "adbe:unrealizedinvestmentlosses": "0"
+        },
+        "FD2018Q2YTD": {
+            "us-gaap:othernonoperatingincome": "28271000",
+            "us-gaap:gainlossoninvestments": "4075000",
+            "us-gaap:investmentincomeinterest": "48401000",
+            "us-gaap:foreigncurrencytransactiongainlossbeforetax": "-20111000",
+            "us-gaap:availableforsalesecuritiesgrossrealizedgains": "190000",
+            "us-gaap:availableforsalesecuritiesgrossrealizedlosses": "386000",
+            "adbe:otherinterestandotherincomeexpensenet": "177000",
+            "adbe:realizedinvestmentgains": "4497000",
+            "adbe:realizedinvestmentlosses": "0",
+            "adbe:unrealizedinvestmentgains": "0",
+            "adbe:unrealizedinvestmentlosses": "422000"
+        },
+        "FD2019Q2QTD": {
+            "us-gaap:othernonoperatingincome": "2558000",
+            "us-gaap:gainlossoninvestments": "-756000",
+            "us-gaap:investmentincomeinterest": "16278000",
+            "us-gaap:foreigncurrencytransactiongainlossbeforetax": "-13692000",
+            "us-gaap:availableforsalesecuritiesgrossrealizedgains": "13000",
+            "us-gaap:availableforsalesecuritiesgrossrealizedlosses": "80000",
+            "adbe:otherinterestandotherincomeexpensenet": "39000",
+            "adbe:realizedinvestmentgains": "957000",
+            "adbe:realizedinvestmentlosses": "130000",
+            "adbe:unrealizedinvestmentgains": "0",
+            "adbe:unrealizedinvestmentlosses": "1583000"
+        },
+        "FD2019Q2YTD": {
+            "us-gaap:othernonoperatingincome": "6824000",
+            "us-gaap:gainlossoninvestments": "43075000",
+            "us-gaap:investmentincomeinterest": "32349000",
+            "us-gaap:foreigncurrencytransactiongainlossbeforetax": "-25549000",
+            "us-gaap:availableforsalesecuritiesgrossrealizedgains": "16000",
+            "us-gaap:availableforsalesecuritiesgrossrealizedlosses": "208000",
+            "adbe:otherinterestandotherincomeexpensenet": "216000",
+            "adbe:realizedinvestmentgains": "44615000",
+            "adbe:realizedinvestmentlosses": "130000",
+            "adbe:unrealizedinvestmentgains": "0",
+            "adbe:unrealizedinvestmentlosses": "1410000"
+        }
+    }
+}

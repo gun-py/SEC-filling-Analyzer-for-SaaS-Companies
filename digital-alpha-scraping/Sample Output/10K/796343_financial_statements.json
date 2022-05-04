@@ -1,0 +1,551 @@
+{
+    "ConsolidatedBalanceSheets": {
+        "I20211203": {
+            "us-gaap:cashandcashequivalentsatcarryingvalue": "3844000000",
+            "us-gaap:shortterminvestments": "1954000000",
+            "us-gaap:accountsreceivablenetcurrent": "1880000000",
+            "us-gaap:prepaidexpenseandotherassetscurrent": "993000000",
+            "us-gaap:assetscurrent": "8669000000",
+            "us-gaap:propertyplantandequipmentnet": "1673000000",
+            "us-gaap:operatingleaserightofuseasset": "443000000",
+            "us-gaap:goodwill": "12668000000",
+            "us-gaap:finitelivedintangibleassetsnet": "1820000000",
+            "us-gaap:deferredincometaxassetsnet": "1085000000",
+            "us-gaap:otherassetsnoncurrent": "883000000",
+            "us-gaap:assets": "27241000000",
+            "us-gaap:accountspayablecurrent": "312000000",
+            "us-gaap:accruedliabilitiescurrent": "1736000000",
+            "us-gaap:contractwithcustomerliabilitycurrent": "4733000000",
+            "us-gaap:accruedincometaxescurrent": "54000000",
+            "us-gaap:operatingleaseliabilitycurrent": "97000000",
+            "us-gaap:liabilitiescurrent": "6932000000",
+            "us-gaap:longtermdebtandcapitalleaseobligations": "4123000000",
+            "us-gaap:contractwithcustomerliabilitynoncurrent": "145000000",
+            "us-gaap:accruedincometaxesnoncurrent": "534000000",
+            "us-gaap:deferredincometaxliabilitiesnet": "5000000",
+            "us-gaap:operatingleaseliabilitynoncurrent": "453000000",
+            "us-gaap:otherliabilitiesnoncurrent": "252000000",
+            "us-gaap:liabilities": "12444000000",
+            "us-gaap:preferredstockvalue": "0",
+            "us-gaap:commonstockvalue": "0",
+            "us-gaap:additionalpaidincapital": "8428000000",
+            "us-gaap:retainedearningsaccumulateddeficit": "23905000000",
+            "us-gaap:accumulatedothercomprehensiveincomelossnetoftax": "-137000000",
+            "us-gaap:treasurystockvalue": "17399000000",
+            "us-gaap:stockholdersequity": "14797000000",
+            "us-gaap:liabilitiesandstockholdersequity": "27241000000"
+        },
+        "I20201127": {
+            "us-gaap:cashandcashequivalentsatcarryingvalue": "4478000000",
+            "us-gaap:shortterminvestments": "1514000000",
+            "us-gaap:accountsreceivablenetcurrent": "1400000000",
+            "us-gaap:prepaidexpenseandotherassetscurrent": "756000000",
+            "us-gaap:assetscurrent": "8146000000",
+            "us-gaap:propertyplantandequipmentnet": "1517000000",
+            "us-gaap:operatingleaserightofuseasset": "487000000",
+            "us-gaap:goodwill": "10742000000",
+            "us-gaap:finitelivedintangibleassetsnet": "1359000000",
+            "us-gaap:deferredincometaxassetsnet": "1370000000",
+            "us-gaap:otherassetsnoncurrent": "663000000",
+            "us-gaap:assets": "24284000000",
+            "us-gaap:accountspayablecurrent": "306000000",
+            "us-gaap:accruedliabilitiescurrent": "1422000000",
+            "us-gaap:contractwithcustomerliabilitycurrent": "3629000000",
+            "us-gaap:accruedincometaxescurrent": "63000000",
+            "us-gaap:operatingleaseliabilitycurrent": "92000000",
+            "us-gaap:liabilitiescurrent": "5512000000",
+            "us-gaap:longtermdebtandcapitalleaseobligations": "4117000000",
+            "us-gaap:contractwithcustomerliabilitynoncurrent": "130000000",
+            "us-gaap:accruedincometaxesnoncurrent": "529000000",
+            "us-gaap:deferredincometaxliabilitiesnet": "10000000",
+            "us-gaap:operatingleaseliabilitynoncurrent": "499000000",
+            "us-gaap:otherliabilitiesnoncurrent": "223000000",
+            "us-gaap:liabilities": "11020000000",
+            "us-gaap:preferredstockvalue": "0",
+            "us-gaap:commonstockvalue": "0",
+            "us-gaap:additionalpaidincapital": "7357000000",
+            "us-gaap:retainedearningsaccumulateddeficit": "19611000000",
+            "us-gaap:accumulatedothercomprehensiveincomelossnetoftax": "-158000000",
+            "us-gaap:treasurystockvalue": "13546000000",
+            "us-gaap:stockholdersequity": "13264000000",
+            "us-gaap:liabilitiesandstockholdersequity": "24284000000"
+        }
+    },
+    "ConsolidatedStatementsofIncome": {
+        "D20201128-20211203": {
+            "adbe:subscriptionrevenues": "14573000000",
+            "adbe:productrevenue": "555000000",
+            "adbe:servicesandotherrevenue": "657000000",
+            "us-gaap:revenues": "15785000000",
+            "adbe:costofsubscriptionrevenue": "1374000000",
+            "adbe:costofproductrevenue": "41000000",
+            "adbe:costofservicesandotherrevenue": "450000000",
+            "us-gaap:costofrevenue": "1865000000",
+            "us-gaap:grossprofit": "13920000000",
+            "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": "2540000000",
+            "us-gaap:sellingandmarketingexpense": "4321000000",
+            "us-gaap:generalandadministrativeexpense": "1085000000",
+            "adbe:operatingexpensesamortizationofpurchasedintangibles": "172000000",
+            "us-gaap:operatingexpenses": "8118000000",
+            "us-gaap:operatingincomeloss": "5802000000",
+            "us-gaap:interestexpense": "113000000",
+            "us-gaap:gainlossoninvestments": "16000000",
+            "us-gaap:othernonoperatingincome": "0",
+            "us-gaap:nonoperatingincomeexpense": "-97000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "5705000000",
+            "us-gaap:incometaxexpensebenefit": "883000000",
+            "us-gaap:netincomeloss": "4822000000"
+        },
+        "D20191130-20201127": {
+            "adbe:subscriptionrevenues": "11626000000",
+            "adbe:productrevenue": "507000000",
+            "adbe:servicesandotherrevenue": "735000000",
+            "us-gaap:revenues": "12868000000",
+            "adbe:costofsubscriptionrevenue": "1108000000",
+            "adbe:costofproductrevenue": "36000000",
+            "adbe:costofservicesandotherrevenue": "578000000",
+            "us-gaap:costofrevenue": "1722000000",
+            "us-gaap:grossprofit": "11146000000",
+            "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": "2188000000",
+            "us-gaap:sellingandmarketingexpense": "3591000000",
+            "us-gaap:generalandadministrativeexpense": "968000000",
+            "adbe:operatingexpensesamortizationofpurchasedintangibles": "162000000",
+            "us-gaap:operatingexpenses": "6909000000",
+            "us-gaap:operatingincomeloss": "4237000000",
+            "us-gaap:interestexpense": "116000000",
+            "us-gaap:gainlossoninvestments": "13000000",
+            "us-gaap:othernonoperatingincome": "42000000",
+            "us-gaap:nonoperatingincomeexpense": "-61000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "4176000000",
+            "us-gaap:incometaxexpensebenefit": "-1084000000",
+            "us-gaap:netincomeloss": "5260000000"
+        },
+        "D20181201-20191129": {
+            "adbe:subscriptionrevenues": "9634000000",
+            "adbe:productrevenue": "648000000",
+            "adbe:servicesandotherrevenue": "889000000",
+            "us-gaap:revenues": "11171000000",
+            "adbe:costofsubscriptionrevenue": "926000000",
+            "adbe:costofproductrevenue": "40000000",
+            "adbe:costofservicesandotherrevenue": "707000000",
+            "us-gaap:costofrevenue": "1673000000",
+            "us-gaap:grossprofit": "9498000000",
+            "us-gaap:researchanddevelopmentexpensesoftwareexcludingacquiredinprocesscost": "1930000000",
+            "us-gaap:sellingandmarketingexpense": "3244000000",
+            "us-gaap:generalandadministrativeexpense": "881000000",
+            "adbe:operatingexpensesamortizationofpurchasedintangibles": "175000000",
+            "us-gaap:operatingexpenses": "6230000000",
+            "us-gaap:operatingincomeloss": "3268000000",
+            "us-gaap:interestexpense": "157000000",
+            "us-gaap:gainlossoninvestments": "52000000",
+            "us-gaap:othernonoperatingincome": "42000000",
+            "us-gaap:nonoperatingincomeexpense": "-63000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "3205000000",
+            "us-gaap:incometaxexpensebenefit": "254000000",
+            "us-gaap:netincomeloss": "2951000000"
+        }
+    },
+    "ConsolidatedStatementsofComprehensiveIncomeStatement": {
+        "D20201128-20211203": {
+            "us-gaap:netincomeloss": "4822000000",
+            "us-gaap:othercomprehensiveincomeunrealizedholdinggainlossonsecuritiesarisingduringperiodnetoftax": "-8000000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaociforsaleofsecuritiesnetoftax": "0",
+            "us-gaap:othercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": "-8000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossbeforereclassificationaftertax": "69000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossreclassificationaftertax": "-20000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossafterreclassificationandtax": "89000000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": "-60000000",
+            "us-gaap:othercomprehensiveincomelossnetoftax": "21000000",
+            "us-gaap:comprehensiveincomenetoftax": "4843000000"
+        },
+        "D20191130-20201127": {
+            "us-gaap:netincomeloss": "5260000000",
+            "us-gaap:othercomprehensiveincomeunrealizedholdinggainlossonsecuritiesarisingduringperiodnetoftax": "3000000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaociforsaleofsecuritiesnetoftax": "1000000",
+            "us-gaap:othercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": "2000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossbeforereclassificationaftertax": "-44000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossreclassificationaftertax": "-6000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossafterreclassificationandtax": "-38000000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": "66000000",
+            "us-gaap:othercomprehensiveincomelossnetoftax": "30000000",
+            "us-gaap:comprehensiveincomenetoftax": "5290000000"
+        },
+        "D20181201-20191129": {
+            "us-gaap:netincomeloss": "2951000000",
+            "us-gaap:othercomprehensiveincomeunrealizedholdinggainlossonsecuritiesarisingduringperiodnetoftax": "29000000",
+            "us-gaap:othercomprehensiveincomelossreclassificationadjustmentfromaociforsaleofsecuritiesnetoftax": "0",
+            "us-gaap:othercomprehensiveincomelossavailableforsalesecuritiesadjustmentnetoftax": "29000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossbeforereclassificationaftertax": "0",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossreclassificationaftertax": "44000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossafterreclassificationandtax": "-44000000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": "-25000000",
+            "us-gaap:othercomprehensiveincomelossnetoftax": "-40000000",
+            "us-gaap:comprehensiveincomenetoftax": "2911000000"
+        }
+    },
+    "ConsolidatedStatementsofCashFlows": {
+        "D20201128-20211203": {
+            "us-gaap:netincomeloss": "4822000000",
+            "us-gaap:depreciationdepletionandamortization": "788000000",
+            "us-gaap:sharebasedcompensation": "1069000000",
+            "adbe:increasedecreaseinoperatingleaserightofuseassets": "73000000",
+            "us-gaap:deferredincometaxesandtaxcredits": "183000000",
+            "us-gaap:unrealizedgainlossoninvestments": "4000000",
+            "us-gaap:othernoncashincomeexpense": "-7000000",
+            "us-gaap:increasedecreaseinreceivables": "430000000",
+            "us-gaap:increasedecreaseinprepaiddeferredexpenseandotherassets": "475000000",
+            "us-gaap:increasedecreaseinaccountspayable": "-20000000",
+            "us-gaap:increasedecreaseinaccruedliabilities": "162000000",
+            "us-gaap:increasedecreaseinaccruedincometaxespayable": "2000000",
+            "us-gaap:increasedecreaseindeferredrevenue": "1053000000",
+            "us-gaap:netcashprovidedbyusedinoperatingactivities": "7230000000",
+            "us-gaap:paymentstoacquireshortterminvestments": "1533000000",
+            "us-gaap:proceedsfrommaturitiesprepaymentsandcallsofshortterminvestments": "877000000",
+            "us-gaap:proceedsfromsaleofshortterminvestments": "191000000",
+            "us-gaap:paymentstoacquirebusinessesnetofcashacquired": "2682000000",
+            "us-gaap:paymentstoacquirepropertyplantandequipment": "348000000",
+            "us-gaap:paymentstoacquirelongterminvestments": "42000000",
+            "us-gaap:proceedsfromsaleoflongterminvestments": "0",
+            "us-gaap:netcashprovidedbyusedininvestingactivities": "-3537000000",
+            "us-gaap:paymentsforrepurchaseofcommonstock": "3950000000",
+            "us-gaap:proceedsfromsaleoftreasurystock": "291000000",
+            "us-gaap:paymentsrelatedtotaxwithholdingforsharebasedcompensation": "719000000",
+            "us-gaap:proceedsfromissuanceofdebt": "0",
+            "us-gaap:repaymentsoflongtermdebt": "0",
+            "us-gaap:proceedsfrompaymentsforotherfinancingactivities": "77000000",
+            "us-gaap:netcashprovidedbyusedinfinancingactivities": "-4301000000",
+            "us-gaap:effectofexchangerateoncashandcashequivalents": "-26000000"
+        },
+        "D20191130-20201127": {
+            "us-gaap:netincomeloss": "5260000000",
+            "us-gaap:depreciationdepletionandamortization": "757000000",
+            "us-gaap:sharebasedcompensation": "909000000",
+            "adbe:increasedecreaseinoperatingleaserightofuseassets": "87000000",
+            "us-gaap:deferredincometaxesandtaxcredits": "-1501000000",
+            "us-gaap:unrealizedgainlossoninvestments": "11000000",
+            "us-gaap:othernoncashincomeexpense": "-40000000",
+            "us-gaap:increasedecreaseinreceivables": "-106000000",
+            "us-gaap:increasedecreaseinprepaiddeferredexpenseandotherassets": "288000000",
+            "us-gaap:increasedecreaseinaccountspayable": "96000000",
+            "us-gaap:increasedecreaseinaccruedliabilities": "86000000",
+            "us-gaap:increasedecreaseinaccruedincometaxespayable": "-72000000",
+            "us-gaap:increasedecreaseindeferredrevenue": "258000000",
+            "us-gaap:netcashprovidedbyusedinoperatingactivities": "5727000000",
+            "us-gaap:paymentstoacquireshortterminvestments": "1071000000",
+            "us-gaap:proceedsfrommaturitiesprepaymentsandcallsofshortterminvestments": "915000000",
+            "us-gaap:proceedsfromsaleofshortterminvestments": "167000000",
+            "us-gaap:paymentstoacquirebusinessesnetofcashacquired": "0",
+            "us-gaap:paymentstoacquirepropertyplantandequipment": "419000000",
+            "us-gaap:paymentstoacquirelongterminvestments": "15000000",
+            "us-gaap:proceedsfromsaleoflongterminvestments": "9000000",
+            "us-gaap:netcashprovidedbyusedininvestingactivities": "-414000000",
+            "us-gaap:paymentsforrepurchaseofcommonstock": "3050000000.00",
+            "us-gaap:proceedsfromsaleoftreasurystock": "270000000",
+            "us-gaap:paymentsrelatedtotaxwithholdingforsharebasedcompensation": "681000000",
+            "us-gaap:proceedsfromissuanceofdebt": "3144000000",
+            "us-gaap:repaymentsoflongtermdebt": "3150000000",
+            "us-gaap:proceedsfrompaymentsforotherfinancingactivities": "-21000000",
+            "us-gaap:netcashprovidedbyusedinfinancingactivities": "-3488000000",
+            "us-gaap:effectofexchangerateoncashandcashequivalents": "3000000"
+        },
+        "D20181201-20191129": {
+            "us-gaap:netincomeloss": "2951000000",
+            "us-gaap:depreciationdepletionandamortization": "757000000",
+            "us-gaap:sharebasedcompensation": "788000000",
+            "adbe:increasedecreaseinoperatingleaserightofuseassets": "0",
+            "us-gaap:deferredincometaxesandtaxcredits": "3000000",
+            "us-gaap:unrealizedgainlossoninvestments": "48000000",
+            "us-gaap:othernoncashincomeexpense": "-14000000",
+            "us-gaap:increasedecreaseinreceivables": "188000000",
+            "us-gaap:increasedecreaseinprepaiddeferredexpenseandotherassets": "551000000",
+            "us-gaap:increasedecreaseinaccountspayable": "23000000",
+            "us-gaap:increasedecreaseinaccruedliabilities": "172000000",
+            "us-gaap:increasedecreaseinaccruedincometaxespayable": "4000000",
+            "us-gaap:increasedecreaseindeferredrevenue": "497000000",
+            "us-gaap:netcashprovidedbyusedinoperatingactivities": "4422000000",
+            "us-gaap:paymentstoacquireshortterminvestments": "700000000",
+            "us-gaap:proceedsfrommaturitiesprepaymentsandcallsofshortterminvestments": "700000000",
+            "us-gaap:proceedsfromsaleofshortterminvestments": "86000000",
+            "us-gaap:paymentstoacquirebusinessesnetofcashacquired": "101000000",
+            "us-gaap:paymentstoacquirepropertyplantandequipment": "395000000",
+            "us-gaap:paymentstoacquirelongterminvestments": "49000000",
+            "us-gaap:proceedsfromsaleoflongterminvestments": "3000000",
+            "us-gaap:netcashprovidedbyusedininvestingactivities": "-456000000",
+            "us-gaap:paymentsforrepurchaseofcommonstock": "2750000000",
+            "us-gaap:proceedsfromsaleoftreasurystock": "233000000",
+            "us-gaap:paymentsrelatedtotaxwithholdingforsharebasedcompensation": "440000000",
+            "us-gaap:proceedsfromissuanceofdebt": "0",
+            "us-gaap:repaymentsoflongtermdebt": "0",
+            "us-gaap:proceedsfrompaymentsforotherfinancingactivities": "11000000",
+            "us-gaap:netcashprovidedbyusedinfinancingactivities": "-2946000000",
+            "us-gaap:effectofexchangerateoncashandcashequivalents": "-13000000"
+        }
+    },
+    "CashCashEquivalentsandShortTermInvestmentsDetails2": {
+        "I20211203": {
+            "us-gaap:availableforsalesecuritiesdebtmaturitieswithinoneyearfairvalue": "772000000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesnextonetotwoyearsfairvalue": "693000000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesnexttwotothreeyearsfairvalue": "443000000",
+            "adbe:availableforsalesecuritiesdebtmaturitiesafterthreeyearsfairvalue": "46000000",
+            "us-gaap:availableforsalesecuritiesdebtmaturitiessinglematuritydate": "1954000000"
+        }
+    },
+    "PropertyandEquipmentDetails": {
+        "I20211203": {
+            "us-gaap:propertyplantandequipmentnet": "1480000000"
+        },
+        "I20201127": {
+            "us-gaap:propertyplantandequipmentnet": "123000000"
+        }
+    },
+    "GoodwillandOtherIntangiblesDetails2": {
+        "I20211203": {
+            "us-gaap:finitelivedintangibleassetsamortizationexpensenexttwelvemonths": "398000000",
+            "us-gaap:finitelivedintangibleassetsamortizationexpenseyeartwo": "367000000",
+            "us-gaap:finitelivedintangibleassetsamortizationexpenseyearthree": "322000000",
+            "us-gaap:finitelivedintangibleassetsamortizationexpenseyearfour": "286000000",
+            "us-gaap:finitelivedintangibleassetsamortizationexpenseyearfive": "142000000",
+            "us-gaap:finitelivedintangibleassetsamortizationexpenseafteryearfive": "286000000",
+            "adbe:totalamortizationexpenseexpectedtoberecognized": "1801000000"
+        }
+    },
+    "AccruedExpensesDetails": {
+        "I20211203": {
+            "us-gaap:accruedliabilitiescurrent": "1736000000",
+            "us-gaap:contractwithcustomerrefundliability": "128000000",
+            "us-gaap:employeerelatedliabilitiescurrent": "490000000",
+            "us-gaap:accruedbonusescurrent": "455000000",
+            "us-gaap:salesandexcisetaxpayablecurrent": "119000000",
+            "us-gaap:accruedmarketingcostscurrent": "96000000",
+            "us-gaap:accruedroyaltiescurrent": "40000000",
+            "adbe:accruedhostingfees": "37000000",
+            "us-gaap:interestpayablecurrent": "34000000",
+            "us-gaap:otheraccruedliabilitiescurrent": "337000000"
+        },
+        "I20201127": {
+            "us-gaap:accruedliabilitiescurrent": "1422000000",
+            "us-gaap:contractwithcustomerrefundliability": "127000000",
+            "us-gaap:employeerelatedliabilitiescurrent": "375000000",
+            "us-gaap:accruedbonusescurrent": "330000000",
+            "us-gaap:salesandexcisetaxpayablecurrent": "95000000",
+            "us-gaap:accruedmarketingcostscurrent": "134000000",
+            "us-gaap:accruedroyaltiescurrent": "34000000",
+            "adbe:accruedhostingfees": "66000000",
+            "us-gaap:interestpayablecurrent": "32000000",
+            "us-gaap:otheraccruedliabilitiescurrent": "229000000"
+        }
+    },
+    "IncomeTaxesDetails1": {
+        "D20201128-20211203": {
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "5705000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesdomestic": "1736000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesforeign": "3969000000"
+        },
+        "D20191130-20201127": {
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "4176000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesdomestic": "1090000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesforeign": "3086000000"
+        },
+        "D20181201-20191129": {
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesextraordinaryitemsnoncontrollinginterest": "3205000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesdomestic": "438000000",
+            "us-gaap:incomelossfromcontinuingoperationsbeforeincometaxesforeign": "2767000000"
+        }
+    },
+    "IncomeTaxesDetails2": {
+        "D20201128-20211203": {
+            "us-gaap:incometaxexpensebenefit": "883000000",
+            "us-gaap:currentfederaltaxexpensebenefit": "391000000",
+            "us-gaap:currentforeigntaxexpensebenefit": "197000000",
+            "us-gaap:currentstateandlocaltaxexpensebenefit": "103000000",
+            "us-gaap:currentincometaxexpensebenefit": "691000000",
+            "us-gaap:deferredfederalincometaxexpensebenefit": "-148000000",
+            "us-gaap:deferredforeignincometaxexpensebenefit": "359000000",
+            "us-gaap:deferredstateandlocalincometaxexpensebenefit": "-19000000",
+            "us-gaap:deferredincometaxexpensebenefit": "192000000"
+        },
+        "D20191130-20201127": {
+            "us-gaap:incometaxexpensebenefit": "-1084000000",
+            "us-gaap:currentfederaltaxexpensebenefit": "119000000",
+            "us-gaap:currentforeigntaxexpensebenefit": "222000000",
+            "us-gaap:currentstateandlocaltaxexpensebenefit": "79000000",
+            "us-gaap:currentincometaxexpensebenefit": "420000000",
+            "us-gaap:deferredfederalincometaxexpensebenefit": "-123000000",
+            "us-gaap:deferredforeignincometaxexpensebenefit": "-1313000000",
+            "us-gaap:deferredstateandlocalincometaxexpensebenefit": "-68000000",
+            "us-gaap:deferredincometaxexpensebenefit": "-1504000000"
+        },
+        "D20181201-20191129": {
+            "us-gaap:incometaxexpensebenefit": "254000000",
+            "us-gaap:currentfederaltaxexpensebenefit": "7000000",
+            "us-gaap:currentforeigntaxexpensebenefit": "211000000",
+            "us-gaap:currentstateandlocaltaxexpensebenefit": "31000000",
+            "us-gaap:currentincometaxexpensebenefit": "249000000",
+            "us-gaap:deferredfederalincometaxexpensebenefit": "23000000",
+            "us-gaap:deferredforeignincometaxexpensebenefit": "-12000000",
+            "us-gaap:deferredstateandlocalincometaxexpensebenefit": "-6000000",
+            "us-gaap:deferredincometaxexpensebenefit": "5000000"
+        }
+    },
+    "IncomeTaxesDetails3": {
+        "D20201128-20211203": {
+            "us-gaap:incometaxexpensebenefit": "883000000",
+            "us-gaap:incometaxreconciliationincometaxexpensebenefitatfederalstatutoryincometaxrate": "1198000000",
+            "adbe:effectiveincometaxratereconciliationintraentityiptransferamount": "0",
+            "us-gaap:incometaxreconciliationforeignincometaxratedifferential": "-23000000",
+            "us-gaap:incometaxreconciliationnondeductibleexpensesharebasedcompensationcost": "-157000000",
+            "us-gaap:incometaxreconciliationtaxcredits": "149000000",
+            "us-gaap:incometaxreconciliationtaxsettlementsdomestic": "-58000000",
+            "us-gaap:incometaxreconciliationstateandlocalincometaxes": "66000000",
+            "us-gaap:incometaxreconciliationotheradjustments": "6000000"
+        },
+        "D20191130-20201127": {
+            "us-gaap:incometaxexpensebenefit": "-1084000000",
+            "us-gaap:incometaxreconciliationincometaxexpensebenefitatfederalstatutoryincometaxrate": "877000000",
+            "adbe:effectiveincometaxratereconciliationintraentityiptransferamount": "-1360000000",
+            "us-gaap:incometaxreconciliationforeignincometaxratedifferential": "-337000000",
+            "us-gaap:incometaxreconciliationnondeductibleexpensesharebasedcompensationcost": "-154000000",
+            "us-gaap:incometaxreconciliationtaxcredits": "101000000",
+            "us-gaap:incometaxreconciliationtaxsettlementsdomestic": "-23000000",
+            "us-gaap:incometaxreconciliationstateandlocalincometaxes": "10000000",
+            "us-gaap:incometaxreconciliationotheradjustments": "4000000"
+        },
+        "D20181201-20191129": {
+            "us-gaap:incometaxexpensebenefit": "254000000",
+            "us-gaap:incometaxreconciliationincometaxexpensebenefitatfederalstatutoryincometaxrate": "673000000",
+            "adbe:effectiveincometaxratereconciliationintraentityiptransferamount": "0",
+            "us-gaap:incometaxreconciliationforeignincometaxratedifferential": "-224000000",
+            "us-gaap:incometaxreconciliationnondeductibleexpensesharebasedcompensationcost": "-86000000",
+            "us-gaap:incometaxreconciliationtaxcredits": "100000000",
+            "us-gaap:incometaxreconciliationtaxsettlementsdomestic": "-39000000",
+            "us-gaap:incometaxreconciliationstateandlocalincometaxes": "24000000",
+            "us-gaap:incometaxreconciliationotheradjustments": "6000000"
+        }
+    },
+    "IncomeTaxesDetails4": {
+        "I20211203": {
+            "us-gaap:deferredtaxassetintraentitytransferassetotherthaninventory": "997000000",
+            "adbe:deferredtaxassetscapitalizedexpenses": "355000000",
+            "us-gaap:deferredtaxassetstaxcreditcarryforwards": "287000000",
+            "adbe:deferredtaxassetsleaseliabilities": "122000000",
+            "us-gaap:deferredtaxassetsoperatinglosscarryforwards": "131000000",
+            "us-gaap:deferredtaxassetstaxdeferredexpensecompensationandbenefitssharebasedcompensationcost": "91000000",
+            "us-gaap:deferredtaxassetstaxdeferredexpensereservesandaccrualsreserves": "89000000",
+            "adbe:benefitsrelatingtotaxpositions": "39000000",
+            "us-gaap:deferredtaxassetsother": "46000000",
+            "us-gaap:deferredtaxassetsgross": "2157000000",
+            "us-gaap:deferredtaxassetsvaluationallowance": "335000000",
+            "us-gaap:deferredtaxassetsnet": "1822000000",
+            "us-gaap:deferredtaxliabilitiesgoodwillandintangibleassetsintangibleassets": "447000000",
+            "us-gaap:deferredtaxliabilitiesleasingarrangements": "111000000",
+            "us-gaap:deferredtaxliabilitiesprepaidexpenses": "123000000",
+            "us-gaap:deferredtaxliabilitiespropertyplantandequipment": "49000000",
+            "us-gaap:deferredtaxliabilitiesundistributedforeignearnings": "12000000",
+            "us-gaap:deferredincometaxliabilities": "742000000",
+            "adbe:netdeferredtaxassetsliabilities": "1080000000"
+        },
+        "I20201127": {
+            "us-gaap:deferredtaxassetintraentitytransferassetotherthaninventory": "1368000000",
+            "adbe:deferredtaxassetscapitalizedexpenses": "292000000",
+            "us-gaap:deferredtaxassetstaxcreditcarryforwards": "218000000",
+            "adbe:deferredtaxassetsleaseliabilities": "131000000",
+            "us-gaap:deferredtaxassetsoperatinglosscarryforwards": "54000000",
+            "us-gaap:deferredtaxassetstaxdeferredexpensecompensationandbenefitssharebasedcompensationcost": "92000000",
+            "us-gaap:deferredtaxassetstaxdeferredexpensereservesandaccrualsreserves": "71000000",
+            "adbe:benefitsrelatingtotaxpositions": "44000000",
+            "us-gaap:deferredtaxassetsother": "37000000",
+            "us-gaap:deferredtaxassetsgross": "2307000000",
+            "us-gaap:deferredtaxassetsvaluationallowance": "276000000",
+            "us-gaap:deferredtaxassetsnet": "2031000000",
+            "us-gaap:deferredtaxliabilitiesgoodwillandintangibleassetsintangibleassets": "330000000",
+            "us-gaap:deferredtaxliabilitiesleasingarrangements": "131000000",
+            "us-gaap:deferredtaxliabilitiesprepaidexpenses": "107000000",
+            "us-gaap:deferredtaxliabilitiespropertyplantandequipment": "52000000",
+            "us-gaap:deferredtaxliabilitiesundistributedforeignearnings": "51000000",
+            "us-gaap:deferredincometaxliabilities": "671000000",
+            "adbe:netdeferredtaxassetsliabilities": "1360000000"
+        }
+    },
+    "AccumulatedOtherComprehensiveIncomeLossDetails1": {
+        "D20201128-20211203": {
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossbeforereclassificationaftertax": "69000000",
+            "us-gaap:othercomprehensiveincomelosscashflowhedgegainlossreclassificationaftertax": "-20000000",
+            "us-gaap:othercomprehensiveincomelossforeigncurrencytransactionandtranslationadjustmentnetoftax": "-60000000",
+            "adbe:netunrealizedgainslossesonavailableforsalesecuritiesincreasedecreasenetoftax": "-8000000",
+            "adbe:netunrealizedgainslossesonavailableforsalesecuritiesreclassificationadjustmentsnetoftax": "0",
+            "us-gaap:othercomprehensiveincomelossbeforereclassificationsnetoftax": "1000000",
+            "us-gaap:reclassificationfromaccumulatedothercomprehensiveincomecurrentperiodnetoftax": "-20000000"
+        }
+    },
+    "NetIncomePerShareDetails": {
+        "D20201128-20211203": {
+            "us-gaap:weightedaveragenumberofsharesoutstandingbasic": "477300000",
+            "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": "481000000.0",
+            "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": "3700000"
+        },
+        "D20191130-20201127": {
+            "us-gaap:weightedaveragenumberofsharesoutstandingbasic": "480900000",
+            "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": "485500000",
+            "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": "4600000"
+        },
+        "D20181201-20191129": {
+            "us-gaap:weightedaveragenumberofsharesoutstandingbasic": "486300000",
+            "us-gaap:weightedaveragenumberofdilutedsharesoutstanding": "491600000",
+            "us-gaap:incrementalcommonsharesattributabletosharebasedpaymentarrangements": "5300000"
+        }
+    },
+    "CommitmentsandContingenciesDetails": {
+        "I20211203": {
+            "us-gaap:recordedunconditionalpurchaseobligationduewithinoneyear": "711000000",
+            "us-gaap:recordedunconditionalpurchaseobligationdueinsecondyear": "471000000",
+            "us-gaap:recordedunconditionalpurchaseobligationdueinthirdyear": "174000000",
+            "us-gaap:recordedunconditionalpurchaseobligationdueinfourthyear": "18000000",
+            "us-gaap:recordedunconditionalpurchaseobligationdueinfifthyear": "7000000",
+            "us-gaap:recordedunconditionalpurchaseobligationdueafterfifthyear": "0",
+            "us-gaap:recordedunconditionalpurchaseobligation": "1381000000"
+        }
+    },
+    "LeasesDetails2": {
+        "I20211203": {
+            "us-gaap:lesseeoperatingleaseliabilitypaymentsduenexttwelvemonths": "108000000",
+            "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyeartwo": "87000000",
+            "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearthree": "68000000",
+            "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearfour": "65000000",
+            "us-gaap:lesseeoperatingleaseliabilitypaymentsdueyearfive": "60000000",
+            "us-gaap:lesseeoperatingleaseliabilitypaymentsdueafteryearfive": "216000000",
+            "us-gaap:lesseeoperatingleaseliabilitypaymentsdue": "604000000"
+        }
+    },
+    "NonOperatingIncomeExpenseDetails": {
+        "D20201128-20211203": {
+            "us-gaap:gainlossoninvestments": "16000000",
+            "us-gaap:othernonoperatingincome": "0",
+            "adbe:realizedinvestmentgains": "9000000",
+            "adbe:realizedinvestmentlosses": "0",
+            "adbe:unrealizedinvestmentgainslossesnet": "7000000",
+            "us-gaap:investmentincomeinterest": "17000000",
+            "us-gaap:foreigncurrencytransactiongainlossbeforetax": "-17000000",
+            "us-gaap:debtsecuritiesavailableforsalerealizedgain": "0"
+        },
+        "D20191130-20201127": {
+            "us-gaap:gainlossoninvestments": "13000000",
+            "us-gaap:othernonoperatingincome": "42000000",
+            "adbe:realizedinvestmentgains": "5000000",
+            "adbe:realizedinvestmentlosses": "1000000",
+            "adbe:unrealizedinvestmentgainslossesnet": "9000000",
+            "us-gaap:investmentincomeinterest": "43000000",
+            "us-gaap:foreigncurrencytransactiongainlossbeforetax": "-2000000",
+            "us-gaap:debtsecuritiesavailableforsalerealizedgain": "1000000"
+        },
+        "D20181201-20191129": {
+            "us-gaap:gainlossoninvestments": "52000000",
+            "us-gaap:othernonoperatingincome": "42000000",
+            "adbe:realizedinvestmentgains": "46000000",
+            "adbe:realizedinvestmentlosses": "0",
+            "adbe:unrealizedinvestmentgainslossesnet": "6000000",
+            "us-gaap:investmentincomeinterest": "68000000",
+            "us-gaap:foreigncurrencytransactiongainlossbeforetax": "-26000000",
+            "us-gaap:debtsecuritiesavailableforsalerealizedgain": "0"
+        }
+    }
+}
