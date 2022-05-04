@@ -16,7 +16,7 @@ company for the specified date range.
 - For unavailable data, the participating team should choose appropriate alternative resources.
 - Table of Content: Break down the lengthy SEC filings into separate sections, each of which
 deals with different aspects of a company's reporting, making it easy to navigate.
-- ML model to be trained and implemented in the web tool for any chosen usage - Example:
+- ML model to be trained and implemented in the web tool for any chosen usage
 - Analyze the Annual report for the given time frame to get the sentiment from the SEC filings to
 assess the company's situation.
 - Come up with a single call API that creates a dataset in a few lines of code for any duration of
