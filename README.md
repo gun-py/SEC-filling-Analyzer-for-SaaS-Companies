@@ -1,4 +1,4 @@
-# SEC-filling-Analyzer-for-SaaS-Companies
+# SEC Filling Analyzer for SaaS Companies
 
 SaaS companies are customer-driven and are heavily dependent on their customer base. There are a set of metrics that can showcase the health of the SaaS companies and their aspects. These metrics and numbers are not readily available on publicly reported SEC Filings and need to be chalked out from the available forms (10-K, 10-Q, 8-K, etc.). Accessing these metrics can be of tremendous value to the right users. Forms that are being filed are very detailed and take time to analyze. For analyzing a form, the primary task is chalking out the key SaaS numbers. There is a need to have simplified dashboards to have a quick overview of Key SaaS Goals.
 
